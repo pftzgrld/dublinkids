@@ -132,3 +132,19 @@ in each card's FULL url second segment and its 'Add to calendar' link
 (`QRY=IRN(<irn>)`). `ENQ/WPAC/EVSESENQ?QRY=IRN(<irn>)` resolves to that exact
 event in any fresh session (a 1-result search showing the event). The scraper
 now builds these, so every Wicklow event deep-links to itself.
+
+## The Ark (added later)
+
+ark.ie/events lists /events/view/<slug>; browser-UA curl works. Detail pages
+have a 'Dates & Times' block, age range, price, and a Ticketsolve booking link
+for ticketed events. Date phrasing is irregular — camp blocks
+('13-17 Jul or 20-24 July'), exhibition/installation runs ('Open Wed – Sat'
+or 'Opening Every Saturday' across a date span), one-off dated performances.
+The scraper covers each shape and clips to the horizon; the past first phase
+of a multi-phase run (e.g. June Saturdays before the July Wed-Sat run) just
+falls away. Excludes school / on-demand / streaming / broadband / teacher /
+Christmas events. Most of the Ark's programme is Sep-Dec (out of the 45-day
+horizon) and will appear automatically as the horizon advances. The Ark books
+via ark.ticketsolve.com — Ticketsolve's /ticketbooth/shows list renders empty
+to a scrape, so booking links come from the detail pages, not a Ticketsolve
+sweep.

@@ -1,27 +1,5 @@
 [
  {
-  "date": "20 Jul",
-  "iso": "2026-07-20",
-  "day": "Mon",
-  "time": "10:00–14:00",
-  "venue": "The Ark",
-  "activity": "Dragon Heroes Animation (day 1 of 5)",
-  "cat": "Camp",
-  "ages": "9–12",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "€220 / €190",
-  "link": "https://ark.ie/events/view/lego-animation-summer-camps-2",
-  "area": "Dublin City",
-  "ageTags": [
-   "9to12"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "manual"
- },
- {
   "date": "21 Jul",
   "iso": "2026-07-21",
   "day": "Tue",
@@ -49,21 +27,21 @@
   "day": "Tue",
   "time": "10:00–14:00",
   "venue": "The Ark",
-  "activity": "Dragon Heroes Animation (day 2 of 5)",
+  "activity": "Five-Day Summer Camps: Dragon Heroes Animation 13",
   "cat": "Camp",
-  "ages": "9–12",
+  "ages": "9+",
   "status": "Available",
   "book": "Book online",
-  "cost": "€220 / €190",
-  "link": "https://ark.ie/events/view/lego-animation-summer-camps-2",
+  "cost": "€220/€190",
+  "link": "https://ark.ticketsolve.com/ticketbooth/shows/873663002",
   "area": "Dublin City",
   "ageTags": [
-   "9to12"
+   "any"
   ],
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "ark"
  },
  {
   "date": "21 Jul",
@@ -380,21 +358,21 @@
   "day": "Wed",
   "time": "10:00–14:00",
   "venue": "The Ark",
-  "activity": "Dragon Heroes Animation (day 3 of 5)",
+  "activity": "Five-Day Summer Camps: Dragon Heroes Animation 13",
   "cat": "Camp",
-  "ages": "9–12",
+  "ages": "9+",
   "status": "Available",
   "book": "Book online",
-  "cost": "€220 / €190",
-  "link": "https://ark.ie/events/view/lego-animation-summer-camps-2",
+  "cost": "€220/€190",
+  "link": "https://ark.ticketsolve.com/ticketbooth/shows/873663002",
   "area": "Dublin City",
   "ageTags": [
-   "9to12"
+   "any"
   ],
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "ark"
  },
  {
   "date": "22 Jul",
@@ -417,6 +395,28 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "22 Jul",
+  "iso": "2026-07-22",
+  "day": "Wed",
+  "time": "10:30–13:00",
+  "venue": "The Ark",
+  "activity": "Exhibition: My Father’s Dragon",
+  "cat": "Show",
+  "ages": "4+",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://ark.ie/events/view/my-fathers-dragon",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "ark"
  },
  {
   "date": "22 Jul",
@@ -754,21 +754,21 @@
   "day": "Thu",
   "time": "10:00–14:00",
   "venue": "The Ark",
-  "activity": "Dragon Heroes Animation (day 4 of 5)",
+  "activity": "Five-Day Summer Camps: Dragon Heroes Animation 13",
   "cat": "Camp",
-  "ages": "9–12",
+  "ages": "9+",
   "status": "Available",
   "book": "Book online",
-  "cost": "€220 / €190",
-  "link": "https://ark.ie/events/view/lego-animation-summer-camps-2",
+  "cost": "€220/€190",
+  "link": "https://ark.ticketsolve.com/ticketbooth/shows/873663002",
   "area": "Dublin City",
   "ageTags": [
-   "9to12"
+   "any"
   ],
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "ark"
  },
  {
   "date": "23 Jul",
@@ -835,6 +835,28 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "23 Jul",
+  "iso": "2026-07-23",
+  "day": "Thu",
+  "time": "10:30–13:00",
+  "venue": "The Ark",
+  "activity": "Exhibition: My Father’s Dragon",
+  "cat": "Show",
+  "ages": "4+",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://ark.ie/events/view/my-fathers-dragon",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "ark"
  },
  {
   "date": "23 Jul",
@@ -1194,21 +1216,21 @@
   "day": "Fri",
   "time": "10:00–14:00",
   "venue": "The Ark",
-  "activity": "Dragon Heroes Animation (day 5 of 5)",
+  "activity": "Five-Day Summer Camps: Dragon Heroes Animation 13",
   "cat": "Camp",
-  "ages": "9–12",
+  "ages": "9+",
   "status": "Available",
   "book": "Book online",
-  "cost": "€220 / €190",
-  "link": "https://ark.ie/events/view/lego-animation-summer-camps-2",
+  "cost": "€220/€190",
+  "link": "https://ark.ticketsolve.com/ticketbooth/shows/873663002",
   "area": "Dublin City",
   "ageTags": [
-   "9to12"
+   "any"
   ],
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "ark"
  },
  {
   "date": "24 Jul",
@@ -1253,6 +1275,28 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "24 Jul",
+  "iso": "2026-07-24",
+  "day": "Fri",
+  "time": "10:30–13:00",
+  "venue": "The Ark",
+  "activity": "Exhibition: My Father’s Dragon",
+  "cat": "Show",
+  "ages": "4+",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://ark.ie/events/view/my-fathers-dragon",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "ark"
  },
  {
   "date": "24 Jul",
@@ -1407,6 +1451,50 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "25 Jul",
+  "iso": "2026-07-25",
+  "day": "Sat",
+  "time": "10:30–13:00",
+  "venue": "The Ark",
+  "activity": "Babies @ The Ark: Excitedly Resting",
+  "cat": "Show",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://ark.ie/events/view/excitedly-resting-installation-2",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "ark"
+ },
+ {
+  "date": "25 Jul",
+  "iso": "2026-07-25",
+  "day": "Sat",
+  "time": "10:30–13:00",
+  "venue": "The Ark",
+  "activity": "Exhibition: My Father’s Dragon",
+  "cat": "Show",
+  "ages": "4+",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://ark.ie/events/view/my-fathers-dragon",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "ark"
  },
  {
   "date": "25 Jul",
@@ -2296,6 +2384,28 @@
   "date": "29 Jul",
   "iso": "2026-07-29",
   "day": "Wed",
+  "time": "10:30–13:00",
+  "venue": "The Ark",
+  "activity": "Exhibition: My Father’s Dragon",
+  "cat": "Show",
+  "ages": "4+",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://ark.ie/events/view/my-fathers-dragon",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "ark"
+ },
+ {
+  "date": "29 Jul",
+  "iso": "2026-07-29",
+  "day": "Wed",
   "time": "11:00–13:00",
   "venue": "NMI Archaeology, Kildare St",
   "activity": "Drop-In: Hunters, Foragers and Farmers! Stone Age Handling Workshop",
@@ -2715,6 +2825,28 @@
   "date": "30 Jul",
   "iso": "2026-07-30",
   "day": "Thu",
+  "time": "10:30–13:00",
+  "venue": "The Ark",
+  "activity": "Exhibition: My Father’s Dragon",
+  "cat": "Show",
+  "ages": "4+",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://ark.ie/events/view/my-fathers-dragon",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "ark"
+ },
+ {
+  "date": "30 Jul",
+  "iso": "2026-07-30",
+  "day": "Thu",
   "time": "11:00",
   "venue": "Ringsend Library",
   "activity": "Ringsend Library Toddler Group",
@@ -3112,6 +3244,28 @@
   "date": "31 Jul",
   "iso": "2026-07-31",
   "day": "Fri",
+  "time": "10:30–13:00",
+  "venue": "The Ark",
+  "activity": "Exhibition: My Father’s Dragon",
+  "cat": "Show",
+  "ages": "4+",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://ark.ie/events/view/my-fathers-dragon",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "ark"
+ },
+ {
+  "date": "31 Jul",
+  "iso": "2026-07-31",
+  "day": "Fri",
   "time": "11:00",
   "venue": "Central Library",
   "activity": "Children's Friday Films",
@@ -3139,7 +3293,7 @@
   "activity": "Bring Photon to Life (Ages 10–12)",
   "cat": "Library",
   "ages": "10–12",
-  "status": "Available",
+  "status": "Sold out",
   "book": "Book online",
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/bring-photon-to-life-ages-1012-tickets-1994413571681",
@@ -3149,7 +3303,7 @@
   ],
   "free": true,
   "dropin": false,
-  "ok": true,
+  "ok": false,
   "src": "fingal"
  },
  {
@@ -3261,6 +3415,50 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "1 Aug",
+  "iso": "2026-08-01",
+  "day": "Sat",
+  "time": "10:30–13:00",
+  "venue": "The Ark",
+  "activity": "Babies @ The Ark: Excitedly Resting",
+  "cat": "Show",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://ark.ie/events/view/excitedly-resting-installation-2",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "ark"
+ },
+ {
+  "date": "1 Aug",
+  "iso": "2026-08-01",
+  "day": "Sat",
+  "time": "10:30–13:00",
+  "venue": "The Ark",
+  "activity": "Exhibition: My Father’s Dragon",
+  "cat": "Show",
+  "ages": "4+",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://ark.ie/events/view/my-fathers-dragon",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "ark"
  },
  {
   "date": "1 Aug",

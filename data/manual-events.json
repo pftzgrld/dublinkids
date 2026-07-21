@@ -1,74 +1,5 @@
 [
  {
-  "date": "20 Jul",
-  "iso": "2026-07-20",
-  "day": "Mon",
-  "time": "10:00–14:00",
-  "venue": "The Ark",
-  "activity": "Dragon Heroes Animation (day 1 of 5)",
-  "cat": "Camp",
-  "ages": "9–12",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "€220 / €190",
-  "link": "https://ark.ie/events/view/lego-animation-summer-camps-2",
-  "area": "Dublin City",
-  "ageTags": [
-   "9to12"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "manual",
-  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
- },
- {
-  "date": "21 Jul",
-  "iso": "2026-07-21",
-  "day": "Tue",
-  "time": "10:00–14:00",
-  "venue": "The Ark",
-  "activity": "Dragon Heroes Animation (day 2 of 5)",
-  "cat": "Camp",
-  "ages": "9–12",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "€220 / €190",
-  "link": "https://ark.ie/events/view/lego-animation-summer-camps-2",
-  "area": "Dublin City",
-  "ageTags": [
-   "9to12"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "manual",
-  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
- },
- {
-  "date": "22 Jul",
-  "iso": "2026-07-22",
-  "day": "Wed",
-  "time": "10:00–14:00",
-  "venue": "The Ark",
-  "activity": "Dragon Heroes Animation (day 3 of 5)",
-  "cat": "Camp",
-  "ages": "9–12",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "€220 / €190",
-  "link": "https://ark.ie/events/view/lego-animation-summer-camps-2",
-  "area": "Dublin City",
-  "ageTags": [
-   "9to12"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "manual",
-  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
- },
- {
   "date": "22 Jul",
   "iso": "2026-07-22",
   "day": "Wed",
@@ -90,29 +21,6 @@
   "ok": true,
   "src": "manual",
   "summary": "A four-day art camp for teens exploring drawing, painting and mixed media."
- },
- {
-  "date": "23 Jul",
-  "iso": "2026-07-23",
-  "day": "Thu",
-  "time": "10:00–14:00",
-  "venue": "The Ark",
-  "activity": "Dragon Heroes Animation (day 4 of 5)",
-  "cat": "Camp",
-  "ages": "9–12",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "€220 / €190",
-  "link": "https://ark.ie/events/view/lego-animation-summer-camps-2",
-  "area": "Dublin City",
-  "ageTags": [
-   "9to12"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "manual",
-  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "23 Jul",
@@ -159,29 +67,6 @@
   "ok": true,
   "src": "manual",
   "summary": "A four-day art camp for teens exploring drawing, painting and mixed media."
- },
- {
-  "date": "24 Jul",
-  "iso": "2026-07-24",
-  "day": "Fri",
-  "time": "10:00–14:00",
-  "venue": "The Ark",
-  "activity": "Dragon Heroes Animation (day 5 of 5)",
-  "cat": "Camp",
-  "ages": "9–12",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "€220 / €190",
-  "link": "https://ark.ie/events/view/lego-animation-summer-camps-2",
-  "area": "Dublin City",
-  "ageTags": [
-   "9to12"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "manual",
-  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "24 Jul",
