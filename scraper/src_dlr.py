@@ -143,6 +143,6 @@ def scrape():
                 iso=iso, time_str=d["time"], venue=d["venue"],
                 activity=d["title"], cat="Library", ages=d["ages"],
                 status=d["status"], book=d["book"], cost=d["cost"],
-                link=d["link"], area="dlr", source="dlr",
+                link=d["link"], area="DLR", source="dlr",
                 summary=d.get("summary", "")))
     return rows

@@ -164,7 +164,6 @@ footer{margin-top:34px;color:var(--muted);font-size:12.5px;text-align:center;lin
   <div class="count"><b id="n">0</b> <span id="nword">activities</span></div>
   <button class="reset" id="reset" hidden>Clear filters</button>
 </div>
-<p class="hint" id="pasthint" hidden></p>
 
 <div id="results"></div>
 
@@ -178,9 +177,9 @@ let EVENTS = [];
 const TODAY = new Date().toISOString().slice(0,10);
 const CATS = ["Museum","Library","Workshop","Camp","Show","Park"];
 const AGES = [["under5","Under 5"],["5to8","5–8"],["9to12","9–12"],["teen","Teens"]];
-const AREAS = ["Dublin City","Fingal","dlr","South Dublin","North Wicklow"];
-const TOGS = [["free","Free only"],["dropin","Just show up"],["hideout","Hide booked-out"],["showpast","Show earlier dates"]];
-const state = {q:"", cats:new Set(), ages:new Set(), areas:new Set(), free:false, dropin:false, hideout:false, showpast:false, calYM:null};
+const AREAS = ["Dublin City","Fingal","DLR","South Dublin","North Wicklow"];
+const TOGS = [["free","Free only"],["dropin","Just show up"],["hideout","Hide booked-out"]];
+const state = {q:"", cats:new Set(), ages:new Set(), areas:new Set(), free:false, dropin:false, hideout:false, calYM:null};
 
 function chip(row,label,key,val,dot){
   const b=document.createElement("button");
@@ -207,7 +206,7 @@ const panel=document.getElementById("panel"), fbtn=document.getElementById("filt
 fbtn.addEventListener("click",()=>{const o=panel.classList.toggle("open");fbtn.setAttribute("aria-expanded",String(o));});
 document.getElementById("q").addEventListener("input",e=>{state.q=e.target.value.toLowerCase();render();});
 document.getElementById("reset").addEventListener("click",()=>{
-  state.q="";state.cats.clear();state.ages.clear();state.areas.clear();state.free=state.dropin=state.hideout=state.showpast=false;
+  state.q="";state.cats.clear();state.ages.clear();state.areas.clear();state.free=state.dropin=state.hideout=false;
   document.getElementById("q").value="";
   document.querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed","false"));
   render();
@@ -237,7 +236,7 @@ document.getElementById("calnext").addEventListener("click",()=>shiftMonth(1));
 function statusClass(s){s=s.toLowerCase(); if(s.includes("sold"))return"s-crit"; if(s.includes("full"))return"s-warn"; return"";}
 function activeCount(){return state.cats.size+state.ages.size+state.areas.size+(state.free?1:0)+(state.dropin?1:0)+(state.hideout?1:0);}
 function match(e){
-  if(!state.showpast && e.iso < TODAY) return false;
+  if(e.iso < TODAY) return false;
   if(state.q && !(e.activity.toLowerCase().includes(state.q)||e.venue.toLowerCase().includes(state.q))) return false;
   if(state.cats.size && !state.cats.has(e.cat)) return false;
   if(state.areas.size && !state.areas.has(e.area)) return false;
@@ -339,12 +338,7 @@ function render(){
   document.getElementById("nword").textContent=list.length===1?"activity":"activities";
   const ac=activeCount(), badge=document.getElementById("fbadge");
   badge.hidden=ac===0; badge.textContent=ac;
-  document.getElementById("reset").hidden = ac===0 && !state.q && !state.showpast;
-  const pastN=EVENTS.filter(e=>e.iso<TODAY).length;
-  const hint=document.getElementById("pasthint");
-  if(!state.showpast && pastN){hint.hidden=false; hint.innerHTML=`Showing upcoming only. <a id="sp">Show ${pastN} earlier ${pastN===1?"event":"events"}</a>`;
-    hint.querySelector("#sp").onclick=()=>{state.showpast=true;document.querySelector('[data-key="showpast"]').setAttribute("aria-pressed","true");render();};}
-  else hint.hidden=true;
+  document.getElementById("reset").hidden = ac===0 && !state.q;
   results.innerHTML="";
   if(!list.length){results.innerHTML='<div class="empty">Nothing matches those filters. Try clearing a few.</div>';}
   else renderList(list);
