@@ -53,3 +53,25 @@ bookable card in the UI.
 ## Recurring events
 Store as **rules** (venue + weekday + time + date-range + link), expand to dated rows at build
 time. Do NOT store 42 duplicate rows — that was a prototype shortcut.
+
+## Learned in the 21 Jul build (v1 scraper)
+
+- **dublincity.ie/events** is server-rendered after all — event links are ABSOLUTE
+  (`https://www.dublincity.ie/events/<slug>`), which is why relative-href greps miss them.
+  Filter with `?type=184` (Kids & Family Fun) and `?type=223` (Library Event, keyword-filter
+  to kids), paginate `&page=N`. Detail pages: venue sits between the H1 and "Times & Dates";
+  the schedule is prose ("Every Friday in July at 11am") — parse as a rule and expand.
+- **Eventbrite JSON-LD** script tags carry `data-next-head=""` — match
+  `<script type="application/ld+json"[^>]*>`, not the bare tag. Plain `requests` with a
+  browser UA is fine (no TLS blocking). Availability: `offers[].availability` SoldOut /
+  LimitedAvailability.
+- **dlr detail pages** are noisy: phone numbers ("01 280 1147") and map coordinates
+  ("53.292419") look like times. Only accept times with an explicit am/pm marker there
+  (`parse_time_range(..., require_ampm=True)`).
+- **Time-range parsing generally:** require `:`/`.` between hour and minutes, validate
+  h≤23 m≤59, and only join two times with "&" when the "&" literally sits between them
+  in the source text (else "2pm & 3pm shows" logic corrupts plain ranges).
+- **Adult events leak** into the children's category listings on both dlr and Eventbrite —
+  exclude on title keywords (adult, 18+).
+- Hugh Lane 403s curl but works in a real browser — status polling for it must go through
+  the Playwright pass (CI only).

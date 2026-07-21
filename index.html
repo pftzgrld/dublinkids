@@ -127,6 +127,7 @@ footer{margin-top:34px;color:var(--muted);font-size:12.5px;text-align:center;lin
   <div class="panel" id="panel">
     <div class="chiprow" id="catrow"><span class="lbl">Type</span></div>
     <div class="chiprow" id="agerow"><span class="lbl">Age</span></div>
+    <div class="chiprow" id="arearow"><span class="lbl">Area</span></div>
     <div class="chiprow" id="togrow"><span class="lbl">Only</span></div>
   </div>
 </div>
@@ -160,8 +161,9 @@ let EVENTS = [];
 const TODAY = new Date().toISOString().slice(0,10);
 const CATS = ["Museum","Library","Workshop","Camp","Show","Park"];
 const AGES = [["under5","Under 5"],["5to8","5–8"],["9to12","9–12"],["teen","Teens"]];
+const AREAS = ["Dublin City","dlr","South Dublin","Bray / D.L."];
 const TOGS = [["free","Free only"],["dropin","Just show up"],["hideout","Hide booked-out"],["showpast","Show earlier dates"]];
-const state = {q:"", cats:new Set(), ages:new Set(), free:false, dropin:false, hideout:false, showpast:false, view:"list", selDay:null};
+const state = {q:"", cats:new Set(), ages:new Set(), areas:new Set(), free:false, dropin:false, hideout:false, showpast:false, view:"list", selDay:null};
 
 function chip(row,label,key,val,dot){
   const b=document.createElement("button");
@@ -175,18 +177,20 @@ function toggle(b,key,val){
   const on=b.getAttribute("aria-pressed")==="true"; b.setAttribute("aria-pressed",String(!on));
   if(key==="cat"){on?state.cats.delete(val):state.cats.add(val);}
   else if(key==="age"){on?state.ages.delete(val):state.ages.add(val);}
+  else if(key==="area"){on?state.areas.delete(val):state.areas.add(val);}
   else {state[key]=!on;}
   render();
 }
 CATS.forEach(c=>chip(catrow,c,"cat",c,`var(--c-${c})`));
 AGES.forEach(([v,l])=>chip(agerow,l,"age",v));
+AREAS.forEach(a=>chip(arearow,a,"area",a));
 TOGS.forEach(([k,l])=>chip(togrow,l,k));
 
 const panel=document.getElementById("panel"), fbtn=document.getElementById("filterbtn");
 fbtn.addEventListener("click",()=>{const o=panel.classList.toggle("open");fbtn.setAttribute("aria-expanded",String(o));});
 document.getElementById("q").addEventListener("input",e=>{state.q=e.target.value.toLowerCase();render();});
 document.getElementById("reset").addEventListener("click",()=>{
-  state.q="";state.cats.clear();state.ages.clear();state.free=state.dropin=state.hideout=state.showpast=false;
+  state.q="";state.cats.clear();state.ages.clear();state.areas.clear();state.free=state.dropin=state.hideout=state.showpast=false;
   document.getElementById("q").value="";
   document.querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed","false"));
   render();
@@ -205,11 +209,12 @@ document.getElementById("theme").addEventListener("click",()=>{
 });
 
 function statusClass(s){s=s.toLowerCase(); if(s.includes("sold"))return"s-crit"; if(s.includes("full"))return"s-warn"; return"";}
-function activeCount(){return state.cats.size+state.ages.size+(state.free?1:0)+(state.dropin?1:0)+(state.hideout?1:0);}
+function activeCount(){return state.cats.size+state.ages.size+state.areas.size+(state.free?1:0)+(state.dropin?1:0)+(state.hideout?1:0);}
 function match(e){
   if(!state.showpast && e.iso < TODAY) return false;
   if(state.q && !(e.activity.toLowerCase().includes(state.q)||e.venue.toLowerCase().includes(state.q))) return false;
   if(state.cats.size && !state.cats.has(e.cat)) return false;
+  if(state.areas.size && !state.areas.has(e.area)) return false;
   if(state.ages.size){const any=e.ageTags.includes("any"); if(!any && !e.ageTags.some(t=>state.ages.has(t))) return false;}
   if(state.free && !e.free) return false;
   if(state.dropin && !e.dropin) return false;
