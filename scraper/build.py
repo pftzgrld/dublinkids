@@ -46,10 +46,9 @@ def expand_recurring():
     return rows
 
 # module -> the `src` tags it owns (sdcc module also scrapes Fingal's org)
-# imma scraper is paused with the summary work — not registered yet
 SOURCES = {"dcc": (src_dcc, ["dcc"]), "dlr": (src_dlr, ["dlr"]),
            "nmi": (src_nmi, ["nmi"]), "sdcc": (src_sdcc, ["sdcc", "fingal"]),
-           "wicklow": (src_wicklow, ["wicklow"])}
+           "wicklow": (src_wicklow, ["wicklow"]), "imma": (src_imma, ["imma"])}
 
 
 def main():

@@ -20,17 +20,23 @@ PAGES = [
 ]
 KID_RX = re.compile(
     r"\bfamil|\bkids?\b|\bchild|all welcome|all ages|young people|\bteen|"
-    r"every age|with your family|for kids", re.I)
-ADULT_ONLY_RX = re.compile(r"\b18\+|adults only|over 18s?\b", re.I)
+    r"every age|with your family|for kids|\bbaby|\bbabies|\bparent|\btoddler|"
+    r"\bbuggy|new parents", re.I)
+ADULT_ONLY_RX = re.compile(r"\b18\+|adults only|over 18s?\b|\byoga\b|"
+                           r"open studios|dementia", re.I)
 
 
 def _dates_from_heading(head):
     """A heading like 'Gelli Plate for Kids Wed 5 Aug 2:30pm-3:30pm' or
     'Mornings at the Museum Wednesdays, 1 July – 19 Aug 11.30am' — return
     (title, [iso dates], time_str)."""
-    # split title from the first date token
-    m = re.search(r"\b(Mon|Tues?|Wed(nes)?|Thur?s?|Fri|Satur?|Sun)"
-                  r"(day)?s?\b|\b\d{1,2}(st|nd|rd|th)?\s+"
+    # split title from the first date token — real weekday words only (so
+    # 'Monoprinting' / 'Sunflower' don't read as 'Mon' / 'Sun'), or a
+    # day-and-month
+    m = re.search(r"\b(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|"
+                  r"Sunday|Mon|Tues|Tue|Weds|Wed|Thurs|Thur|Thu|Fri|Sat|Sun)"
+                  r"s?\b|"
+                  r"\b\d{1,2}(st|nd|rd|th)?\s+"
                   r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)",
                   head)
     if not m:
@@ -83,13 +89,23 @@ def scrape():
             if not title or not dates:
                 continue
             # gather the description/booking block that follows this heading
-            ctx_parts, book_url = [], None
+            ctx_parts, book_url, detail_url = [], None, None
             for sib in head.find_all_next():
                 if sib.name and re.match(r"^h[2-5]$", sib.name):
                     break
-                if sib.name == "a" and sib.get("href") \
-                        and "ticketsolve" in sib["href"] and not book_url:
-                    book_url = sib["href"]
+                if sib.name == "a" and sib.get("href"):
+                    h = sib["href"]
+                    atext = sib.get_text(" ", strip=True).lower()
+                    if "ticketsolve" in h and not book_url:
+                        book_url = h
+                    # only trust a detail link that explicitly says "details"
+                    # — a bare related link (e.g. 'Explorer at Home') is not
+                    # this event's own page
+                    elif ("/whats-on/" in h and "summer-at-imma" not in h
+                          and "#" not in h and not detail_url
+                          and re.search(r"details|full info|event page|"
+                                        r"more here|read more", atext)):
+                        detail_url = h
                 if sib.name in ("p", "span", "div") \
                         and sib.get_text(strip=True):
                     ctx_parts.append(sib.get_text(" ", strip=True))
@@ -104,9 +120,10 @@ def scrape():
             if book_url:
                 book, link = "Book online", book_url
             elif dropin:
-                book, link = "Drop-in", page
+                # a drop-in's own detail page beats the section listing
+                book, link = "Drop-in", detail_url or page
             else:
-                book, link = "Book online", page
+                book, link = "Book online", detail_url or page
             for iso in dates:
                 if iso < today().isoformat():
                     continue
