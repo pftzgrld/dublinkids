@@ -234,6 +234,22 @@ document.getElementById("calprev").addEventListener("click",()=>shiftMonth(-1));
 document.getElementById("calnext").addEventListener("click",()=>shiftMonth(1));
 
 function statusClass(s){s=s.toLowerCase(); if(s.includes("sold"))return"s-crit"; if(s.includes("full"))return"s-warn"; return"";}
+// the age badge is derived from the same buckets the filter uses, so a card's
+// badge always agrees with the age filters it matches
+const AGE_ORDER=["under5","5to8","9to12","teen"];
+const AGE_LABEL={under5:"Under 5","5to8":"5–8","9to12":"9–12",teen:"Teens"};
+const AGE_END={under5:"4","5to8":"8","9to12":"12",teen:"17"};
+const AGE_START={under5:"Under 5","5to8":"5","9to12":"9",teen:"13"};
+function ageBadge(tags){
+  if(tags.includes("any")) return "All ages";
+  const present=AGE_ORDER.filter(b=>tags.includes(b));
+  if(present.length>=4||!present.length) return "All ages";
+  if(present.length===1) return AGE_LABEL[present[0]];
+  const first=present[0], last=present[present.length-1];
+  if(first==="under5") return "Up to "+AGE_END[last];   // Up to 8 / Up to 12
+  if(last==="teen") return AGE_START[first]+"+";         // 5+ / 9+
+  return AGE_START[first]+"–"+AGE_END[last];             // 5–12
+}
 function activeCount(){return state.cats.size+state.ages.size+state.areas.size+(state.free?1:0)+(state.dropin?1:0)+(state.hideout?1:0);}
 function match(e){
   if(e.iso < TODAY) return false;
@@ -256,7 +272,7 @@ function card(e){
   const ven=document.createElement("div");ven.className="ven";ven.textContent=e.venue+" · "+e.area;
   const tags=document.createElement("div");tags.className="tags";
   const cat=document.createElement("span");cat.className="cat";cat.dataset.c=e.cat;cat.textContent=e.cat;cat.style.background=`var(--c-${e.cat})`;
-  const age=document.createElement("span");age.className="pill age";age.textContent=e.ages;
+  const age=document.createElement("span");age.className="pill age";age.textContent=ageBadge(e.ageTags);
   tags.append(cat,age);
   if(!e.ok){const st=document.createElement("span");st.className="status "+statusClass(e.status);st.textContent=e.status;tags.append(st);}
   b.append(act,ven,tags);

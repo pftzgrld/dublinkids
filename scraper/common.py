@@ -91,9 +91,10 @@ AGE_BUCKETS = [("under5", 0, 4), ("5to8", 5, 8), ("9to12", 9, 12),
 # the KIND of activity caps how old it really goes — a '5+' storytime is for
 # littles, not literally up to 17
 _YOUNG_CEIL = [
-    (re.compile(r"sensory|tummy time|rhyme time|lapsit|baby", re.I), 4),
-    (re.compile(r"storytime|story time|colour|\btots?\b|toddler|nursery|"
-                r"pre-?school|puppet", re.I), 8),
+    (re.compile(r"sensory|tummy time|rhyme time|lapsit|\bbab(y|ies)|toddler|"
+                r"\btots?\b|\bbuggy|\bpram", re.I), 4),
+    (re.compile(r"storytime|story time|colour|nursery|pre-?school|puppet",
+                re.I), 8),
 ]
 
 
