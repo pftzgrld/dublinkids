@@ -19,6 +19,10 @@ BRANCHES = [
 ]
 KID_RX = re.compile(r"drop-?in|family|families|child|kids|craft|workshop|"
                     r"explore|junior", re.I)
+# 'Dublin by Dusk' is the museum's evening adults series; plus other
+# grown-up sessions that trip the 'craft/workshop' keyword
+ADULT_RX = re.compile(r"by dusk|\byoga\b|adults? only|for adults|18\+|"
+                      r"life drawing|mokuhanga|\bwine\b|late night", re.I)
 
 
 def scrape():
@@ -38,7 +42,7 @@ def scrape():
             if not label or url in seen:
                 continue
             seen.add(url)
-            if not KID_RX.search(label):
+            if not KID_RX.search(label) or ADULT_RX.search(label):
                 continue
             iso = parse_day_month(label)
             dr = fetch(url)
