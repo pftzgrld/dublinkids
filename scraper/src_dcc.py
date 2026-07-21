@@ -97,16 +97,19 @@ def parse_detail(url):
         if iso:
             dates = [iso]
 
-    # Booking: an external ticketing link if present, else the event page
-    book, link = "Contact branch", url
+    # Booking: an external ticketing link wins; explicit booking language
+    # means contact the branch; a page that says nothing is a drop-in club
+    book, link = "Drop-in", url
     for a in main.select("a[href]"):
         h = a["href"]
         if re.search(r"eventbrite|ticket|bookwhen|forms\.", h, re.I):
             book, link = "Book online", h
             break
-    if re.search(r"drop.?in|no booking (needed|required)|just (turn up|drop)",
-                 text, re.I):
-        book, link = "Drop-in", url
+    if book == "Drop-in" and re.search(
+            r"booking (is )?(required|essential|recommended|necessary)|"
+            r"book (a place|your|in advance)|registration (is )?required|"
+            r"spaces are limited", text, re.I):
+        book = "Contact branch"
 
     ages_m = re.search(r"(?:suitable for )?ages?[sd]?\s*:?\s*([\d]+\s*[-–+]\s*"
                        r"[\d]*\+?|[\d]+\+)", text, re.I)

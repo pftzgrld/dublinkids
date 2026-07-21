@@ -30,8 +30,8 @@
   "activity": "Baby Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
@@ -39,7 +39,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -118,8 +118,8 @@
   "activity": "Raheny Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
+  "status": "Available",
+  "book": "Contact branch",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
@@ -127,7 +127,7 @@
    "any"
   ],
   "free": true,
-  "dropin": true,
+  "dropin": false,
   "ok": true,
   "src": "dcc"
  },
@@ -162,8 +162,8 @@
   "activity": "Summer Stars Storytime",
   "cat": "Library",
   "ages": "3+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
@@ -171,7 +171,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -196,50 +196,6 @@
   "dropin": true,
   "ok": true,
   "src": "wicklow"
- },
- {
-  "date": "21 Jul",
-  "iso": "2026-07-21",
-  "day": "Tue",
-  "time": "14:00–15:30",
-  "venue": "Ballyroan Library",
-  "activity": "Let's Make Comics! Workshop",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Sold out",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://www.eventbrite.ie/e/lets-make-comics-workshop-tickets-1993014475948",
-  "area": "South Dublin",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": false,
-  "src": "sdcc"
- },
- {
-  "date": "21 Jul",
-  "iso": "2026-07-21",
-  "day": "Tue",
-  "time": "14:00–16:00",
-  "venue": "Blanchardstown Library",
-  "activity": "Sun Prints & Blue Magic: Cyanotype Lab (Strictly 7-10 years old)",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Sold out",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://www.eventbrite.ie/e/sun-prints-blue-magic-cyanotype-lab-strictly-7-10-years-old-tickets-1993027055574",
-  "area": "Fingal",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": false,
-  "src": "fingal"
  },
  {
   "date": "21 Jul",
@@ -316,8 +272,8 @@
   "activity": "Lego Club",
   "cat": "Library",
   "ages": "6+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
@@ -325,7 +281,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -625,8 +581,8 @@
   "activity": "Children's Storytime at Ballyfermot Library",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
@@ -634,7 +590,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -669,8 +625,8 @@
   "activity": "Children's Storytime at Cabra Library",
   "cat": "Library",
   "ages": "3-8",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
@@ -678,7 +634,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -691,8 +647,8 @@
   "activity": "Kid's Creative Writing Club in Ballyfermot Library",
   "cat": "Library",
   "ages": "10-14",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
@@ -700,7 +656,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -779,8 +735,8 @@
   "activity": "Finglas Library Toddler Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
@@ -788,7 +744,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -867,8 +823,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -876,7 +832,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -889,8 +845,8 @@
   "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
@@ -898,7 +854,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -911,8 +867,8 @@
   "activity": "Ringsend Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
@@ -920,7 +876,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -977,8 +933,8 @@
   "activity": "Sensory Storytime",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/sensory-storytime",
   "area": "Dublin City",
@@ -986,7 +942,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -1175,8 +1131,8 @@
   "activity": "Ringsend Library Lego Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
@@ -1184,7 +1140,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -1307,8 +1263,8 @@
   "activity": "Toddler Playgroup",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
@@ -1316,7 +1272,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -1774,8 +1730,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -1783,7 +1739,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -1884,8 +1840,8 @@
   "activity": "Baby Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
@@ -1893,7 +1849,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -1973,8 +1929,8 @@
   "activity": "Raheny Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
+  "status": "Available",
+  "book": "Contact branch",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
@@ -1982,7 +1938,7 @@
    "any"
   ],
   "free": true,
-  "dropin": true,
+  "dropin": false,
   "ok": true,
   "src": "dcc"
  },
@@ -2017,8 +1973,8 @@
   "activity": "Summer Stars Storytime",
   "cat": "Library",
   "ages": "3+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
@@ -2026,7 +1982,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -2149,8 +2105,8 @@
   "activity": "Summer Storytime with Storyteller Aisling Breen",
   "cat": "Library",
   "ages": "4–8",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-storytime-storyteller-aisling-breen",
   "area": "Dublin City",
@@ -2158,7 +2114,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -2215,8 +2171,8 @@
   "activity": "Lego Club",
   "cat": "Library",
   "ages": "6+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
@@ -2224,7 +2180,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -2480,8 +2436,8 @@
   "activity": "Children's Storytime at Ballyfermot Library",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
@@ -2489,7 +2445,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -2524,8 +2480,8 @@
   "activity": "Children's Storytime at Cabra Library",
   "cat": "Library",
   "ages": "3-8",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
@@ -2533,7 +2489,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -2546,8 +2502,8 @@
   "activity": "Kid's Creative Writing Club in Ballyfermot Library",
   "cat": "Library",
   "ages": "10-14",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
@@ -2555,7 +2511,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -2656,8 +2612,8 @@
   "activity": "Finglas Library Toddler Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
@@ -2665,7 +2621,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -2745,8 +2701,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -2754,7 +2710,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -2767,8 +2723,8 @@
   "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
@@ -2776,7 +2732,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -2789,8 +2745,8 @@
   "activity": "Ringsend Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
@@ -2798,7 +2754,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -2965,8 +2921,8 @@
   "activity": "Ringsend Library Lego Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
@@ -2974,7 +2930,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -3164,8 +3120,8 @@
   "activity": "Toddler Playgroup",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
@@ -3173,7 +3129,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -3475,8 +3431,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -3484,7 +3440,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -3519,8 +3475,8 @@
   "activity": "Baby Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
@@ -3528,7 +3484,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -3585,8 +3541,8 @@
   "activity": "Raheny Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
+  "status": "Available",
+  "book": "Contact branch",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
@@ -3594,7 +3550,7 @@
    "any"
   ],
   "free": true,
-  "dropin": true,
+  "dropin": false,
   "ok": true,
   "src": "dcc"
  },
@@ -3629,8 +3585,8 @@
   "activity": "Summer Stars Storytime",
   "cat": "Library",
   "ages": "3+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
@@ -3638,7 +3594,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -3739,8 +3695,8 @@
   "activity": "Lego Club",
   "cat": "Library",
   "ages": "6+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
@@ -3748,7 +3704,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -3937,8 +3893,8 @@
   "activity": "Children's Storytime at Ballyfermot Library",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
@@ -3946,7 +3902,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -3981,8 +3937,8 @@
   "activity": "Children's Storytime at Cabra Library",
   "cat": "Library",
   "ages": "3-8",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
@@ -3990,7 +3946,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4003,8 +3959,8 @@
   "activity": "Kid's Creative Writing Club in Ballyfermot Library",
   "cat": "Library",
   "ages": "10-14",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
@@ -4012,7 +3968,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4091,8 +4047,8 @@
   "activity": "Finglas Library Toddler Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
@@ -4100,7 +4056,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4157,8 +4113,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -4166,7 +4122,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4179,8 +4135,8 @@
   "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
@@ -4188,7 +4144,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4201,8 +4157,8 @@
   "activity": "Ringsend Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
@@ -4210,7 +4166,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4267,8 +4223,8 @@
   "activity": "Summer Storytime with Storyteller Aisling Breen",
   "cat": "Library",
   "ages": "4–8",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-storytime-storyteller-aisling-breen-1",
   "area": "Dublin City",
@@ -4276,7 +4232,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4311,8 +4267,8 @@
   "activity": "Ringsend Library Lego Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
@@ -4320,7 +4276,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4421,8 +4377,8 @@
   "activity": "Toddler Playgroup",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
@@ -4430,7 +4386,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4732,8 +4688,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -4741,7 +4697,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4776,8 +4732,8 @@
   "activity": "Baby Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
@@ -4785,7 +4741,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4842,8 +4798,8 @@
   "activity": "Raheny Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
+  "status": "Available",
+  "book": "Contact branch",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
@@ -4851,7 +4807,7 @@
    "any"
   ],
   "free": true,
-  "dropin": true,
+  "dropin": false,
   "ok": true,
   "src": "dcc"
  },
@@ -4886,8 +4842,8 @@
   "activity": "Summer Stars Storytime",
   "cat": "Library",
   "ages": "3+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
@@ -4895,7 +4851,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -4996,8 +4952,8 @@
   "activity": "Lego Club",
   "cat": "Library",
   "ages": "6+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
@@ -5005,7 +4961,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -5150,8 +5106,8 @@
   "activity": "Children's Storytime at Ballyfermot Library",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
@@ -5159,7 +5115,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -5194,8 +5150,8 @@
   "activity": "Children's Storytime at Cabra Library",
   "cat": "Library",
   "ages": "3-8",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
@@ -5203,7 +5159,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -5216,8 +5172,8 @@
   "activity": "Kid's Creative Writing Club in Ballyfermot Library",
   "cat": "Library",
   "ages": "10-14",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
@@ -5225,7 +5181,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -5304,8 +5260,8 @@
   "activity": "Finglas Library Toddler Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
@@ -5313,7 +5269,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -5370,8 +5326,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -5379,7 +5335,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -5392,8 +5348,8 @@
   "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
@@ -5401,7 +5357,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -5414,8 +5370,8 @@
   "activity": "Ringsend Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
@@ -5423,7 +5379,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -5524,8 +5480,8 @@
   "activity": "Ringsend Library Lego Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
@@ -5533,7 +5489,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -5656,8 +5612,8 @@
   "activity": "Toddler Playgroup",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
@@ -5665,7 +5621,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6011,8 +5967,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -6020,7 +5976,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6055,8 +6011,8 @@
   "activity": "Baby Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
@@ -6064,7 +6020,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6121,8 +6077,8 @@
   "activity": "Raheny Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
+  "status": "Available",
+  "book": "Contact branch",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
@@ -6130,7 +6086,7 @@
    "any"
   ],
   "free": true,
-  "dropin": true,
+  "dropin": false,
   "ok": true,
   "src": "dcc"
  },
@@ -6165,8 +6121,8 @@
   "activity": "Summer Stars Storytime",
   "cat": "Library",
   "ages": "3+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
@@ -6174,7 +6130,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6275,8 +6231,8 @@
   "activity": "Lego Club",
   "cat": "Library",
   "ages": "6+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
@@ -6284,7 +6240,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6407,8 +6363,8 @@
   "activity": "Children's Storytime at Ballyfermot Library",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
@@ -6416,7 +6372,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6473,8 +6429,8 @@
   "activity": "Children's Storytime at Cabra Library",
   "cat": "Library",
   "ages": "3-8",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
@@ -6482,7 +6438,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6495,8 +6451,8 @@
   "activity": "Kid's Creative Writing Club in Ballyfermot Library",
   "cat": "Library",
   "ages": "10-14",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
@@ -6504,7 +6460,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6583,8 +6539,8 @@
   "activity": "Finglas Library Toddler Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
@@ -6592,7 +6548,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6627,8 +6583,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -6636,7 +6592,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6649,8 +6605,8 @@
   "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
@@ -6658,7 +6614,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6671,8 +6627,8 @@
   "activity": "Ringsend Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
@@ -6680,7 +6636,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6737,8 +6693,8 @@
   "activity": "Ringsend Library Lego Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
@@ -6746,7 +6702,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -6847,8 +6803,8 @@
   "activity": "Toddler Playgroup",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
@@ -6856,7 +6812,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7246,8 +7202,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -7255,7 +7211,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7290,8 +7246,8 @@
   "activity": "Baby Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
@@ -7299,7 +7255,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7356,8 +7312,8 @@
   "activity": "Raheny Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
+  "status": "Available",
+  "book": "Contact branch",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
@@ -7365,7 +7321,7 @@
    "any"
   ],
   "free": true,
-  "dropin": true,
+  "dropin": false,
   "ok": true,
   "src": "dcc"
  },
@@ -7400,8 +7356,8 @@
   "activity": "Summer Stars Storytime",
   "cat": "Library",
   "ages": "3+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
@@ -7409,7 +7365,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7488,8 +7444,8 @@
   "activity": "Lego Club",
   "cat": "Library",
   "ages": "6+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
@@ -7497,7 +7453,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7620,8 +7576,8 @@
   "activity": "Children's Storytime at Ballyfermot Library",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
@@ -7629,7 +7585,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7664,8 +7620,8 @@
   "activity": "Children's Storytime at Cabra Library",
   "cat": "Library",
   "ages": "3-8",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
@@ -7673,7 +7629,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7686,8 +7642,8 @@
   "activity": "Kid's Creative Writing Club in Ballyfermot Library",
   "cat": "Library",
   "ages": "10-14",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
@@ -7695,7 +7651,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7774,8 +7730,8 @@
   "activity": "Finglas Library Toddler Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
@@ -7783,7 +7739,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7818,8 +7774,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -7827,7 +7783,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7840,8 +7796,8 @@
   "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
@@ -7849,7 +7805,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7862,8 +7818,8 @@
   "activity": "Ringsend Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
@@ -7871,7 +7827,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -7972,8 +7928,8 @@
   "activity": "Ringsend Library Lego Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
@@ -7981,7 +7937,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -8104,8 +8060,8 @@
   "activity": "Toddler Playgroup",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
@@ -8113,7 +8069,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -8503,8 +8459,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -8512,7 +8468,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -8569,8 +8525,8 @@
   "activity": "Baby Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
@@ -8578,7 +8534,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -8613,8 +8569,8 @@
   "activity": "Raheny Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
+  "status": "Available",
+  "book": "Contact branch",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
@@ -8622,7 +8578,7 @@
    "any"
   ],
   "free": true,
-  "dropin": true,
+  "dropin": false,
   "ok": true,
   "src": "dcc"
  },
@@ -8701,8 +8657,8 @@
   "activity": "Lego Club",
   "cat": "Library",
   "ages": "6+",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
@@ -8710,7 +8666,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -8789,8 +8745,8 @@
   "activity": "Children's Storytime at Ballyfermot Library",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
@@ -8798,7 +8754,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -8811,8 +8767,8 @@
   "activity": "Children's Storytime at Cabra Library",
   "cat": "Library",
   "ages": "3-8",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
@@ -8820,7 +8776,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -8833,8 +8789,8 @@
   "activity": "Kid's Creative Writing Club in Ballyfermot Library",
   "cat": "Library",
   "ages": "10-14",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
@@ -8842,7 +8798,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -8921,8 +8877,8 @@
   "activity": "Finglas Library Toddler Book Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
@@ -8930,7 +8886,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -8965,8 +8921,8 @@
   "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
@@ -8974,7 +8930,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -8987,8 +8943,8 @@
   "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
@@ -8996,7 +8952,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -9009,8 +8965,8 @@
   "activity": "Ringsend Library Toddler Group",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
@@ -9018,7 +8974,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -9053,8 +9009,8 @@
   "activity": "Ringsend Library Lego Club",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
@@ -9062,7 +9018,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },
@@ -9163,8 +9119,8 @@
   "activity": "Toddler Playgroup",
   "cat": "Library",
   "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
@@ -9172,7 +9128,7 @@
    "any"
   ],
   "free": true,
-  "dropin": false,
+  "dropin": true,
   "ok": true,
   "src": "dcc"
  },

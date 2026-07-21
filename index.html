@@ -1,11 +1,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Dublin Kids — what's on for kids in Dublin</title>
-<meta name="description" content="Every free and booked children's activity across Dublin's museums, libraries, parks and workshops — one place, with the booking link. Refreshed weekly.">
+<meta name="description" content="Every kids' activity in Dublin and north Wicklow's museums, galleries, libraries and parks — with the booking link. Refreshed weekly.">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Dublin Kids">
 <meta property="og:title" content="Dublin Kids — what's on for kids in Dublin">
-<meta property="og:description" content="Every free and booked children's activity across Dublin's museums, libraries, parks and workshops — one place, with the booking link. Refreshed weekly.">
+<meta property="og:description" content="Every kids' activity in Dublin and north Wicklow's museums, galleries, libraries and parks — with the booking link. Refreshed weekly.">
 <meta property="og:url" content="https://dublinkids.com/">
 <meta property="og:image" content="https://dublinkids.com/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -89,7 +89,7 @@ button.cell.has:hover{border-color:var(--accent);}
 .cell .dots{display:flex;flex-wrap:wrap;gap:3px;margin-top:5px;align-items:center;}
 .cell .dt{width:7px;height:7px;border-radius:50%;flex:0 0 auto;}
 .cell .nn{font-size:10.5px;color:var(--muted);font-weight:600;margin-left:1px;}
-.daypick{margin-top:18px;}
+.daypick{margin:14px 0 22px;scroll-margin-top:76px;}
 @media (max-width:560px){.cell{min-height:46px;padding:4px 5px;}.cell .dt{width:6px;height:6px;}}
 .mus{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:4px 16px 6px;margin-top:12px;box-shadow:var(--shadow);}
 .mus[hidden]{display:none;}
@@ -110,7 +110,7 @@ footer{margin-top:34px;color:var(--muted);font-size:12.5px;text-align:center;lin
 <div class="wrap">
 <header class="top">
   <div class="brand"><h1><span class="sun">☀</span> Dublin Kids</h1></div>
-  <p class="tagline">Every free and booked children's activity across Dublin's museums, libraries, parks and workshops this summer — one place, with the booking link.</p>
+  <p class="tagline">Every activity in Dublin and north Wicklow's museums, galleries, libraries and parks this summer — with the booking link.</p>
 </header>
 
 <div class="controls">
@@ -201,6 +201,10 @@ viewbtn.addEventListener("click",()=>{
   state.view=state.view==="list"?"cal":"list";
   viewbtn.textContent=state.view==="cal"?"List":"Calendar";
   viewbtn.setAttribute("aria-pressed",String(state.view==="cal"));
+  if(state.view==="cal"&&!state.selDay){
+    const first=EVENTS.filter(match).find(e=>e.iso>=TODAY);
+    if(first)state.selDay=first.iso;
+  }
   render();
 });
 
@@ -281,19 +285,24 @@ function renderCal(list){
         const nn=document.createElement("span");nn.className="nn";nn.textContent=evs.length;dots.appendChild(nn);
         cell.appendChild(dots);
         cell.setAttribute("aria-label",`${evs[0].day} ${evs[0].date}: ${evs.length} ${evs.length===1?"activity":"activities"}`);
-        cell.addEventListener("click",()=>{state.selDay=state.selDay===iso?null:iso;render();});
+        cell.addEventListener("click",()=>{
+          state.selDay=state.selDay===iso?null:iso;render();
+          if(state.selDay)document.querySelector(".daypick")?.scrollIntoView({behavior:"smooth",block:"start"});
+        });
       }
       grid.appendChild(cell);
     }
     mo.append(hd,grid);cal.appendChild(mo);
     m++; if(m>12){m=1;y++;}
   }
-  results.appendChild(cal);
+  // selected day's listings sit ABOVE the month grids — the grids are the
+  // navigation, the listings are the content
   if(state.selDay && byDay.has(state.selDay)){
     const dp=document.createElement("div");dp.className="daypick";
     dp.appendChild(daySection(byDay.get(state.selDay)));
     results.appendChild(dp);
   }
+  results.appendChild(cal);
 }
 function render(){
   const list=EVENTS.filter(match);
