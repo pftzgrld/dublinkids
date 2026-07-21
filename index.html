@@ -18,6 +18,13 @@
 <meta name="theme-color" content="#f8f9fa">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
+<!-- Usage analytics: GoatCounter — free, privacy-friendly, no cookie banner.
+     ONE-TIME SETUP (≈1 min): sign up at https://www.goatcounter.com/signup,
+     choose the site code "dublinkids". Then this line works as-is and you'll
+     see pageviews + the custom events below in your dashboard.
+     If you pick a different code, change the subdomain in the URL to match. -->
+<script data-goatcounter="https://dublinkids.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☀️</text></svg>">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
@@ -181,6 +188,20 @@ const AREAS = ["Dublin City","Fingal","DLR","South Dublin","North Wicklow"];
 const TOGS = [["free","Free only"],["dropin","Just show up"],["hideout","Hide booked-out"]];
 const state = {q:"", cats:new Set(), ages:new Set(), areas:new Set(), free:false, dropin:false, hideout:false, calYM:null};
 
+// --- usage tracking -----------------------------------------------------
+// Pageviews record automatically from the GoatCounter script in the head.
+// track() logs custom events: booking clicks (the number you sell to camps),
+// which filters parents use, searches, and calendar opens. Fires in
+// GoatCounter now; also fires in Plausible automatically if you switch later.
+function track(path, title){
+  try{
+    if(window.goatcounter && window.goatcounter.count)
+      window.goatcounter.count({path, title: title||path, event:true});
+    if(window.plausible) window.plausible(title||path);
+  }catch(_){}
+}
+const slug = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"");
+
 function chip(row,label,key,val,dot){
   const b=document.createElement("button");
   b.className="chip"; b.setAttribute("aria-pressed","false"); b.dataset.key=key; b.dataset.val=val||"";
@@ -195,6 +216,8 @@ function toggle(b,key,val){
   else if(key==="age"){on?state.ages.delete(val):state.ages.add(val);}
   else if(key==="area"){on?state.areas.delete(val):state.areas.add(val);}
   else {state[key]=!on;}
+  // log only when a filter is switched ON — what parents are looking for
+  if(!on){const label=val||key; track("filter/"+key+"/"+slug(label), "Filter: "+label);}
   render();
 }
 CATS.forEach(c=>chip(catrow,c,"cat",c,`var(--c-${c})`));
@@ -204,7 +227,13 @@ TOGS.forEach(([k,l])=>chip(togrow,l,k));
 
 const panel=document.getElementById("panel"), fbtn=document.getElementById("filterbtn");
 fbtn.addEventListener("click",()=>{const o=panel.classList.toggle("open");fbtn.setAttribute("aria-expanded",String(o));});
-document.getElementById("q").addEventListener("input",e=>{state.q=e.target.value.toLowerCase();render();});
+let searchLogged=false;
+document.getElementById("q").addEventListener("input",e=>{
+  state.q=e.target.value.toLowerCase();
+  // one "search used" event per session — signals people are hunting for something specific
+  if(!searchLogged && state.q.trim().length>=3){searchLogged=true; track("search","Search used");}
+  render();
+});
 document.getElementById("reset").addEventListener("click",()=>{
   state.q="";state.cats.clear();state.ages.clear();state.areas.clear();state.free=state.dropin=state.hideout=false;
   document.getElementById("q").value="";
@@ -221,6 +250,7 @@ calbtn.addEventListener("click",()=>{
   calpanel.hidden=!calpanel.hidden;
   calbtn.setAttribute("aria-expanded",String(!calpanel.hidden));
   if(!calpanel.hidden){
+    track("calendar","Calendar opened");
     if(!state.calYM){const t=new Date();state.calYM={y:t.getFullYear(),m:t.getMonth()+1};}
     renderCalPanel();
   }
@@ -266,6 +296,8 @@ const results=document.getElementById("results");
 function card(e){
   const li=document.createElement("a");li.className="ev";li.href=e.link;li.target="_blank";li.rel="noopener";
   li.setAttribute("aria-label",`${e.activity} at ${e.venue}, ${e.day} ${e.date} ${e.time} — opens details`);
+  // outbound booking click — one event per venue, filterable as book/* in the dashboard
+  li.addEventListener("click",()=>track("book/"+slug(e.venue), "Book: "+e.venue));
   const t=document.createElement("div");t.className="time";t.textContent=e.time;
   const b=document.createElement("div");b.className="body";
   const act=document.createElement("div");act.className="act";act.textContent=e.activity;
