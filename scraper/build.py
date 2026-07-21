@@ -18,7 +18,32 @@ from common import today  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "events.json"
 MANUAL = ROOT / "data" / "manual-events.json"
+RECURRING = ROOT / "data" / "recurring.json"
 SEASON_START = "2026-06-01"
+
+
+def expand_recurring():
+    """Always-on drop-ins (data/recurring.json) become one dated row per
+    matching day within the horizon."""
+    import datetime as dt
+    from common import today, HORIZON_DAYS, event_row
+    if not RECURRING.exists():
+        return []
+    rows = []
+    t0 = today()
+    for rule in json.loads(RECURRING.read_text()):
+        d = t0
+        while d <= t0 + dt.timedelta(days=HORIZON_DAYS):
+            if d.strftime("%a") in rule["days"]:
+                rows.append(event_row(
+                    iso=d.isoformat(), time_str=rule["time"],
+                    venue=rule["venue"], activity=rule["activity"],
+                    cat=rule["cat"], ages=rule["ages"],
+                    status="No booking needed", book=rule["book"],
+                    cost=rule["cost"], link=rule["link"], area=rule["area"],
+                    source="recurring"))
+            d += dt.timedelta(days=1)
+    return rows
 
 # module -> the `src` tags it owns (sdcc module also scrapes Fingal's org)
 SOURCES = {"dcc": (src_dcc, ["dcc"]), "dlr": (src_dlr, ["dlr"]),
@@ -50,6 +75,11 @@ def main():
                 rows.extend(kept)
             else:
                 print(f"[{name}] 0 events")
+
+    recurring = expand_recurring()
+    print(f"[recurring] {len(recurring)} events from "
+          f"{len(json.loads(RECURRING.read_text())) if RECURRING.exists() else 0} rules")
+    rows.extend(recurring)
 
     manual = json.loads(MANUAL.read_text()) if MANUAL.exists() else []
     for r in manual:

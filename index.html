@@ -91,10 +91,13 @@ button.cell.has:hover{border-color:var(--accent);}
 .cell .nn{font-size:10.5px;color:var(--muted);font-weight:600;margin-left:1px;}
 .daypick{margin-top:18px;}
 @media (max-width:560px){.cell{min-height:46px;padding:4px 5px;}.cell .dt{width:6px;height:6px;}}
-.everyday{background:var(--surface-2);border:1px dashed var(--line);border-radius:14px;padding:14px 16px;margin-top:20px;}
-.everyday h3{margin:0 0 6px;font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);}
-.everyday ul{margin:0;padding-left:18px;font-size:13.5px;color:var(--ink);}
-.everyday li{margin:3px 0;} .everyday a{color:var(--accent);}
+.mus{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:4px 16px 6px;margin-top:12px;box-shadow:var(--shadow);}
+.mus[hidden]{display:none;}
+.musrow{display:grid;grid-template-columns:minmax(150px,220px) 1fr;gap:4px 14px;padding:10px 0;border-bottom:1px solid var(--line);font-size:13.5px;}
+.musrow:last-child{border-bottom:0;}
+.musrow .mn{font-weight:700;} .musrow .mn a{color:var(--accent);text-decoration:none;}
+.musrow .mh{color:var(--muted);}
+@media (max-width:560px){.musrow{grid-template-columns:1fr;}}
 footer{margin-top:34px;color:var(--muted);font-size:12.5px;text-align:center;line-height:1.7;}
 @media (max-width:560px){
   li.ev{grid-template-columns:66px 1fr;}
@@ -118,6 +121,7 @@ footer{margin-top:34px;color:var(--muted);font-size:12.5px;text-align:center;lin
     </label>
     <button class="btn" id="filterbtn" aria-expanded="false">Filters <span class="badge" id="fbadge" hidden>0</span></button>
     <button class="btn" id="viewbtn" aria-pressed="false" title="Switch between list and calendar">Calendar</button>
+    <button class="btn" id="musbtn" aria-expanded="false" title="Museum opening hours">Museums</button>
   </div>
   <div class="panel" id="panel">
     <div class="chiprow" id="catrow"><span class="lbl">Type</span></div>
@@ -127,6 +131,14 @@ footer{margin-top:34px;color:var(--muted);font-size:12.5px;text-align:center;lin
   </div>
 </div>
 
+<div class="mus" id="muspanel" hidden>
+  <div class="musrow"><span class="mn"><a href="https://www.nationalgallery.ie" target="_blank" rel="noopener">National Gallery</a></span><span class="mh">Mon &amp; Sun 11:00–17:30 · Tue–Sat from 9:15 (Thu until 20:30) · free</span></div>
+  <div class="musrow"><span class="mn"><a href="https://www.museum.ie/en-ie/museums/archaeology" target="_blank" rel="noopener">NMI Archaeology, Kildare St</a></span><span class="mh">Tue–Sat 10:00–17:00 · Sun–Mon 13:00–17:00 · free</span></div>
+  <div class="musrow"><span class="mn"><a href="https://www.museum.ie/en-ie/museums/decorative-arts-history" target="_blank" rel="noopener">NMI Collins Barracks (Dead Zoo Lab)</a></span><span class="mh">Tue–Sat 10:00–17:00 · Sun–Mon 13:00–17:00 · free</span></div>
+  <div class="musrow"><span class="mn"><a href="https://www.nationalprintmuseum.ie" target="_blank" rel="noopener">National Print Museum</a></span><span class="mh">Tue–Fri 10:00–16:00 · Sat–Sun 12:00–16:00 · Mon closed</span></div>
+  <div class="musrow"><span class="mn"><a href="https://imma.ie" target="_blank" rel="noopener">IMMA</a></span><span class="mh">Tue–Sat 10:00–17:30 (Wed from 11:30) · Sun 12:00–17:30 · Mon closed · free</span></div>
+</div>
+
 <div class="meta">
   <div class="count"><b id="n">0</b> <span id="nword">activities</span></div>
   <button class="reset" id="reset" hidden>Clear filters</button>
@@ -134,17 +146,6 @@ footer{margin-top:34px;color:var(--muted);font-size:12.5px;text-align:center;lin
 <p class="hint" id="pasthint" hidden></p>
 
 <div id="results"></div>
-
-<div class="everyday">
-  <h3>On every day, all summer</h3>
-  <ul>
-    <li><b>Summer Stars</b> reading challenge — every DCC / dlr / SDCC library, free</li>
-    <li><b>National Gallery</b> Atrium creative space — drop-in art-making, 7 days, free</li>
-    <li><b>National Print Museum</b> Creative Corner 10:00–16:00 drop-in, free · guided tours from €6.32</li>
-    <li><b>IMMA</b> daily drop-in exhibition tour 16:00 · <b>Collins Barracks</b> Dead Zoo Lab exhibition Tue–Sat — both free</li>
-    <li><b>SEA LIFE Bray</b> aquarium — open daily 10:00–17:00, book online for cheaper tickets</li>
-  </ul>
-</div>
 
 <footer>
   Refreshed weekly from each venue's own site (Mondays). Times and availability change — the booking link is the source of truth.
@@ -189,6 +190,11 @@ document.getElementById("reset").addEventListener("click",()=>{
   document.getElementById("q").value="";
   document.querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed","false"));
   render();
+});
+const musbtn=document.getElementById("musbtn"), muspanel=document.getElementById("muspanel");
+musbtn.addEventListener("click",()=>{
+  muspanel.hidden=!muspanel.hidden;
+  musbtn.setAttribute("aria-expanded",String(!muspanel.hidden));
 });
 const viewbtn=document.getElementById("viewbtn");
 viewbtn.addEventListener("click",()=>{
@@ -305,6 +311,6 @@ function render(){
   if(!list.length){results.innerHTML='<div class="empty">Nothing matches those filters. Try clearing a few.</div>';return;}
   if(state.view==="cal")renderCal(list);else renderList(list);
 }
-fetch('./data/events.json').then(r=>r.json()).then(d=>{EVENTS=d;render();})
+fetch('./data/events.json',{cache:'no-cache'}).then(r=>r.json()).then(d=>{EVENTS=d;render();})
   .catch(()=>{document.getElementById('results').innerHTML='<div class="empty">Couldn\'t load events data. Run a static server (e.g. <code>python3 -m http.server</code>) rather than opening the file directly.</div>';});
 </script>
