@@ -52,6 +52,17 @@ def scrape_spydus():
     horizon = (today() + dt.timedelta(days=HORIZON_DAYS)).isoformat()
     rows = []
     for card in soup.select("fieldset.card.card-list"):
+        # the event's IRN (internal record number) is the one stable id — the
+        # session number in the FULL url changes every visit, but QRY=IRN(id)
+        # resolves to this exact event in any fresh session. Grab it before
+        # stripping the card's buttons.
+        irn = None
+        full = card.select_one('a[href*="/FULL/WPAC/EVSESENQ/"]')
+        if full:
+            m = re.search(r"/EVSESENQ/\d+/(\d+)", full["href"])
+            irn = m.group(1) if m else None
+        event_link = (f"{BASE}/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ"
+                      f"?QRY=IRN({irn})") if irn else EVENTS_HOME
         for el in card.select(".sr-only, .btn, .btn-group, .form-check"):
             el.decompose()
         blocks = [d.get_text(" ", strip=True) for d in card.select(".d-block")]
@@ -81,7 +92,7 @@ def scrape_spydus():
             activity=title, cat="Library", ages="Children",
             status=status, book="Drop-in" if dropin else "Contact branch",
             cost="Free" if free else "See link",
-            link=EVENTS_HOME, area=AREA, source="wicklow",
+            link=event_link, area=AREA, source="wicklow",
             summary=clean_summary(desc)))
     return rows
 

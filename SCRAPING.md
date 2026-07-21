@@ -121,3 +121,14 @@ the UNFILTERED listing, which is what broke coverage. Also:
   scraper is in place for when family shows/panto list. Playwright is now installed locally
   as well as in CI.
 - 'Young adult' must not trip the adult filter — lookbehind `(?<!young )\badults?\b`.
+
+## Wicklow deep-links (IRN)
+
+Spydus's per-event FULL url (`/FULL/WPAC/EVSESENQ/<session>/<recno>,<pos>`) is
+session-scoped — in a fresh session that same url resolves to whatever event
+sits at that position in the default set (tested: it returned a different
+library's event). The STABLE id is the IRN (internal record number), exposed
+in each card's FULL url second segment and its 'Add to calendar' link
+(`QRY=IRN(<irn>)`). `ENQ/WPAC/EVSESENQ?QRY=IRN(<irn>)` resolves to that exact
+event in any fresh session (a 1-result search showing the event). The scraper
+now builds these, so every Wicklow event deep-links to itself.

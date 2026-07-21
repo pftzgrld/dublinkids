@@ -49,29 +49,6 @@
   "date": "21 Jul",
   "iso": "2026-07-21",
   "day": "Tue",
-  "time": "10:00–11:00",
-  "venue": "Ballywaltrim Library, Bray",
-  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
-  "area": "North Wicklow",
-  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "wicklow"
- },
- {
-  "date": "21 Jul",
-  "iso": "2026-07-21",
-  "day": "Tue",
   "time": "10:00–14:00",
   "venue": "The Ark",
   "activity": "Dragon Heroes Animation (day 2 of 5)",
@@ -195,7 +172,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080208)",
   "area": "North Wicklow",
   "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
@@ -264,7 +241,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055682)",
   "area": "North Wicklow",
   "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
@@ -403,7 +380,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080221)",
   "area": "North Wicklow",
   "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
@@ -633,7 +610,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081689)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
@@ -794,7 +771,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081706)",
   "area": "North Wicklow",
   "summary": "The Offline Club is a phone-free, analogue club for teens aged between 12 and 17 years.",
   "ageTags": [
@@ -1139,7 +1116,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081698)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
@@ -1761,7 +1738,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052902)",
   "area": "North Wicklow",
   "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
@@ -1946,7 +1923,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052914)",
   "area": "North Wicklow",
   "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
@@ -2108,7 +2085,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080209)",
   "area": "North Wicklow",
   "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
@@ -2246,7 +2223,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055683)",
   "area": "North Wicklow",
   "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
@@ -2338,7 +2315,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080222)",
   "area": "North Wicklow",
   "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
@@ -2569,7 +2546,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081690)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
@@ -2753,7 +2730,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081707)",
   "area": "North Wicklow",
   "summary": "The Offline Club is a phone-free, analogue club for teens aged between 12 and 17 years.",
   "ageTags": [
@@ -3030,7 +3007,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081699)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
@@ -3629,7 +3606,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052919)",
   "area": "North Wicklow",
   "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
@@ -3744,7 +3721,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080210)",
   "area": "North Wicklow",
   "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
@@ -3813,7 +3790,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055684)",
   "area": "North Wicklow",
   "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
@@ -3905,7 +3882,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080223)",
   "area": "North Wicklow",
   "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
@@ -4066,7 +4043,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081691)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
@@ -4227,7 +4204,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081708)",
   "area": "North Wicklow",
   "summary": "The Offline Club is a phone-free, analogue club for teens aged between 12 and 17 years.",
   "ageTags": [
@@ -4411,7 +4388,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081700)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
@@ -4825,7 +4802,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052903)",
   "area": "North Wicklow",
   "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
@@ -4917,7 +4894,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052976)",
   "area": "North Wicklow",
   "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
@@ -5055,7 +5032,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080211)",
   "area": "North Wicklow",
   "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
@@ -5101,7 +5078,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055685)",
   "area": "North Wicklow",
   "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
@@ -5193,7 +5170,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080224)",
   "area": "North Wicklow",
   "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
@@ -5285,7 +5262,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081692)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
@@ -5446,7 +5423,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081709)",
   "area": "North Wicklow",
   "summary": "The Offline Club is a phone-free, analogue club for teens aged between 12 and 17 years.",
   "ageTags": [
@@ -5607,7 +5584,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081701)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
@@ -6067,7 +6044,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081685)",
   "area": "North Wicklow",
   "summary": "There is no Tummy Time in Ballywaltrim Library on Monday 17 August.",
   "ageTags": [
@@ -6090,7 +6067,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052904)",
   "area": "North Wicklow",
   "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
@@ -6182,7 +6159,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052977)",
   "area": "North Wicklow",
   "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
@@ -6297,7 +6274,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080212)",
   "area": "North Wicklow",
   "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
@@ -6366,7 +6343,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055686)",
   "area": "North Wicklow",
   "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
@@ -6458,7 +6435,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080225)",
   "area": "North Wicklow",
   "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
@@ -6550,7 +6527,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081693)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
@@ -6826,7 +6803,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081702)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
@@ -7332,7 +7309,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052905)",
   "area": "North Wicklow",
   "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
@@ -7424,7 +7401,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052978)",
   "area": "North Wicklow",
   "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
@@ -7539,7 +7516,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080213)",
   "area": "North Wicklow",
   "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
@@ -7585,7 +7562,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055687)",
   "area": "North Wicklow",
   "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
@@ -7677,7 +7654,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080226)",
   "area": "North Wicklow",
   "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
@@ -7769,7 +7746,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081694)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
@@ -8068,7 +8045,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081703)",
   "area": "North Wicklow",
   "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
@@ -8597,7 +8574,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052906)",
   "area": "North Wicklow",
   "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
@@ -8804,7 +8781,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055688)",
   "area": "North Wicklow",
   "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
