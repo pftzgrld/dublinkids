@@ -142,13 +142,13 @@
   "ages": "Children",
   "status": "Sold out",
   "book": "Book online",
-  "cost": "See link",
+  "cost": "Free",
   "link": "https://www.eventbrite.ie/e/lets-make-comics-workshop-tickets-1993014475948",
   "area": "South Dublin",
   "ageTags": [
    "any"
   ],
-  "free": false,
+  "free": true,
   "dropin": false,
   "ok": false,
   "src": "sdcc"
@@ -319,13 +319,13 @@
   "ages": "Children",
   "status": "Sold out",
   "book": "Book online",
-  "cost": "See link",
+  "cost": "Free",
   "link": "https://www.eventbrite.ie/e/under-the-sea-fish-puzzle-art-laser-cutter-workshop-for-children-age-7-tickets-1993919518956",
   "area": "South Dublin",
   "ageTags": [
    "any"
   ],
-  "free": false,
+  "free": true,
   "dropin": false,
   "ok": false,
   "src": "sdcc"
@@ -693,13 +693,13 @@
   "ages": "Children",
   "status": "Sold out",
   "book": "Book online",
-  "cost": "See link",
+  "cost": "Free",
   "link": "https://www.eventbrite.ie/e/daves-jungle-2pm-show-tickets-1993471692495",
   "area": "South Dublin",
   "ageTags": [
    "any"
   ],
-  "free": false,
+  "free": true,
   "dropin": false,
   "ok": false,
   "src": "sdcc"
@@ -737,13 +737,13 @@
   "ages": "Children",
   "status": "Sold out",
   "book": "Book online",
-  "cost": "See link",
+  "cost": "Free",
   "link": "https://www.eventbrite.ie/e/daves-jungle-3pm-show-tickets-1993473631294",
   "area": "South Dublin",
   "ageTags": [
    "any"
   ],
-  "free": false,
+  "free": true,
   "dropin": false,
   "ok": false,
   "src": "sdcc"
@@ -957,13 +957,13 @@
   "ages": "Children",
   "status": "Available",
   "book": "Book online",
-  "cost": "See link",
+  "cost": "Free",
   "link": "https://www.eventbrite.ie/e/teen-manga-club-tickets-1992930018333",
   "area": "South Dublin",
   "ageTags": [
    "any"
   ],
-  "free": false,
+  "free": true,
   "dropin": false,
   "ok": true,
   "src": "sdcc"
@@ -1160,13 +1160,13 @@
   "ages": "Children",
   "status": "Sold out",
   "book": "Book online",
-  "cost": "See link",
+  "cost": "Free",
   "link": "https://www.eventbrite.ie/e/summer-strolls-templeogue-tickets-1993854193566",
   "area": "South Dublin",
   "ageTags": [
    "any"
   ],
-  "free": false,
+  "free": true,
   "dropin": false,
   "ok": false,
   "src": "sdcc"
@@ -1293,13 +1293,13 @@
   "ages": "Children",
   "status": "Sold out",
   "book": "Book online",
-  "cost": "See link",
+  "cost": "Free",
   "link": "https://www.eventbrite.ie/e/anime-drawing-workshop-tickets-1994203877480",
   "area": "South Dublin",
   "ageTags": [
    "any"
   ],
-  "free": false,
+  "free": true,
   "dropin": false,
   "ok": false,
   "src": "sdcc"
@@ -1624,13 +1624,13 @@
   "ages": "Children",
   "status": "Available",
   "book": "Book online",
-  "cost": "See link",
+  "cost": "Free",
   "link": "https://www.eventbrite.ie/e/book-journaling-workshop-tickets-1993930591073",
   "area": "South Dublin",
   "ageTags": [
    "any"
   ],
-  "free": false,
+  "free": true,
   "dropin": false,
   "ok": true,
   "src": "sdcc"
@@ -1823,13 +1823,13 @@
   "ages": "Children",
   "status": "Available",
   "book": "Book online",
-  "cost": "See link",
+  "cost": "Free",
   "link": "https://www.eventbrite.ie/e/harry-potter-science-2pm-workshop-tickets-1994412411210",
   "area": "South Dublin",
   "ageTags": [
    "any"
   ],
-  "free": false,
+  "free": true,
   "dropin": false,
   "ok": true,
   "src": "sdcc"
@@ -1889,13 +1889,13 @@
   "ages": "Children",
   "status": "Available",
   "book": "Book online",
-  "cost": "See link",
+  "cost": "Free",
   "link": "https://www.eventbrite.ie/e/harry-potter-science-3pm-workshop-tickets-1994414248706",
   "area": "South Dublin",
   "ageTags": [
    "any"
   ],
-  "free": false,
+  "free": true,
   "dropin": false,
   "ok": true,
   "src": "sdcc"

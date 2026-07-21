@@ -74,11 +74,28 @@ def scrape():
                 venue = (loc.get("name") or "Ballyroan Library").strip()
                 if "ballyroan" in venue.lower():
                     venue = "Ballyroan Library"
-                free = bool(ev.get("isAccessibleForFree"))
+                offers = ev.get("offers") or []
+                if isinstance(offers, dict):
+                    offers = [offers]
+                prices = []
+                for o in offers:
+                    try:
+                        prices.append(float(o.get("lowPrice",
+                                                  o.get("price", ""))))
+                    except (TypeError, ValueError):
+                        pass
+                if ev.get("isAccessibleForFree") or (prices
+                                                     and max(prices) == 0):
+                    cost = "Free"
+                elif prices:
+                    p = min(x for x in prices if x > 0)
+                    cost = f"€{p:.2f}".rstrip("0").rstrip(".")
+                else:
+                    cost = "See link"
                 rows.append(event_row(
                     iso=iso, time_str=t or parse_time_range(name),
                     venue=venue, activity=name, cat="Library",
                     ages="Children", status=availability(ev),
-                    book="Book online", cost="Free" if free else "See link",
+                    book="Book online", cost=cost,
                     link=url, area="South Dublin", source="sdcc"))
     return rows
