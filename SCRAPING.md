@@ -90,3 +90,15 @@ the UNFILTERED listing, which is what broke coverage. Also:
 - Kid-filtering now happens by keyword on the detail page, not by category term.
 - dlr staff append "*Event is Fully Booked*" to the TITLE — strip it, keep the status,
   and treat such events as bookable (Contact branch), never drop-in.
+
+## Fingal (added 21 Jul, evening)
+
+- Fingal Libraries book via **Eventbrite**, organiser `fingal-county-libraries-19927793883`
+  (heavy on Blanchardstown, their maker-space branch). The static org page shows only the
+  first batch of events — the full future list comes from the JSON endpoint
+  `eventbrite.ie/org/<org_id>/showmore/?page_size=50&type=future&page=N`
+  (`data.events[].url`, paginate until `has_next_page` is false). Works for Ballyroan too.
+- Fingal's org mixes adult and kids events — require a kid signal in name+description
+  (ages, "7-10 years old", teen, family...) before keeping; Ballyroan stays exclude-adult-only.
+- `fingal.ie/events/browse` exists (filters: type 345 = Libraries, location per town) but is
+  mostly festivals/one-offs; not scraped yet — BlanchFest-type events would come from there.

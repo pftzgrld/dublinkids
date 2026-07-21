@@ -41,7 +41,7 @@ Keep it **current** — that's the whole point. A live, smaller dataset beats a 
    per-day counts; click a day for its events; respects all filters.
 3. **All branches — DONE** for Dublin City (all DCC branches incl. Central Library via
    `dublincity.ie/events` types 184/223), dlr (all branches via the Drupal listing), and
-   SDCC (Ballyroan Eventbrite). Scope agreed 21 Jul: DCC + dlr + SDCC, no Fingal. UI
+   SDCC (Ballyroan Eventbrite). Scope: DCC + dlr + SDCC + Fingal (added same day — north Dublin ask). UI
    narrows by area (new Area filter chips). Non-scraped venues (IMMA, The Ark, Mermaid,
    Pavilion, Hugh Lane, National Gallery, RHA, Print Museum) live in
    `data/manual-events.json` and merge at build — move each to a scraper over time.

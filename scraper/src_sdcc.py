@@ -1,15 +1,58 @@
-"""South Dublin (SDCC) — Ballyroan Library's Eventbrite organiser page.
+"""Eventbrite library organisers — Ballyroan (SDCC) and Fingal County
+Libraries.
 
-Org page lists /e/<slug>-tickets-<id> links; each event page embeds JSON-LD
-with clean startDate and offer availability. New events appear weekly
-(booking opens Monday 10am).
+Org pages list /e/<slug>-tickets-<id> links; each event page embeds JSON-LD
+with clean startDate, venue (branch) name and offer availability. Ballyroan's
+programme is mostly children's events (drop only explicit adult ones);
+Fingal's is the whole county programme, so events must show a kid signal in
+the name or description to be kept.
 """
 import json
 import re
 
 from common import fetch, event_row, parse_time_range, today
 
-ORG_URLS = ["https://www.eventbrite.ie/o/ballyroan-library-2184216231"]
+ORGS = [
+    {"url": "https://www.eventbrite.ie/o/ballyroan-library-2184216231",
+     "id": "2184216231", "area": "South Dublin", "venue": "Ballyroan Library",
+     "require_kid_signal": False, "source": "sdcc"},
+    {"url": "https://www.eventbrite.ie/o/fingal-county-libraries-19927793883",
+     "id": "19927793883", "area": "Fingal", "venue": "Fingal library",
+     "require_kid_signal": True, "source": "fingal"},
+]
+EVENT_URL_RX = r'https://www\.eventbrite\.ie/e/[a-z0-9-]+-tickets-\d+'
+
+
+def org_event_urls(org):
+    """All future event URLs for an organiser: the static org page shows only
+    the first batch, the rest come from the JSON 'showmore' endpoint."""
+    urls = set()
+    r = fetch(org["url"])
+    if r:
+        urls |= set(re.findall(EVENT_URL_RX, r.text))
+    for page in range(1, 8):
+        r = fetch(f"https://www.eventbrite.ie/org/{org['id']}/showmore/"
+                  f"?page_size=50&type=future&page={page}")
+        if not r:
+            break
+        try:
+            data = r.json()["data"]
+        except (ValueError, KeyError):
+            break
+        events = data.get("events") or []
+        for e in events:
+            m = re.match(EVENT_URL_RX, str(e.get("url", "")))
+            if m:
+                urls.add(m.group(0))
+        if not data.get("has_next_page"):
+            break
+    return urls
+KID_RX = re.compile(
+    r"child|kids?\b|famil|toddler|baby|babies|storytime|story\s*time|teen|"
+    r"junior|lego|age[sd]?\s*\d|young\s*people|school|"
+    r"\d{1,2}\s*[-–]\s*\d{1,2}\s*(?:year|yr)|years?\s*old", re.I)
+ADULT_RX = re.compile(r"for adults|adults? only|adult event|18\+|over 18s?",
+                      re.I)
 
 
 def jsonld_events(html):
@@ -40,16 +83,29 @@ def availability(ev):
     return "Available"
 
 
+def cost_from_offers(ev):
+    offers = ev.get("offers") or []
+    if isinstance(offers, dict):
+        offers = [offers]
+    prices = []
+    for o in offers:
+        try:
+            prices.append(float(o.get("lowPrice", o.get("price", ""))))
+        except (TypeError, ValueError):
+            pass
+    if ev.get("isAccessibleForFree") or (prices and max(prices) == 0):
+        return "Free"
+    if prices:
+        p = min(x for x in prices if x > 0)
+        return f"€{p:.2f}".rstrip("0").rstrip(".")
+    return "See link"
+
+
 def scrape():
     rows = []
     seen = set()
-    for org in ORG_URLS:
-        r = fetch(org)
-        if not r:
-            continue
-        links = set(re.findall(
-            r'https://www\.eventbrite\.ie/e/[a-z0-9-]+-tickets-\d+', r.text))
-        for url in sorted(links):
+    for org in ORGS:
+        for url in sorted(org_event_urls(org)):
             if url in seen:
                 continue
             seen.add(url)
@@ -63,39 +119,28 @@ def scrape():
                 iso = start[:10]
                 if iso < today().isoformat():
                     continue
+                name = ev.get("name", "").strip()
+                blurb = name + " " + str(ev.get("description", ""))[:600]
+                if ADULT_RX.search(blurb):
+                    continue
+                if org["require_kid_signal"] and not KID_RX.search(blurb):
+                    continue
                 t = start[11:16] if len(start) >= 16 else None
                 end = ev.get("endDate", "")
                 if t and len(end) >= 16 and end[:10] == iso:
                     t = f"{t}–{end[11:16]}"
-                name = ev.get("name", "").strip()
-                if re.search(r"for adults|adults only|18\+", name, re.I):
-                    continue
                 loc = ev.get("location") or {}
-                venue = (loc.get("name") or "Ballyroan Library").strip()
+                venue = (loc.get("name") or org["venue"]).strip()
                 if "ballyroan" in venue.lower():
                     venue = "Ballyroan Library"
-                offers = ev.get("offers") or []
-                if isinstance(offers, dict):
-                    offers = [offers]
-                prices = []
-                for o in offers:
-                    try:
-                        prices.append(float(o.get("lowPrice",
-                                                  o.get("price", ""))))
-                    except (TypeError, ValueError):
-                        pass
-                if ev.get("isAccessibleForFree") or (prices
-                                                     and max(prices) == 0):
-                    cost = "Free"
-                elif prices:
-                    p = min(x for x in prices if x > 0)
-                    cost = f"€{p:.2f}".rstrip("0").rstrip(".")
-                else:
-                    cost = "See link"
+                ages_m = re.search(r"ages?\s*(\d+\s*[-–]\s*\d+|\d+\+)", name,
+                                   re.I)
                 rows.append(event_row(
                     iso=iso, time_str=t or parse_time_range(name),
                     venue=venue, activity=name, cat="Library",
-                    ages="Children", status=availability(ev),
-                    book="Book online", cost=cost,
-                    link=url, area="South Dublin", source="sdcc"))
+                    ages=ages_m.group(1).replace(" ", "") if ages_m
+                    else "Children",
+                    status=availability(ev), book="Book online",
+                    cost=cost_from_offers(ev), link=url, area=org["area"],
+                    source=org["source"]))
     return rows

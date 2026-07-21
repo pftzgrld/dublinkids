@@ -25,28 +25,6 @@
   "date": "21 Jul",
   "iso": "2026-07-21",
   "day": "Tue",
-  "time": "10:00",
-  "venue": "Finglas Library",
-  "activity": "Baby Book Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "21 Jul",
-  "iso": "2026-07-21",
-  "day": "Tue",
   "time": "10:00–14:00",
   "venue": "The Ark",
   "activity": "Dragon Heroes Animation (day 2 of 5)",
@@ -152,6 +130,28 @@
   "dropin": false,
   "ok": false,
   "src": "sdcc"
+ },
+ {
+  "date": "21 Jul",
+  "iso": "2026-07-21",
+  "day": "Tue",
+  "time": "14:00–16:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Sun Prints & Blue Magic: Cyanotype Lab (Strictly 7-10 years old)",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Sold out",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/sun-prints-blue-magic-cyanotype-lab-strictly-7-10-years-old-tickets-1993027055574",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "fingal"
  },
  {
   "date": "21 Jul",
@@ -290,6 +290,28 @@
   "date": "22 Jul",
   "iso": "2026-07-22",
   "day": "Wed",
+  "time": "11:00–13:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Make a Morse Code Machine  (Strictly 9-12 years old)",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Sold out",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/make-a-morse-code-machine-strictly-9-12-years-old-tickets-1993027750653",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "fingal"
+ },
+ {
+  "date": "22 Jul",
+  "iso": "2026-07-22",
+  "day": "Wed",
   "time": "11:30–12:30",
   "venue": "IMMA",
   "activity": "Mornings at the Museum",
@@ -316,7 +338,7 @@
   "venue": "Ballyroan Library",
   "activity": "Under The Sea: Fish Puzzle Art (Laser Cutter Workshop for children, age 7+)",
   "cat": "Library",
-  "ages": "Children",
+  "ages": "7+",
   "status": "Sold out",
   "book": "Book online",
   "cost": "Free",
@@ -351,6 +373,28 @@
   "dropin": true,
   "ok": true,
   "src": "nmi"
+ },
+ {
+  "date": "22 Jul",
+  "iso": "2026-07-22",
+  "day": "Wed",
+  "time": "14:00–16:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Make a Morse Code Machine (Strictly 13-17 years old)",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Sold out",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/make-a-morse-code-machine-strictly-13-17-years-old-tickets-1993028440717",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "fingal"
  },
  {
   "date": "22 Jul",
@@ -459,6 +503,29 @@
   ],
   "free": true,
   "dropin": false,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "23 Jul",
+  "iso": "2026-07-23",
+  "day": "Thu",
+  "time": "09:30–14:00",
+  "venue": "Deansgrange Library",
+  "activity": "Mythmakers with Dave Rudden",
+  "cat": "Library",
+  "ages": "8-12",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/mythmakers-dave-rudden",
+  "area": "dlr",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
   "ok": true,
   "src": "dlr"
  },
@@ -593,6 +660,28 @@
   "dropin": true,
   "ok": true,
   "src": "nmi"
+ },
+ {
+  "date": "23 Jul",
+  "iso": "2026-07-23",
+  "day": "Thu",
+  "time": "11:00–13:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Bring Photon to Life (Ages 10–12)",
+  "cat": "Library",
+  "ages": "10–12",
+  "status": "Sold out",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/bring-photon-to-life-ages-1012-tickets-1994000047820",
+  "area": "Fingal",
+  "ageTags": [
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "fingal"
  },
  {
   "date": "23 Jul",
@@ -752,23 +841,23 @@
   "date": "23 Jul",
   "iso": "2026-07-23",
   "day": "Thu",
-  "time": "15:30",
-  "venue": "Shankill Library",
-  "activity": "Summer Quiz",
+  "time": "15:00–16:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Freeplay Lego for 7-10 year olds",
   "cat": "Library",
   "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
+  "status": "Sold out",
+  "book": "Book online",
   "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-quiz",
-  "area": "dlr",
+  "link": "https://www.eventbrite.ie/e/freeplay-lego-for-7-10-year-olds-tickets-1991473603156",
+  "area": "Fingal",
   "ageTags": [
    "any"
   ],
   "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
+  "dropin": false,
+  "ok": false,
+  "src": "fingal"
  },
  {
   "date": "23 Jul",
@@ -791,6 +880,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "23 Jul",
+  "iso": "2026-07-23",
+  "day": "Thu",
+  "time": "17:30",
+  "venue": "dlr LexIcon",
+  "activity": "Red King Chess Workshops and Tournament",
+  "cat": "Library",
+  "ages": "7-14",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/red-king-chess-workshops-and-tournament-0",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "24 Jul",
@@ -945,6 +1056,28 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "25 Jul",
+  "iso": "2026-07-25",
+  "day": "Sat",
+  "time": "11:00–13:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Can a robot really think? (Ages 10-12)",
+  "cat": "Library",
+  "ages": "10-12",
+  "status": "Sold out",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/can-a-robot-really-think-ages-10-12-tickets-1994007227294",
+  "area": "Fingal",
+  "ageTags": [
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "fingal"
  },
  {
   "date": "25 Jul",
@@ -1153,6 +1286,28 @@
   "date": "27 Jul",
   "iso": "2026-07-27",
   "day": "Mon",
+  "time": "14:00–16:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Pop-Up Paper Theatre (Strictly 7-10 years old)",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Sold out",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/pop-up-paper-theatre-strictly-7-10-years-old-tickets-1993029517939",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "fingal"
+ },
+ {
+  "date": "27 Jul",
+  "iso": "2026-07-27",
+  "day": "Mon",
   "time": "18:00–20:00",
   "venue": "Ballyroan Library",
   "activity": "Summer Strolls - Templeogue",
@@ -1170,28 +1325,6 @@
   "dropin": false,
   "ok": false,
   "src": "sdcc"
- },
- {
-  "date": "28 Jul",
-  "iso": "2026-07-28",
-  "day": "Tue",
-  "time": "10:00",
-  "venue": "Finglas Library",
-  "activity": "Baby Book Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
  },
  {
   "date": "28 Jul",
@@ -1286,6 +1419,28 @@
   "date": "28 Jul",
   "iso": "2026-07-28",
   "day": "Tue",
+  "time": "11:00–13:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Paper Wizards: Make It Mash It Create It  (Strictly 9-12 years old)",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Sold out",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/paper-wizards-make-it-mash-it-create-it-strictly-9-12-years-old-tickets-1993031301273",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "fingal"
+ },
+ {
+  "date": "28 Jul",
+  "iso": "2026-07-28",
+  "day": "Tue",
   "time": "14:00–15:00",
   "venue": "Ballyroan Library",
   "activity": "Anime Drawing workshop",
@@ -1303,6 +1458,28 @@
   "dropin": false,
   "ok": false,
   "src": "sdcc"
+ },
+ {
+  "date": "28 Jul",
+  "iso": "2026-07-28",
+  "day": "Tue",
+  "time": "14:00–16:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Teen Maker Meet-up (Strictly 13-17 years old)",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/teen-maker-meet-up-strictly-13-17-years-old-tickets-1993032211997",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "fingal"
  },
  {
   "date": "28 Jul",
@@ -1463,6 +1640,28 @@
   "date": "29 Jul",
   "iso": "2026-07-29",
   "day": "Wed",
+  "time": "11:00–13:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Can robots really think? (Strictly for kids aged 10 - 12 years old)",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Sold out",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/can-robots-really-think-strictly-for-kids-aged-10-12-years-old-tickets-1994413154433",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "fingal"
+ },
+ {
+  "date": "29 Jul",
+  "iso": "2026-07-29",
+  "day": "Wed",
   "time": "11:00–13:00 & 14:00–16:00",
   "venue": "NMI Collins Barracks",
   "activity": "Summer Family Drop-ins: Let's Explore...The Park",
@@ -1507,6 +1706,28 @@
   "date": "29 Jul",
   "iso": "2026-07-29",
   "day": "Wed",
+  "time": "14:00–15:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Zine and Chat - A Creative Meetup for  17-19 year olds",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/zine-and-chat-a-creative-meetup-for-17-19-year-olds-tickets-1992781863197",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "fingal"
+ },
+ {
+  "date": "29 Jul",
+  "iso": "2026-07-29",
+  "day": "Wed",
   "time": "14:30",
   "venue": "Ballyfermot Library",
   "activity": "Children's Storytime at Ballyfermot Library",
@@ -1524,28 +1745,6 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
- },
- {
-  "date": "29 Jul",
-  "iso": "2026-07-29",
-  "day": "Wed",
-  "time": "14:45",
-  "venue": "Dalkey Library",
-  "activity": "Harry Potter Science",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Fully booked",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/harry-potter-science-event-fully-booked",
-  "area": "dlr",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": false,
-  "src": "dlr"
  },
  {
   "date": "29 Jul",
@@ -1860,28 +2059,6 @@
   "date": "30 Jul",
   "iso": "2026-07-30",
   "day": "Thu",
-  "time": "15:00",
-  "venue": "Dundrum Library",
-  "activity": "Dave’s Jungle",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Fully booked",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/daves-jungle-event-fully-booked",
-  "area": "dlr",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": false,
-  "src": "dlr"
- },
- {
-  "date": "30 Jul",
-  "iso": "2026-07-30",
-  "day": "Thu",
   "time": "15:00–15:45",
   "venue": "Ballyroan Library",
   "activity": "Harry Potter Science! 3pm workshop",
@@ -1965,28 +2142,6 @@
   "dropin": false,
   "ok": false,
   "src": "nmi"
- },
- {
-  "date": "30 Jul",
-  "iso": "2026-07-30",
-  "day": "Thu",
-  "time": "See link",
-  "venue": "dlr LexIcon",
-  "activity": "Seen and Heard",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/seen-and-heard",
-  "area": "dlr",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
  },
  {
   "date": "31 Jul",
@@ -2076,6 +2231,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "31 Jul",
+  "iso": "2026-07-31",
+  "day": "Fri",
+  "time": "11:00–13:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Bring Photon to Life (Ages 10–12)",
+  "cat": "Library",
+  "ages": "10–12",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/bring-photon-to-life-ages-1012-tickets-1994413571681",
+  "area": "Fingal",
+  "ageTags": [
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "fingal"
  },
  {
   "date": "1 Aug",
@@ -2181,28 +2358,6 @@
   "book": "Contact branch",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Aug",
-  "iso": "2026-08-04",
-  "day": "Tue",
-  "time": "10:00",
-  "venue": "Finglas Library",
-  "activity": "Baby Book Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -2744,6 +2899,28 @@
   "date": "8 Aug",
   "iso": "2026-08-08",
   "day": "Sat",
+  "time": "10:30–12:00",
+  "venue": "Blackrock Library",
+  "activity": "Summer Stars Lego Workshop with Bricks 4 Kidz",
+  "cat": "Library",
+  "ages": "4-12",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-stars-lego-workshop-bricks-4-kidz",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "8 Aug",
+  "iso": "2026-08-08",
+  "day": "Sat",
   "time": "11:00 & 13:00",
   "venue": "Mermaid Arts, Bray",
   "activity": "Stories from the Penny Farthing (outdoor puppets)",
@@ -2835,28 +3012,6 @@
   "date": "11 Aug",
   "iso": "2026-08-11",
   "day": "Tue",
-  "time": "10:00",
-  "venue": "Finglas Library",
-  "activity": "Baby Book Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "11 Aug",
-  "iso": "2026-08-11",
-  "day": "Tue",
   "time": "10:30",
   "venue": "Raheny Library",
   "activity": "Raheny Library Toddler Group",
@@ -2918,6 +3073,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "11 Aug",
+  "iso": "2026-08-11",
+  "day": "Tue",
+  "time": "11:00–13:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Felt your own Dinosaur with Jenni Kilgallon 12-14 year olds",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/felt-your-own-dinosaur-with-jenni-kilgallon-12-14-year-olds-tickets-1992202726985",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "fingal"
  },
  {
   "date": "11 Aug",
@@ -3272,6 +3449,28 @@
   "src": "dcc"
  },
  {
+  "date": "13 Aug",
+  "iso": "2026-08-13",
+  "day": "Thu",
+  "time": "18:00–19:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Summer Teddy Bear Sleepover for 3-6 year olds",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/summer-teddy-bear-sleepover-for-3-6-year-olds-tickets-1991473964236",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "fingal"
+ },
+ {
   "date": "14 Aug",
   "iso": "2026-08-14",
   "day": "Fri",
@@ -3463,28 +3662,6 @@
   "book": "Contact branch",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "18 Aug",
-  "iso": "2026-08-18",
-  "day": "Tue",
-  "time": "10:00",
-  "venue": "Finglas Library",
-  "activity": "Baby Book Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -3762,6 +3939,29 @@
   "date": "20 Aug",
   "iso": "2026-08-20",
   "day": "Thu",
+  "time": "09:30–14:00",
+  "venue": "Deansgrange Library",
+  "activity": "Mythmakers with Dave Rudden",
+  "cat": "Library",
+  "ages": "8-12",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/mythmakers-dave-rudden-0",
+  "area": "dlr",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
   "time": "10:00",
   "venue": "Finglas Library",
   "activity": "Finglas Library Toddler Book Club",
@@ -3872,6 +4072,28 @@
   "date": "20 Aug",
   "iso": "2026-08-20",
   "day": "Thu",
+  "time": "15:30",
+  "venue": "dlr LexIcon",
+  "activity": "Summer Arts and Crafts as Gaeilge",
+  "cat": "Library",
+  "ages": "5-9",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-arts-and-crafts-gaeilge",
+  "area": "dlr",
+  "ageTags": [
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
   "time": "15:30–16:30",
   "venue": "Ringsend Library",
   "activity": "Ringsend Library Lego Club",
@@ -3889,28 +4111,6 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
- },
- {
-  "date": "20 Aug",
-  "iso": "2026-08-20",
-  "day": "Thu",
-  "time": "20:00",
-  "venue": "Ballyogan Library",
-  "activity": "Summer Stars Big Family Quiz",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Limited",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-stars-big-family-quiz",
-  "area": "dlr",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlr"
  },
  {
   "date": "21 Aug",
@@ -3960,6 +4160,28 @@
   "date": "22 Aug",
   "iso": "2026-08-22",
   "day": "Sat",
+  "time": "10:00–16:00",
+  "venue": "Carnegie Library, Swords",
+  "activity": "Fingal Libraries Summer of Board Games",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/fingal-libraries-summer-of-board-games-tickets-1988319165147",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "fingal"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
   "time": "10:30",
   "venue": "Central Library",
   "activity": "Library Lego Club",
@@ -3999,6 +4221,28 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "11:00–12:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Musical Tots -Fun and music for 0-5year olds",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/musical-tots-fun-and-music-for-0-5year-olds-tickets-1991998440960",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "fingal"
  },
  {
   "date": "22 Aug",
@@ -4070,6 +4314,28 @@
   "src": "manual"
  },
  {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "15:00",
+  "venue": "Ballyogan Library",
+  "activity": "Anna Bananas - Summer Stars",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/anna-bananas-summer-stars",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
   "date": "23 Aug",
   "iso": "2026-08-23",
   "day": "Sun",
@@ -4104,28 +4370,6 @@
   "book": "Contact branch",
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "25 Aug",
-  "iso": "2026-08-25",
-  "day": "Tue",
-  "time": "10:00",
-  "venue": "Finglas Library",
-  "activity": "Baby Book Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -4244,6 +4488,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "26 Aug",
+  "iso": "2026-08-26",
+  "day": "Wed",
+  "time": "14:00–15:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Zine and Chat - A Creative Meetup for 17-19 year olds",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/zine-and-chat-a-creative-meetup-for-17-19-year-olds-tickets-1992781965503",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "fingal"
  },
  {
   "date": "26 Aug",
@@ -4697,7 +4963,7 @@
   "activity": "Kíla — Family Show (live music)",
   "cat": "Show",
   "ages": "Children & families",
-  "status": "Sold out",
+  "status": "Available",
   "book": "Book online",
   "cost": "€28 / €12 child",
   "link": "https://www.mermaidartscentre.ie/whats-on/events/kila-family-show",
@@ -4707,7 +4973,7 @@
   ],
   "free": false,
   "dropin": false,
-  "ok": false,
+  "ok": true,
   "src": "manual"
  },
  {
@@ -4819,28 +5085,6 @@
   "dropin": true,
   "ok": true,
   "src": "dlr"
- },
- {
-  "date": "1 Sep",
-  "iso": "2026-09-01",
-  "day": "Tue",
-  "time": "10:00",
-  "venue": "Finglas Library",
-  "activity": "Baby Book Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
  },
  {
   "date": "1 Sep",

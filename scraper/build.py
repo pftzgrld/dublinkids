@@ -20,7 +20,9 @@ DATA = ROOT / "data" / "events.json"
 MANUAL = ROOT / "data" / "manual-events.json"
 SEASON_START = "2026-06-01"
 
-SOURCES = {"dcc": src_dcc, "dlr": src_dlr, "nmi": src_nmi, "sdcc": src_sdcc}
+# module -> the `src` tags it owns (sdcc module also scrapes Fingal's org)
+SOURCES = {"dcc": (src_dcc, ["dcc"]), "dlr": (src_dlr, ["dlr"]),
+           "nmi": (src_nmi, ["nmi"]), "sdcc": (src_sdcc, ["sdcc", "fingal"])}
 
 
 def main():
@@ -30,7 +32,7 @@ def main():
         prev_by_src.setdefault(r.get("src", "manual"), []).append(r)
 
     rows = []
-    for name, mod in SOURCES.items():
+    for name, (mod, owned) in SOURCES.items():
         try:
             got = mod.scrape()
         except Exception as e:  # a broken parser must not empty the site
@@ -39,12 +41,14 @@ def main():
         if got:
             print(f"[{name}] {len(got)} events")
             rows.extend(got)
-        elif prev_by_src.get(name):
-            print(f"[{name}] returned 0 — keeping "
-                  f"{len(prev_by_src[name])} previous rows", file=sys.stderr)
-            rows.extend(prev_by_src[name])
         else:
-            print(f"[{name}] 0 events")
+            kept = [r for s in owned for r in prev_by_src.get(s, [])]
+            if kept:
+                print(f"[{name}] returned 0 — keeping {len(kept)} "
+                      f"previous rows", file=sys.stderr)
+                rows.extend(kept)
+            else:
+                print(f"[{name}] 0 events")
 
     manual = json.loads(MANUAL.read_text()) if MANUAL.exists() else []
     for r in manual:
