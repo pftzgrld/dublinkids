@@ -25,11 +25,16 @@ CAT_RULES = [
 
 
 def categorise(title, venue, text):
+    # Title keywords outrank the venue; body text is the weakest signal —
+    # a library event whose description mentions films is still a Library event
     for cat, rx in CAT_RULES:
-        if rx.search(title) or rx.search(text[:400]):
+        if rx.search(title):
             return cat
-    if "library" in venue.lower() or "librar" in text[:200].lower():
+    if "library" in venue.lower() or "library" in title.lower():
         return "Library"
+    for cat, rx in CAT_RULES:
+        if rx.search(text[:400]):
+            return cat
     return "Workshop"
 
 
