@@ -47,6 +47,28 @@
   "date": "21 Jul",
   "iso": "2026-07-21",
   "day": "Tue",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "21 Jul",
+  "iso": "2026-07-21",
+  "day": "Tue",
   "time": "10:00–14:00",
   "venue": "The Ark",
   "activity": "Dragon Heroes Animation (day 2 of 5)",
@@ -130,6 +152,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "21 Jul",
+  "iso": "2026-07-21",
+  "day": "Tue",
+  "time": "11:30–12:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Crafting @ Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "21 Jul",
@@ -223,6 +267,28 @@
   "date": "21 Jul",
   "iso": "2026-07-21",
   "day": "Tue",
+  "time": "15:00–15:30",
+  "venue": "Bray Library",
+  "activity": "Afterschool Storytime",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "21 Jul",
+  "iso": "2026-07-21",
+  "day": "Tue",
   "time": "15:30",
   "venue": "Terenure Library",
   "activity": "Lego Club",
@@ -242,49 +308,26 @@
   "src": "dcc"
  },
  {
-  "date": "21 Jul",
-  "iso": "2026-07-21",
-  "day": "Tue",
-  "time": "15:30",
-  "venue": "dlr LexIcon",
-  "activity": "Design Your Own Anime Character with Amy Louise O’Callaghan",
+  "date": "22 Jul",
+  "iso": "2026-07-22",
+  "day": "Wed",
+  "time": "10:00–12:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Chess @ Ballywaltrim Library",
   "cat": "Library",
   "ages": "Children",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/design-your-own-anime-character-amy-louise-ocallaghan",
-  "area": "dlr",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
   "ageTags": [
    "any"
   ],
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "21 Jul",
-  "iso": "2026-07-21",
-  "day": "Tue",
-  "time": "16:00",
-  "venue": "Deansgrange Library",
-  "activity": "Summer Stars - Creative sessions with staff in July and August",
-  "cat": "Library",
-  "ages": "8-12",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-stars-creative-sessions-staff-july-and-august",
-  "area": "dlr",
-  "ageTags": [
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
+  "src": "wicklow"
  },
  {
   "date": "22 Jul",
@@ -466,6 +509,28 @@
   "date": "22 Jul",
   "iso": "2026-07-22",
   "day": "Wed",
+  "time": "15:00–15:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teddy Bear Story Time at Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "22 Jul",
+  "iso": "2026-07-22",
+  "day": "Wed",
   "time": "15:15",
   "venue": "Cabra Library",
   "activity": "Children's Storytime at Cabra Library",
@@ -572,6 +637,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "23 Jul",
+  "iso": "2026-07-23",
+  "day": "Thu",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "The Offline Club: Less scrolling, more making",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "23 Jul",
@@ -863,6 +950,28 @@
   "date": "23 Jul",
   "iso": "2026-07-23",
   "day": "Thu",
+  "time": "15:00–15:45",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Arts and Crafts at Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "23 Jul",
+  "iso": "2026-07-23",
+  "day": "Thu",
   "time": "15:00–16:00",
   "venue": "Blanchardstown Library",
   "activity": "Freeplay Lego for 7-10 year olds",
@@ -880,6 +989,28 @@
   "dropin": false,
   "ok": false,
   "src": "fingal"
+ },
+ {
+  "date": "23 Jul",
+  "iso": "2026-07-23",
+  "day": "Thu",
+  "time": "15:30",
+  "venue": "Shankill Library",
+  "activity": "Summer Quiz",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-quiz",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "23 Jul",
@@ -1241,6 +1372,28 @@
   "date": "27 Jul",
   "iso": "2026-07-27",
   "day": "Mon",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "27 Jul",
+  "iso": "2026-07-27",
+  "day": "Mon",
   "time": "10:00–14:00",
   "venue": "Mermaid Arts, Bray",
   "activity": "BrickFlicks Stop-Motion Camp (day 1 of 5)",
@@ -1250,7 +1403,7 @@
   "book": "Book online",
   "cost": "€125",
   "link": "https://www.mermaidartscentre.ie/whats-on/events/brickflicks-camp-2026",
-  "area": "Bray",
+  "area": "North Wicklow",
   "ageTags": [
    "5to8",
    "9to12"
@@ -1374,6 +1527,28 @@
   "date": "28 Jul",
   "iso": "2026-07-28",
   "day": "Tue",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "28 Jul",
+  "iso": "2026-07-28",
+  "day": "Tue",
   "time": "10:00–14:00",
   "venue": "Mermaid Arts, Bray",
   "activity": "BrickFlicks Stop-Motion Camp (day 2 of 5)",
@@ -1383,7 +1558,7 @@
   "book": "Book online",
   "cost": "€125",
   "link": "https://www.mermaidartscentre.ie/whats-on/events/brickflicks-camp-2026",
-  "area": "Bray",
+  "area": "North Wicklow",
   "ageTags": [
    "5to8",
    "9to12"
@@ -1480,6 +1655,28 @@
   "dropin": false,
   "ok": false,
   "src": "fingal"
+ },
+ {
+  "date": "28 Jul",
+  "iso": "2026-07-28",
+  "day": "Tue",
+  "time": "11:30–12:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Crafting @ Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "28 Jul",
@@ -1595,6 +1792,28 @@
   "date": "28 Jul",
   "iso": "2026-07-28",
   "day": "Tue",
+  "time": "15:00–15:30",
+  "venue": "Bray Library",
+  "activity": "Afterschool Storytime",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "28 Jul",
+  "iso": "2026-07-28",
+  "day": "Tue",
   "time": "15:30",
   "venue": "Terenure Library",
   "activity": "Lego Club",
@@ -1617,6 +1836,28 @@
   "date": "29 Jul",
   "iso": "2026-07-29",
   "day": "Wed",
+  "time": "10:00–12:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Chess @ Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "29 Jul",
+  "iso": "2026-07-29",
+  "day": "Wed",
   "time": "10:00–14:00",
   "venue": "Mermaid Arts, Bray",
   "activity": "BrickFlicks Stop-Motion Camp (day 3 of 5)",
@@ -1626,7 +1867,7 @@
   "book": "Book online",
   "cost": "€125",
   "link": "https://www.mermaidartscentre.ie/whats-on/events/brickflicks-camp-2026",
-  "area": "Bray",
+  "area": "North Wicklow",
   "ageTags": [
    "5to8",
    "9to12"
@@ -1794,6 +2035,50 @@
   "date": "29 Jul",
   "iso": "2026-07-29",
   "day": "Wed",
+  "time": "14:45",
+  "venue": "Dalkey Library",
+  "activity": "Harry Potter Science",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Fully booked",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/harry-potter-science-event-fully-booked",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "dlr"
+ },
+ {
+  "date": "29 Jul",
+  "iso": "2026-07-29",
+  "day": "Wed",
+  "time": "15:00–15:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teddy Bear Story Time at Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "29 Jul",
+  "iso": "2026-07-29",
+  "day": "Wed",
   "time": "15:15",
   "venue": "Cabra Library",
   "activity": "Children's Storytime at Cabra Library",
@@ -1904,6 +2189,28 @@
   "date": "30 Jul",
   "iso": "2026-07-30",
   "day": "Thu",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "The Offline Club: Less scrolling, more making",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "30 Jul",
+  "iso": "2026-07-30",
+  "day": "Thu",
   "time": "10:00–14:00",
   "venue": "Mermaid Arts, Bray",
   "activity": "BrickFlicks Stop-Motion Camp (day 4 of 5)",
@@ -1913,7 +2220,7 @@
   "book": "Book online",
   "cost": "€125",
   "link": "https://www.mermaidartscentre.ie/whats-on/events/brickflicks-camp-2026",
-  "area": "Bray",
+  "area": "North Wicklow",
   "ageTags": [
    "5to8",
    "9to12"
@@ -2103,6 +2410,28 @@
   "date": "30 Jul",
   "iso": "2026-07-30",
   "day": "Thu",
+  "time": "15:00",
+  "venue": "Dundrum Library",
+  "activity": "Dave’s Jungle",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Fully booked",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/daves-jungle-event-fully-booked",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "dlr"
+ },
+ {
+  "date": "30 Jul",
+  "iso": "2026-07-30",
+  "day": "Thu",
   "time": "15:00–15:45",
   "venue": "Ballyroan Library",
   "activity": "Harry Potter Science! 3pm workshop",
@@ -2120,6 +2449,28 @@
   "dropin": false,
   "ok": true,
   "src": "sdcc"
+ },
+ {
+  "date": "30 Jul",
+  "iso": "2026-07-30",
+  "day": "Thu",
+  "time": "15:00–15:45",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Arts and Crafts at Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "30 Jul",
@@ -2188,6 +2539,28 @@
   "src": "nmi"
  },
  {
+  "date": "30 Jul",
+  "iso": "2026-07-30",
+  "day": "Thu",
+  "time": "See link",
+  "venue": "dlr LexIcon",
+  "activity": "Seen and Heard",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/seen-and-heard",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
   "date": "31 Jul",
   "iso": "2026-07-31",
   "day": "Fri",
@@ -2222,7 +2595,7 @@
   "book": "Book online",
   "cost": "€125",
   "link": "https://www.mermaidartscentre.ie/whats-on/events/brickflicks-camp-2026",
-  "area": "Bray",
+  "area": "North Wicklow",
   "ageTags": [
    "5to8",
    "9to12"
@@ -2437,6 +2810,28 @@
   "date": "4 Aug",
   "iso": "2026-08-04",
   "day": "Tue",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "4 Aug",
+  "iso": "2026-08-04",
+  "day": "Tue",
   "time": "10:30",
   "venue": "Raheny Library",
   "activity": "Raheny Library Toddler Group",
@@ -2503,6 +2898,28 @@
   "date": "4 Aug",
   "iso": "2026-08-04",
   "day": "Tue",
+  "time": "11:30–12:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Crafting @ Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "4 Aug",
+  "iso": "2026-08-04",
+  "day": "Tue",
   "time": "14:00",
   "venue": "Coolock Library",
   "activity": "Greek Family Favourites",
@@ -2547,6 +2964,28 @@
   "date": "4 Aug",
   "iso": "2026-08-04",
   "day": "Tue",
+  "time": "15:00–15:30",
+  "venue": "Bray Library",
+  "activity": "Afterschool Storytime",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "4 Aug",
+  "iso": "2026-08-04",
+  "day": "Tue",
   "time": "15:30",
   "venue": "Terenure Library",
   "activity": "Lego Club",
@@ -2564,6 +3003,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "5 Aug",
+  "iso": "2026-08-05",
+  "day": "Wed",
+  "time": "10:00–12:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Chess @ Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "5 Aug",
@@ -2657,6 +3118,28 @@
   "date": "5 Aug",
   "iso": "2026-08-05",
   "day": "Wed",
+  "time": "15:00–15:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teddy Bear Story Time at Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "5 Aug",
+  "iso": "2026-08-05",
+  "day": "Wed",
   "time": "15:15",
   "venue": "Cabra Library",
   "activity": "Children's Storytime at Cabra Library",
@@ -2740,6 +3223,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "6 Aug",
+  "iso": "2026-08-06",
+  "day": "Thu",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "The Offline Club: Less scrolling, more making",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "6 Aug",
@@ -2855,6 +3360,28 @@
   "date": "6 Aug",
   "iso": "2026-08-06",
   "day": "Thu",
+  "time": "15:00–15:45",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Arts and Crafts at Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "6 Aug",
+  "iso": "2026-08-06",
+  "day": "Thu",
   "time": "15:30–16:30",
   "venue": "Ringsend Library",
   "activity": "Ringsend Library Lego Club",
@@ -2965,28 +3492,6 @@
   "date": "8 Aug",
   "iso": "2026-08-08",
   "day": "Sat",
-  "time": "10:30–12:00",
-  "venue": "Blackrock Library",
-  "activity": "Summer Stars Lego Workshop with Bricks 4 Kidz",
-  "cat": "Library",
-  "ages": "4-12",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-stars-lego-workshop-bricks-4-kidz",
-  "area": "dlr",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "8 Aug",
-  "iso": "2026-08-08",
-  "day": "Sat",
   "time": "11:00 & 13:00",
   "venue": "Mermaid Arts, Bray",
   "activity": "Stories from the Penny Farthing (outdoor puppets)",
@@ -2996,7 +3501,7 @@
   "book": "Drop-in",
   "cost": "Free",
   "link": "https://www.mermaidartscentre.ie/whats-on/events/stories-from-the-penny-farthing",
-  "area": "Bray",
+  "area": "North Wicklow",
   "ageTags": [
    "any"
   ],
@@ -3056,6 +3561,28 @@
   "date": "10 Aug",
   "iso": "2026-08-10",
   "day": "Mon",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "10 Aug",
+  "iso": "2026-08-10",
+  "day": "Mon",
   "time": "10:30",
   "venue": "Coolock Library",
   "activity": "Coolock Toddler Group",
@@ -3095,6 +3622,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "11 Aug",
+  "iso": "2026-08-11",
+  "day": "Tue",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "11 Aug",
@@ -3188,6 +3737,28 @@
   "date": "11 Aug",
   "iso": "2026-08-11",
   "day": "Tue",
+  "time": "11:30–12:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Crafting @ Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "11 Aug",
+  "iso": "2026-08-11",
+  "day": "Tue",
   "time": "15:00",
   "venue": "Ballyfermot Library",
   "activity": "Drop in Children's Board Games",
@@ -3210,6 +3781,28 @@
   "date": "11 Aug",
   "iso": "2026-08-11",
   "day": "Tue",
+  "time": "15:00–15:30",
+  "venue": "Bray Library",
+  "activity": "Afterschool Storytime",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "11 Aug",
+  "iso": "2026-08-11",
+  "day": "Tue",
   "time": "15:30",
   "venue": "Terenure Library",
   "activity": "Lego Club",
@@ -3227,6 +3820,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "12 Aug",
+  "iso": "2026-08-12",
+  "day": "Wed",
+  "time": "10:00–12:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Chess @ Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "12 Aug",
@@ -3293,6 +3908,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "12 Aug",
+  "iso": "2026-08-12",
+  "day": "Wed",
+  "time": "15:00–15:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teddy Bear Story Time at Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "12 Aug",
@@ -3381,6 +4018,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "13 Aug",
+  "iso": "2026-08-13",
+  "day": "Thu",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "The Offline Club: Less scrolling, more making",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "13 Aug",
@@ -3518,6 +4177,28 @@
   "date": "13 Aug",
   "iso": "2026-08-13",
   "day": "Thu",
+  "time": "15:00–15:45",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Arts and Crafts at Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "13 Aug",
+  "iso": "2026-08-13",
+  "day": "Thu",
   "time": "15:30–16:30",
   "venue": "Ringsend Library",
   "activity": "Ringsend Library Lego Club",
@@ -3601,50 +4282,6 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
- },
- {
-  "date": "14 Aug",
-  "iso": "2026-08-14",
-  "day": "Fri",
-  "time": "15:30",
-  "venue": "dlr LexIcon",
-  "activity": "Monster Summer Doodle with White Doodle Art",
-  "cat": "Library",
-  "ages": "5-8",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/monster-summer-doodle-white-doodle-art",
-  "area": "dlr",
-  "ageTags": [
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "15 Aug",
-  "iso": "2026-08-15",
-  "day": "Sat",
-  "time": "10:00",
-  "venue": "Blackrock Library",
-  "activity": "Summer Family Film Club",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-family-film-club-1",
-  "area": "dlr",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
  },
  {
   "date": "15 Aug",
@@ -3741,6 +4378,50 @@
   "date": "17 Aug",
   "iso": "2026-08-17",
   "day": "Mon",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: no tummy time Monday 17 August",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "17 Aug",
+  "iso": "2026-08-17",
+  "day": "Mon",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "See link",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "17 Aug",
+  "iso": "2026-08-17",
+  "day": "Mon",
   "time": "10:30",
   "venue": "Coolock Library",
   "activity": "Coolock Toddler Group",
@@ -3780,6 +4461,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "18 Aug",
@@ -3851,23 +4554,23 @@
   "date": "18 Aug",
   "iso": "2026-08-18",
   "day": "Tue",
-  "time": "14:00",
-  "venue": "Shankill Library",
-  "activity": "Let’s Get Musical",
+  "time": "11:30–12:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Crafting @ Ballywaltrim Library",
   "cat": "Library",
-  "ages": "5-8",
+  "ages": "Children",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/lets-get-musical",
-  "area": "dlr",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
   "ageTags": [
-   "5to8"
+   "any"
   ],
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "dlr"
+  "src": "wicklow"
  },
  {
   "date": "18 Aug",
@@ -3895,6 +4598,28 @@
   "date": "18 Aug",
   "iso": "2026-08-18",
   "day": "Tue",
+  "time": "15:00–15:30",
+  "venue": "Bray Library",
+  "activity": "Afterschool Storytime",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
   "time": "15:30",
   "venue": "Terenure Library",
   "activity": "Lego Club",
@@ -3912,6 +4637,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
+  "time": "10:00–12:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Chess @ Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "19 Aug",
@@ -3961,23 +4708,23 @@
   "date": "19 Aug",
   "iso": "2026-08-19",
   "day": "Wed",
-  "time": "14:45",
-  "venue": "Dalkey Library",
-  "activity": "Winnie the Pooh Workshop: Bees, Honey and Beeswax",
+  "time": "15:00–15:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teddy Bear Story Time at Ballywaltrim Library",
   "cat": "Library",
   "ages": "Children",
-  "status": "Fully booked",
-  "book": "Contact branch",
+  "status": "No booking needed",
+  "book": "Drop-in",
   "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/winnie-pooh-workshop-bees-honey-and-beeswax",
-  "area": "dlr",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
   "ageTags": [
    "any"
   ],
   "free": true,
-  "dropin": false,
-  "ok": false,
-  "src": "dlr"
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "19 Aug",
@@ -4182,6 +4929,28 @@
   "date": "20 Aug",
   "iso": "2026-08-20",
   "day": "Thu",
+  "time": "15:00–15:45",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Arts and Crafts at Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
   "time": "15:30",
   "venue": "dlr LexIcon",
   "activity": "Summer Arts and Crafts as Gaeilge",
@@ -4221,6 +4990,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
+  "time": "20:00",
+  "venue": "Ballyogan Library",
+  "activity": "Summer Stars Big Family Quiz",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Limited",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-stars-big-family-quiz",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "21 Aug",
@@ -4358,28 +5149,6 @@
   "date": "22 Aug",
   "iso": "2026-08-22",
   "day": "Sat",
-  "time": "11:30–12:30",
-  "venue": "dlr LexIcon",
-  "activity": "Sarah Sparkles Magic Storytelling",
-  "cat": "Library",
-  "ages": "0-10",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/sarah-sparkles-magic-storytelling",
-  "area": "dlr",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "22 Aug",
-  "iso": "2026-08-22",
-  "day": "Sat",
   "time": "12:00–13:00",
   "venue": "IMMA",
   "activity": "Family Tour",
@@ -4424,28 +5193,6 @@
   "src": "manual"
  },
  {
-  "date": "22 Aug",
-  "iso": "2026-08-22",
-  "day": "Sat",
-  "time": "15:00",
-  "venue": "Ballyogan Library",
-  "activity": "Anna Bananas - Summer Stars",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/anna-bananas-summer-stars",
-  "area": "dlr",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
- },
- {
   "date": "23 Aug",
   "iso": "2026-08-23",
   "day": "Sun",
@@ -4466,6 +5213,28 @@
   "dropin": true,
   "ok": true,
   "src": "manual"
+ },
+ {
+  "date": "24 Aug",
+  "iso": "2026-08-24",
+  "day": "Mon",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "24 Aug",
@@ -4510,6 +5279,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "25 Aug",
+  "iso": "2026-08-25",
+  "day": "Tue",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "25 Aug",
@@ -4581,6 +5372,28 @@
   "date": "25 Aug",
   "iso": "2026-08-25",
   "day": "Tue",
+  "time": "11:30–12:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Crafting @ Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "25 Aug",
+  "iso": "2026-08-25",
+  "day": "Tue",
   "time": "15:00",
   "venue": "Ballyfermot Library",
   "activity": "Drop in Children's Board Games",
@@ -4603,6 +5416,28 @@
   "date": "25 Aug",
   "iso": "2026-08-25",
   "day": "Tue",
+  "time": "15:00–15:30",
+  "venue": "Bray Library",
+  "activity": "Afterschool Storytime",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "25 Aug",
+  "iso": "2026-08-25",
+  "day": "Tue",
   "time": "15:30",
   "venue": "Terenure Library",
   "activity": "Lego Club",
@@ -4620,6 +5455,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "26 Aug",
+  "iso": "2026-08-26",
+  "day": "Wed",
+  "time": "10:00–12:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teen Chess @ Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "26 Aug",
@@ -4664,6 +5521,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "26 Aug",
+  "iso": "2026-08-26",
+  "day": "Wed",
+  "time": "15:00–15:30",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Teddy Bear Story Time at Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "26 Aug",
@@ -4889,6 +5768,28 @@
   "date": "27 Aug",
   "iso": "2026-08-27",
   "day": "Thu",
+  "time": "15:00–15:45",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Arts and Crafts at Ballywaltrim Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
+ },
+ {
+  "date": "27 Aug",
+  "iso": "2026-08-27",
+  "day": "Thu",
   "time": "15:30–16:30",
   "venue": "Ringsend Library",
   "activity": "Ringsend Library Lego Club",
@@ -4906,28 +5807,6 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
- },
- {
-  "date": "27 Aug",
-  "iso": "2026-08-27",
-  "day": "Thu",
-  "time": "16:00",
-  "venue": "dlr LexIcon",
-  "activity": "3D Modelling & Printing Workshop",
-  "cat": "Library",
-  "ages": "10-16",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/3d-modelling-printing-workshop",
-  "area": "dlr",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
  },
  {
   "date": "28 Aug",
@@ -5099,7 +5978,7 @@
   "book": "Book online",
   "cost": "€28 / €12 child",
   "link": "https://www.mermaidartscentre.ie/whats-on/events/kila-family-show",
-  "area": "Bray",
+  "area": "North Wicklow",
   "ageTags": [
    "any"
   ],
@@ -5107,28 +5986,6 @@
   "dropin": false,
   "ok": true,
   "src": "manual"
- },
- {
-  "date": "29 Aug",
-  "iso": "2026-08-29",
-  "day": "Sat",
-  "time": "16:00",
-  "venue": "dlr LexIcon",
-  "activity": "Anna Bananas Clown Show",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/anna-bananas-clown-show-0",
-  "area": "dlr",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlr"
  },
  {
   "date": "30 Aug",
@@ -5173,6 +6030,28 @@
   "dropin": true,
   "ok": true,
   "src": "manual"
+ },
+ {
+  "date": "31 Aug",
+  "iso": "2026-08-31",
+  "day": "Mon",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "31 Aug",
@@ -5305,6 +6184,28 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "1 Sep",
+  "iso": "2026-09-01",
+  "day": "Tue",
+  "time": "15:00–15:30",
+  "venue": "Bray Library",
+  "activity": "Afterschool Storytime",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "1 Sep",

@@ -11,7 +11,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-import src_dcc, src_dlr, src_nmi, src_sdcc  # noqa: E402
+import src_dcc, src_dlr, src_nmi, src_sdcc, src_wicklow  # noqa: E402
 import status  # noqa: E402
 from common import today  # noqa: E402
 
@@ -22,7 +22,8 @@ SEASON_START = "2026-06-01"
 
 # module -> the `src` tags it owns (sdcc module also scrapes Fingal's org)
 SOURCES = {"dcc": (src_dcc, ["dcc"]), "dlr": (src_dlr, ["dlr"]),
-           "nmi": (src_nmi, ["nmi"]), "sdcc": (src_sdcc, ["sdcc", "fingal"])}
+           "nmi": (src_nmi, ["nmi"]), "sdcc": (src_sdcc, ["sdcc", "fingal"]),
+           "wicklow": (src_wicklow, ["wicklow"])}
 
 
 def main():

@@ -102,3 +102,22 @@ the UNFILTERED listing, which is what broke coverage. Also:
   (ages, "7-10 years old", teen, family...) before keeping; Ballyroan stays exclude-adult-only.
 - `fingal.ie/events/browse` exists (filters: type 345 = Libraries, location per town) but is
   mostly festivals/one-offs; not scraped yet — BlanchFest-type events would come from there.
+
+## North Wicklow (added 21 Jul, late)
+
+- **Wicklow Libraries = Spydus** (wicklow.spydus.ie). The events home is a JS shell but the
+  ENQ search URLs are server-rendered over a plain requests session:
+  `ENQ/WPAC/EVSESENQ?QRY=EVSCFLG:0 + EVSEDTE:">= TODAY"&NRECS=300` (URL-encoded) returns one
+  date-sorted page reaching past the horizon; recurring events arrive pre-expanded, one dated
+  record each. Cards: title anchor, `.d-block` date/time + `Wicklow <Branch>` location,
+  `.event-free` / `.event-noregistration` flags. Record detail URLs are session-scoped — link
+  to the stable events home instead. Facet-URL filtering (EVSESLOC) exists in the UI but the
+  QRY syntax isn't guessable; client-side branch filtering is easier.
+- Branch reality check: Ballywaltrim (Bray) has the big children's programme; Bray Library a
+  few; Greystones is currently all adult groups (their YA Manga Club starts 5 Sep); Enniskerry
+  is tiny. No Delgany branch — Greystones is the catchment.
+- **Whale Theatre** (Greystones) = Ticketsolve behind Cloudflare → Playwright render of
+  `/ticketbooth/shows`, kid-filter by title/category. Currently comedy/concerts only; the
+  scraper is in place for when family shows/panto list. Playwright is now installed locally
+  as well as in CI.
+- 'Young adult' must not trip the adult filter — lookbehind `(?<!young )\badults?\b`.
