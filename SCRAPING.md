@@ -75,3 +75,18 @@ time. Do NOT store 42 duplicate rows — that was a prototype shortcut.
   exclude on title keywords (adult, 18+).
 - Hugh Lane 403s curl but works in a real browser — status polling for it must go through
   the Playwright pass (CI only).
+
+## dlr correction (21 Jul, afternoon)
+
+The category term ids above are DEAD — the vocabulary changed (no more Family & Children
+90 / Events for the Young 120 / Services for the Young 116; current terms include 117
+Storytime, 607 Sensory Session, 599 Arts & Crafts). An unknown term id silently returns
+the UNFILTERED listing, which is what broke coverage. Also:
+- `/events-listing?page=N` does NOT paginate — the pager is a Drupal views "Load More"
+  (view `bones_page_listing_blocks`, display `block_2`, POST /views/ajax) and even that
+  ignores the page param (single page of results).
+- The fullest link source is `/events-and-news/event-calendar` itself; the scraper unions
+  it with the listing node and the views/ajax block (each surfaces events the others miss).
+- Kid-filtering now happens by keyword on the detail page, not by category term.
+- dlr staff append "*Event is Fully Booked*" to the TITLE — strip it, keep the status,
+  and treat such events as bookable (Contact branch), never drop-in.

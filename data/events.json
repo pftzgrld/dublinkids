@@ -220,6 +220,51 @@
   "src": "dcc"
  },
  {
+  "date": "21 Jul",
+  "iso": "2026-07-21",
+  "day": "Tue",
+  "time": "15:30",
+  "venue": "dlr LexIcon",
+  "activity": "Design Your Own Anime Character with Amy Louise O’Callaghan",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/design-your-own-anime-character-amy-louise-ocallaghan",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "21 Jul",
+  "iso": "2026-07-21",
+  "day": "Tue",
+  "time": "16:00",
+  "venue": "Deansgrange Library",
+  "activity": "Summer Stars - Creative sessions with staff in July and August",
+  "cat": "Library",
+  "ages": "8-12",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-stars-creative-sessions-staff-july-and-august",
+  "area": "dlr",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
   "date": "22 Jul",
   "iso": "2026-07-22",
   "day": "Wed",
@@ -702,6 +747,28 @@
   "dropin": false,
   "ok": false,
   "src": "sdcc"
+ },
+ {
+  "date": "23 Jul",
+  "iso": "2026-07-23",
+  "day": "Thu",
+  "time": "15:30",
+  "venue": "Shankill Library",
+  "activity": "Summer Quiz",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-quiz",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "23 Jul",
@@ -1462,6 +1529,28 @@
   "date": "29 Jul",
   "iso": "2026-07-29",
   "day": "Wed",
+  "time": "14:45",
+  "venue": "Dalkey Library",
+  "activity": "Harry Potter Science",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Fully booked",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/harry-potter-science-event-fully-booked",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "dlr"
+ },
+ {
+  "date": "29 Jul",
+  "iso": "2026-07-29",
+  "day": "Wed",
   "time": "15:15",
   "venue": "Cabra Library",
   "activity": "Children's Storytime at Cabra Library",
@@ -1771,6 +1860,28 @@
   "date": "30 Jul",
   "iso": "2026-07-30",
   "day": "Thu",
+  "time": "15:00",
+  "venue": "Dundrum Library",
+  "activity": "Dave’s Jungle",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Fully booked",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/daves-jungle-event-fully-booked",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "dlr"
+ },
+ {
+  "date": "30 Jul",
+  "iso": "2026-07-30",
+  "day": "Thu",
   "time": "15:00–15:45",
   "venue": "Ballyroan Library",
   "activity": "Harry Potter Science! 3pm workshop",
@@ -1854,6 +1965,28 @@
   "dropin": false,
   "ok": false,
   "src": "nmi"
+ },
+ {
+  "date": "30 Jul",
+  "iso": "2026-07-30",
+  "day": "Thu",
+  "time": "See link",
+  "venue": "dlr LexIcon",
+  "activity": "Seen and Heard",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/seen-and-heard",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "31 Jul",
@@ -3183,6 +3316,50 @@
   "src": "dcc"
  },
  {
+  "date": "14 Aug",
+  "iso": "2026-08-14",
+  "day": "Fri",
+  "time": "15:30",
+  "venue": "dlr LexIcon",
+  "activity": "Monster Summer Doodle with White Doodle Art",
+  "cat": "Library",
+  "ages": "5-8",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/monster-summer-doodle-white-doodle-art",
+  "area": "dlr",
+  "ageTags": [
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "15 Aug",
+  "iso": "2026-08-15",
+  "day": "Sat",
+  "time": "10:00",
+  "venue": "Blackrock Library",
+  "activity": "Summer Family Film Club",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-family-film-club-1",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
   "date": "15 Aug",
   "iso": "2026-08-15",
   "day": "Sat",
@@ -3387,6 +3564,28 @@
   "date": "18 Aug",
   "iso": "2026-08-18",
   "day": "Tue",
+  "time": "14:00",
+  "venue": "Shankill Library",
+  "activity": "Let’s Get Musical",
+  "cat": "Library",
+  "ages": "5-8",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/lets-get-musical",
+  "area": "dlr",
+  "ageTags": [
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
   "time": "15:00",
   "venue": "Ballyfermot Library",
   "activity": "Drop in Children's Board Games",
@@ -3470,6 +3669,28 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
+  "time": "14:45",
+  "venue": "Dalkey Library",
+  "activity": "Winnie the Pooh Workshop: Bees, Honey and Beeswax",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Fully booked",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/winnie-pooh-workshop-bees-honey-and-beeswax",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "dlr"
  },
  {
   "date": "19 Aug",
@@ -3670,6 +3891,28 @@
   "src": "dcc"
  },
  {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
+  "time": "20:00",
+  "venue": "Ballyogan Library",
+  "activity": "Summer Stars Big Family Quiz",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Limited",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-stars-big-family-quiz",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
   "date": "21 Aug",
   "iso": "2026-08-21",
   "day": "Fri",
@@ -3756,6 +3999,28 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "11:30–12:30",
+  "venue": "dlr LexIcon",
+  "activity": "Sarah Sparkles Magic Storytelling",
+  "cat": "Library",
+  "ages": "0-10",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/sarah-sparkles-magic-storytelling",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "22 Aug",
@@ -4245,6 +4510,28 @@
   "src": "dcc"
  },
  {
+  "date": "27 Aug",
+  "iso": "2026-08-27",
+  "day": "Thu",
+  "time": "16:00",
+  "venue": "dlr LexIcon",
+  "activity": "3D Modelling & Printing Workshop",
+  "cat": "Library",
+  "ages": "10-16",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/3d-modelling-printing-workshop",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
   "date": "28 Aug",
   "iso": "2026-08-28",
   "day": "Fri",
@@ -4410,7 +4697,7 @@
   "activity": "Kíla — Family Show (live music)",
   "cat": "Show",
   "ages": "Children & families",
-  "status": "Available",
+  "status": "Sold out",
   "book": "Book online",
   "cost": "€28 / €12 child",
   "link": "https://www.mermaidartscentre.ie/whats-on/events/kila-family-show",
@@ -4420,8 +4707,30 @@
   ],
   "free": false,
   "dropin": false,
-  "ok": true,
+  "ok": false,
   "src": "manual"
+ },
+ {
+  "date": "29 Aug",
+  "iso": "2026-08-29",
+  "day": "Sat",
+  "time": "16:00",
+  "venue": "dlr LexIcon",
+  "activity": "Anna Bananas Clown Show",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/anna-bananas-clown-show-0",
+  "area": "dlr",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "30 Aug",
@@ -4466,28 +4775,6 @@
   "dropin": true,
   "ok": true,
   "src": "manual"
- },
- {
-  "date": "30 Aug",
-  "iso": "2026-08-30",
-  "day": "Sun",
-  "time": "See link",
-  "venue": "dlr LexIcon",
-  "activity": "Dublin Camera Club 80th Anniversary Photographic Exhibition",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/dublin-camera-club-80th-anniversary-photographic-exhibition",
-  "area": "dlr",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
  },
  {
   "date": "31 Aug",

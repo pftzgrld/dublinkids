@@ -1,8 +1,12 @@
 """dlr Libraries (all branches) via the central Drupal events listing.
 
-Listing: libraries.dlrcoco.ie/events-listing?field_event_category_target_id=N
-for each children's category. Detail pages carry date, time, venue, cost and
-often the booking state inline ('Event Fully Booked').
+NOTE (21 Jul 2026): the category vocabulary changed — the old term ids in
+SCRAPING.md (90 Family & Children, 120/116 Events for the Young) are gone,
+and an unknown term id silently returns the UNFILTERED listing. The whole
+listing is small (6 unique events per page), so we paginate it all, parse
+every detail page, and keep child-relevant events by keyword. Detail pages
+carry date, time, venue, cost and often the booking state inline
+('Event Fully Booked').
 """
 import re
 from bs4 import BeautifulSoup
@@ -11,39 +15,50 @@ from common import (fetch, event_row, expand_rule, parse_day_month,
                     parse_time_range, status_from_text, today)
 
 BASE = "https://libraries.dlrcoco.ie"
-CATEGORIES = {90: "Family & Children", 120: "Events for the Young",
-              117: "Storytime", 607: "Sensory",
-              116: "Library Services for the Young"}
-AGES_BY_CAT = {117: "Toddlers", 607: "Families"}
+KID_RX = re.compile(
+    r"child|kids?\b|famil|toddler|baby|babies|storytime|story\s*time|"
+    r"sensory|teen|junior|lego|age[sd]?\s*\d|school\s*children|young\s*people",
+    re.I)
+ADULT_RX = re.compile(r"\badult|\b18\+|over\s*18", re.I)
+
+
+def _collect(soup, seen):
+    for a in soup.select('a[href*="/event-calendar/"]'):
+        url = a["href"]
+        if not url.startswith("http"):
+            url = BASE + url
+        if url.rstrip("/") != f"{BASE}/events-and-news/event-calendar" \
+                and url not in seen:
+            seen.append(url)
 
 
 def listing_links():
-    seen = {}
-    for term in CATEGORIES:
-        for page in range(0, 10):
-            r = fetch(f"{BASE}/events-listing"
-                      f"?field_event_category_target_id={term}&page={page}")
-            if not r:
-                break
-            soup = BeautifulSoup(r.text, "html.parser")
-            rows = soup.select(".views-row")
-            if not rows:
-                break
-            for row in rows:
-                a = row.select_one("a[href]")
-                if not a:
-                    continue
-                url = a["href"]
-                if not url.startswith("http"):
-                    url = BASE + url
-                if "/event-calendar/" in url and url not in seen:
-                    seen[url] = term
-            if len(rows) < 10:
-                break
+    """Union of the three places dlr surfaces events: the event-calendar
+    page (fullest), the events-listing node, and its views/ajax block
+    (which carries events the static pages omit)."""
+    seen = []
+    for path in ("/events-and-news/event-calendar", "/events-listing"):
+        r = fetch(BASE + path)
+        if r:
+            _collect(BeautifulSoup(r.text, "html.parser"), seen)
+    try:
+        from common import _session
+        r = _session.post(
+            f"{BASE}/views/ajax",
+            data={"view_name": "bones_page_listing_blocks",
+                  "view_display_id": "block_2", "view_path": "/node/8280",
+                  "_wrapper_format": "drupal_ajax"},
+            headers={"X-Requested-With": "XMLHttpRequest"}, timeout=30)
+        if r.status_code == 200:
+            for c in r.json():
+                if c.get("command") == "insert" and c.get("data"):
+                    _collect(BeautifulSoup(c["data"], "html.parser"), seen)
+    except Exception:
+        pass
     return seen
 
 
-def parse_detail(url, term):
+def parse_detail(url):
     r = fetch(url)
     if not r:
         return None
@@ -52,7 +67,11 @@ def parse_detail(url, term):
     text = main.get_text(" | ", strip=True)
     title = (soup.select_one("h1") or soup.title).get_text(" ", strip=True)
 
-    # Venue: first branch-looking token; the field appears twice in the text
+    if ADULT_RX.search(title):
+        return None
+    if not (KID_RX.search(title) or KID_RX.search(text)):
+        return None
+
     vm = re.search(r"\b(dlr LexIcon|dlr Lexicon|Dundrum|Blackrock|Ballyogan|"
                    r"Shankill|Deansgrange|Dalkey|Cabinteely|Stillorgan|"
                    r"Sallynoggin|Glencullen)\b", text)
@@ -62,13 +81,9 @@ def parse_detail(url, term):
     elif "dlr" not in venue:
         venue += " Library"
 
-    if re.search(r"\badult", title, re.I):
-        return None
     time_str = parse_time_range(text, require_ampm=True)
 
     dates = []
-    # Date line sits between the title and the venue, e.g.
-    # 'Saturday 25th July 2026' or 'Every Tuesday, 2026'
     head = text.split("Event Description")[0]
     if re.search(r"\bevery\b", head, re.I):
         dates = expand_rule(head)
@@ -77,13 +92,18 @@ def parse_detail(url, term):
         if iso:
             dates = [iso]
 
-    status = status_from_text(text)
+    status = status_from_text(title + " | " + text)
+    # dlr staff append the booked-out state to the title itself
+    title = re.sub(r"\s*\*+\s*Event (is )?Fully Booked\s*\*+", "", title,
+                   flags=re.I).strip()
     booked_online = main.select_one('a[href*="tickettailor"], '
                                     'a[href*="eventbrite"]')
     if booked_online:
         book, link = "Book online", booked_online["href"]
     elif re.search(r"booking (is )?(required|essential)|book (a place|now)|"
-                   r"registration required", text, re.I):
+                   r"registration required", text, re.I) \
+            or status != "Available":
+        # a booked-out marker proves it was bookable, whatever the page says
         book, link = "Contact branch", url
     else:
         book, link = "Drop-in", url
@@ -92,8 +112,14 @@ def parse_detail(url, term):
     cost = "Free" if re.search(r"Cost \| Free", text) else \
         ("Free" if re.search(r"\bfree\b", text, re.I) else "See link")
     ages_m = re.search(r"ages?\s*:?\s*(\d+\s*[-–]\s*\d+|\d+\+)", text, re.I)
-    ages = ages_m.group(1).replace(" ", "") if ages_m \
-        else AGES_BY_CAT.get(term, "Children")
+    if ages_m:
+        ages = ages_m.group(1).replace(" ", "")
+    elif re.search(r"toddler|baby|babies", title + text[:400], re.I):
+        ages = "Toddlers"
+    elif re.search(r"sensory", title, re.I):
+        ages = "Families"
+    else:
+        ages = "Children"
     return {"title": title, "venue": venue, "dates": dates, "time": time_str,
             "book": book, "link": link, "ages": ages, "status": status,
             "cost": cost}
@@ -101,8 +127,8 @@ def parse_detail(url, term):
 
 def scrape():
     rows = []
-    for url, term in listing_links().items():
-        d = parse_detail(url, term)
+    for url in listing_links():
+        d = parse_detail(url)
         if not d or not d["dates"]:
             continue
         for iso in d["dates"]:
