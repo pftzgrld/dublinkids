@@ -109,8 +109,39 @@ def age_tags(ages_text):
     return tags or ["any"]
 
 
+_SUM_BOILERPLATE = re.compile(
+    r"cookie|newsletter|mailing list|sign ?up|follow us|share this|"
+    r"book (here|now|online|your|a place)|tickets?\b|©|all rights|"
+    r"click here|read more|find out more|terms|privacy|please note", re.I)
+_SUM_LEADIN = re.compile(
+    r"^(location|meeting point|venue|cost|price|times?|dates?|when|where|"
+    r"ages?|suitable for|free)\b[^.]*?[:–-]\s*", re.I)
+
+
+def clean_summary(text, max_len=140):
+    """First substantial, non-boilerplate sentence of a description, trimmed
+    to one clean line. Returns '' when there's nothing worth showing —
+    the UI hides empties, so a weak summary is better dropped than shown."""
+    if not text:
+        return ""
+    t = re.sub(r"\s+", " ", str(text)).strip()
+    for _ in range(3):  # peel stacked "Location: … Free, booking required." lead-ins
+        stripped = _SUM_LEADIN.sub("", t)
+        if stripped == t:
+            break
+        t = stripped.strip()
+    for s in re.split(r"(?<=[.!?])\s+", t):
+        s = s.strip()
+        if len(s) < 25 or _SUM_BOILERPLATE.search(s):
+            continue
+        if len(s) > max_len:
+            s = s[:max_len].rsplit(" ", 1)[0].rstrip(",.;:") + "…"
+        return s
+    return ""
+
+
 def event_row(*, iso, time_str, venue, activity, cat, ages, status, book,
-              cost, link, area, source):
+              cost, link, area, source, summary=""):
     d = dt.date.fromisoformat(iso)
     ok = status.lower() not in ("full", "fully booked", "sold out",
                                 "waitlisted", "wait list")
@@ -128,6 +159,7 @@ def event_row(*, iso, time_str, venue, activity, cat, ages, status, book,
         "cost": cost or "Free",
         "link": link,
         "area": area,
+        "summary": (summary or "").strip(),
         "ageTags": age_tags(ages),
         "free": (cost or "Free").strip().lower() == "free",
         "dropin": book == "Drop-in",

@@ -19,7 +19,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "21 Jul",
@@ -41,7 +42,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "22 Jul",
@@ -63,7 +65,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "22 Jul",
@@ -77,7 +80,7 @@
   "status": "Available",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "link": "https://imma.ie/whats-on/mornings-at-the-museum-holidays/",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -85,7 +88,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Drop in over the school holidays for family creative time in the galleries."
  },
  {
   "date": "22 Jul",
@@ -107,7 +111,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A four-day art camp for teens exploring drawing, painting and mixed media."
  },
  {
   "date": "23 Jul",
@@ -129,7 +134,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "23 Jul",
@@ -151,7 +157,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Grab materials and draw outdoors on the gallery lawn — all ages, no booking."
  },
  {
   "date": "23 Jul",
@@ -173,7 +180,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A four-day art camp for teens exploring drawing, painting and mixed media."
  },
  {
   "date": "24 Jul",
@@ -195,7 +203,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "24 Jul",
@@ -217,7 +226,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A four-day art camp for teens exploring drawing, painting and mixed media."
  },
  {
   "date": "25 Jul",
@@ -242,7 +252,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "25 Jul",
@@ -265,7 +276,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A drawing workshop inspired by Degas' famous ballet dancer sculpture."
  },
  {
   "date": "25 Jul",
@@ -287,7 +299,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A four-day art camp for teens exploring drawing, painting and mixed media."
  },
  {
   "date": "26 Jul",
@@ -309,7 +322,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  },
  {
   "date": "27 Jul",
@@ -332,7 +346,8 @@
   "free": false,
   "dropin": false,
   "ok": false,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
   "date": "28 Jul",
@@ -355,7 +370,8 @@
   "free": false,
   "dropin": false,
   "ok": false,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
   "date": "29 Jul",
@@ -378,7 +394,8 @@
   "free": false,
   "dropin": false,
   "ok": false,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
   "date": "29 Jul",
@@ -392,7 +409,7 @@
   "status": "Available",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "link": "https://imma.ie/whats-on/mornings-at-the-museum-holidays/",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -400,7 +417,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Drop in over the school holidays for family creative time in the galleries."
  },
  {
   "date": "30 Jul",
@@ -423,7 +441,8 @@
   "free": false,
   "dropin": false,
   "ok": false,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
   "date": "30 Jul",
@@ -445,7 +464,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A calm gallery tour for parents with babies in arms."
  },
  {
   "date": "31 Jul",
@@ -468,7 +488,8 @@
   "free": false,
   "dropin": false,
   "ok": false,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
   "date": "1 Aug",
@@ -493,7 +514,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "2 Aug",
@@ -515,7 +537,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  },
  {
   "date": "5 Aug",
@@ -529,7 +552,7 @@
   "status": "Available",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "link": "https://imma.ie/whats-on/mornings-at-the-museum-holidays/",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -537,7 +560,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Drop in over the school holidays for family creative time in the galleries."
  },
  {
   "date": "8 Aug",
@@ -559,7 +583,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Outdoor puppet show telling tales for young children — free, drop in."
  },
  {
   "date": "8 Aug",
@@ -584,7 +609,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "9 Aug",
@@ -606,7 +632,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  },
  {
   "date": "12 Aug",
@@ -620,7 +647,7 @@
   "status": "Available",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "link": "https://imma.ie/whats-on/mornings-at-the-museum-holidays/",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -628,7 +655,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Drop in over the school holidays for family creative time in the galleries."
  },
  {
   "date": "13 Aug",
@@ -650,7 +678,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A calm gallery tour for parents with babies in arms."
  },
  {
   "date": "15 Aug",
@@ -675,7 +704,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "16 Aug",
@@ -697,7 +727,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  },
  {
   "date": "19 Aug",
@@ -711,7 +742,7 @@
   "status": "Available",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "link": "https://imma.ie/whats-on/mornings-at-the-museum-holidays/",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -719,7 +750,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Drop in over the school holidays for family creative time in the galleries."
  },
  {
   "date": "22 Aug",
@@ -744,7 +776,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "22 Aug",
@@ -766,7 +799,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A print-launch talk and live printing demonstration at the museum."
  },
  {
   "date": "23 Aug",
@@ -788,7 +822,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  },
  {
   "date": "27 Aug",
@@ -810,7 +845,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A calm gallery tour for parents with babies in arms."
  },
  {
   "date": "27 Aug",
@@ -832,7 +868,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A gentle stage show of Julia Donaldson's lift-the-flap stories for little ones."
  },
  {
   "date": "28 Aug",
@@ -854,7 +891,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A gentle stage show of Julia Donaldson's lift-the-flap stories for little ones."
  },
  {
   "date": "29 Aug",
@@ -876,7 +914,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A gentle stage show of Julia Donaldson's lift-the-flap stories for little ones."
  },
  {
   "date": "29 Aug",
@@ -901,7 +940,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "29 Aug",
@@ -923,7 +963,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A high-energy family show from the Irish trad band Kíla."
  },
  {
   "date": "30 Aug",
@@ -945,7 +986,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A gentle stage show of Julia Donaldson's lift-the-flap stories for little ones."
  },
  {
   "date": "30 Aug",
@@ -967,6 +1009,7 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  }
 ]

@@ -2,37 +2,61 @@
  {
   "activity": "Drop-in exhibition tour",
   "venue": "IMMA",
-  "days": ["Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+  "days": [
+   "Tue",
+   "Wed",
+   "Thu",
+   "Fri",
+   "Sat",
+   "Sun"
+  ],
   "time": "16:00",
   "cat": "Museum",
   "ages": "All ages",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
-  "area": "Dublin City"
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
+  "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up."
  },
  {
   "activity": "Atrium creative space — drop-in art-making",
   "venue": "National Gallery",
-  "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+  "days": [
+   "Mon",
+   "Tue",
+   "Wed",
+   "Thu",
+   "Fri",
+   "Sat",
+   "Sun"
+  ],
   "time": "Any time",
   "cat": "Museum",
   "ages": "Families",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
-  "area": "Dublin City"
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
+  "area": "Dublin City",
+  "summary": ""
  },
  {
   "activity": "Dead Zoo Lab exhibition",
   "venue": "NMI Collins Barracks",
-  "days": ["Tue", "Wed", "Thu", "Fri", "Sat"],
+  "days": [
+   "Tue",
+   "Wed",
+   "Thu",
+   "Fri",
+   "Sat"
+  ],
   "time": "10:00–17:00",
   "cat": "Museum",
   "ages": "All ages",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
-  "area": "Dublin City"
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
+  "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home."
  }
 ]

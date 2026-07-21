@@ -9,7 +9,7 @@ import re
 from bs4 import BeautifulSoup
 
 from common import (fetch, event_row, parse_day_month, parse_time_range,
-                    status_from_text, today)
+                    status_from_text, today, clean_summary)
 
 BASE = "https://www.museum.ie"
 BRANCHES = [
@@ -66,10 +66,15 @@ def scrape():
             ages_m = re.search(r"ages?\s*:?\s*(\d+\s*[-–+]\s*\d*\+?|\d+\+)",
                                text, re.I)
             ages = ages_m.group(1).replace(" ", "") if ages_m else "Families"
+            # description: strip the leading date/type/title label off body
+            desc = re.split(r"(Booking|Suitable for|Please note|Meeting)",
+                            text, maxsplit=1)[0]
+            desc = desc[len(title):] if desc.startswith(title) else desc
             rows.append(event_row(
                 iso=iso, time_str=time_str, venue=venue,
                 activity=title, cat="Museum", ages=ages, status=status,
                 book="Drop-in" if dropin else "Book online",
                 cost="Free" if "free" in text.lower() else "See link",
-                link=url, area="Dublin City", source="nmi"))
+                link=url, area="Dublin City", source="nmi",
+                summary=clean_summary(desc)))
     return rows

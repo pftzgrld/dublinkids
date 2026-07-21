@@ -10,7 +10,8 @@ the name or description to be kept.
 import json
 import re
 
-from common import fetch, event_row, parse_time_range, today
+from common import (fetch, event_row, parse_time_range, today,
+                    clean_summary)
 
 ORGS = [
     {"url": "https://www.eventbrite.ie/o/ballyroan-library-2184216231",
@@ -142,5 +143,6 @@ def scrape():
                     else "Children",
                     status=availability(ev), book="Book online",
                     cost=cost_from_offers(ev), link=url, area=org["area"],
-                    source=org["source"]))
+                    source=org["source"],
+                    summary=clean_summary(ev.get("description", ""))))
     return rows

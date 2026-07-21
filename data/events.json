@@ -19,7 +19,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "21 Jul",
@@ -35,6 +36,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and baby group for non-walkers.",
   "ageTags": [
    "any"
   ],
@@ -57,6 +59,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
    "any"
   ],
@@ -85,7 +88,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "21 Jul",
@@ -99,8 +103,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -123,6 +128,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
+  "summary": "The Raheny Library Toddler Group meets every Tuesday morning from 10.30am to 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -145,6 +151,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
+  "summary": "Join us for toddler time every TUESDAY to meet other parents and carers with their toddlers.",
   "ageTags": [
    "any"
   ],
@@ -167,6 +174,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
+  "summary": "Join your favourite librarians in Charleville Mall Library throughout the months of July and August for kids' storytime!",
   "ageTags": [
    "any"
   ],
@@ -189,6 +197,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
    "any"
   ],
@@ -211,6 +220,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/screen-free-summer-holidays-childrens-calm-colouring",
   "area": "Dublin City",
+  "summary": "Unwind and get creative at our Children's Calm Colouring sessions, taking place every Tuesday throughout July at 2.30pm in the Central…",
   "ageTags": [
    "any"
   ],
@@ -233,6 +243,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
+  "summary": "Join us for a Drop in Board Games session for children aged 6+ in Ballyfermot Library .",
   "ageTags": [
    "any"
   ],
@@ -255,6 +266,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
    "any"
   ],
@@ -277,6 +289,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
+  "summary": "Lego Club Terenure Library Tuesdays at 3.30pm Lego club is for children aged 6+",
   "ageTags": [
    "any"
   ],
@@ -299,6 +312,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/design-your-own-anime-character-amy-louise-ocallaghan",
   "area": "dlr",
+  "summary": "In this introductory workshop with Amy Louise O’Callaghan, participants will learn how to draw Anime-style characters, which can be used to…",
   "ageTags": [
    "any"
   ],
@@ -321,6 +335,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-stars-creative-sessions-staff-july-and-august",
   "area": "dlr",
+  "summary": "Children can enjoy a summer season art series, with each session inspired by a different Irish illustrator!",
   "ageTags": [
    "5to8",
    "9to12"
@@ -342,8 +357,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -364,8 +380,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -388,6 +405,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
    "any"
   ],
@@ -416,7 +434,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "22 Jul",
@@ -430,8 +449,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -454,6 +474,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/make-a-morse-code-machine-strictly-9-12-years-old-tickets-1993027750653",
   "area": "Fingal",
+  "summary": "Dots, dashes, and secret messages—build a Morse code machine and start tapping!",
   "ageTags": [
    "any"
   ],
@@ -474,7 +495,7 @@
   "status": "Available",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "link": "https://imma.ie/whats-on/mornings-at-the-museum-holidays/",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -482,7 +503,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Drop in over the school holidays for family creative time in the galleries."
  },
  {
   "date": "22 Jul",
@@ -498,6 +520,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/under-the-sea-fish-puzzle-art-laser-cutter-workshop-for-children-age-7-tickets-1993919518956",
   "area": "South Dublin",
+  "summary": "Inspired by the tessellated artworks of M.C.",
   "ageTags": [
    "any"
   ],
@@ -520,6 +543,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Archaeology/Events/2026/Q3-Jul-Sept/Drop-In-Workshop-Viking-Artefact-Detective",
   "area": "Dublin City",
+  "summary": "Home Archaeology Events Current: Drop-In Workshop: Viking Artefact Detective Wednesday 22nd July, 14:00-16:00, Families Drop-In Workshop…",
   "ageTags": [
    "any"
   ],
@@ -542,6 +566,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/make-a-morse-code-machine-strictly-13-17-years-old-tickets-1993028440717",
   "area": "Fingal",
+  "summary": "Send your message—Morse style.",
   "ageTags": [
    "any"
   ],
@@ -570,7 +595,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A four-day art camp for teens exploring drawing, painting and mixed media."
  },
  {
   "date": "22 Jul",
@@ -586,6 +612,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Children's Storytime on every Wednesday afternoon at 2.30pm in Ballyfermot Library.",
   "ageTags": [
    "any"
   ],
@@ -608,6 +635,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
    "any"
   ],
@@ -630,6 +658,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
+  "summary": "Join Library staff on Wednesday afternoons for a fun-filled storytime!",
   "ageTags": [
    "any"
   ],
@@ -652,6 +681,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Parents are welcome to sit in as well!",
   "ageTags": [
    "any"
   ],
@@ -672,8 +702,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -696,6 +727,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
+  "summary": "Join us in Ballyogan Library for our weekly quiet evening.",
   "ageTags": [
    "any"
   ],
@@ -716,8 +748,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -740,6 +773,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and toddler group for young children.",
   "ageTags": [
    "any"
   ],
@@ -762,6 +796,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "The Offline Club is a phone-free, analogue club for teens aged between 12 and 17 years.",
   "ageTags": [
    "any"
   ],
@@ -790,7 +825,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "23 Jul",
@@ -804,8 +840,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -828,6 +865,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -850,6 +888,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
+  "summary": "Pembroke Library toddler group is on Thursday morning from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -872,6 +911,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
+  "summary": "*No Toddler Group for the month of August* Ringsend Library toddler group meets on alternate Thursdays from 11am to 12 noon in the…",
   "ageTags": [
    "any"
   ],
@@ -894,6 +934,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Archaeology/Events/2026/Q3-Jul-Sept/Drop-In-Forge-and-Rune!-Viking-Sword-Craft-Worksho",
   "area": "Dublin City",
+  "summary": "Home Archaeology Events Current: Drop-In: Forge and Rune!",
   "ageTags": [
    "any"
   ],
@@ -916,6 +957,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/bring-photon-to-life-ages-1012-tickets-1994000047820",
   "area": "Fingal",
+  "summary": "Kids will learn the basics of coding by programming Photon to move, turn, and complete a simple course.",
   "ageTags": [
    "9to12"
   ],
@@ -938,6 +980,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/sensory-storytime",
   "area": "Dublin City",
+  "summary": "Join us for a special sensory story time at Cabra Library!",
   "ageTags": [
    "any"
   ],
@@ -960,6 +1003,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/screen-free-summer-holidays-lego-club-2",
   "area": "Dublin City",
+  "summary": "Join us in the Central Library this July for our fun and creative Children's Lego Club, taking place on Thursdays!",
   "ageTags": [
    "any"
   ],
@@ -982,6 +1026,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
+  "summary": "Rathmines Library Toddler Group meets on Thursdays at 1pm.",
   "ageTags": [
    "any"
   ],
@@ -1010,7 +1055,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Grab materials and draw outdoors on the gallery lawn — all ages, no booking."
  },
  {
   "date": "23 Jul",
@@ -1026,6 +1072,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/daves-jungle-2pm-show-tickets-1993471692495",
   "area": "South Dublin",
+  "summary": "Get up close and personal with some amazing animals!",
   "ageTags": [
    "any"
   ],
@@ -1054,7 +1101,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A four-day art camp for teens exploring drawing, painting and mixed media."
  },
  {
   "date": "23 Jul",
@@ -1070,6 +1118,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/daves-jungle-3pm-show-tickets-1993473631294",
   "area": "South Dublin",
+  "summary": "Get up close and personal with some amazing animals!",
   "ageTags": [
    "any"
   ],
@@ -1092,6 +1141,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
    "any"
   ],
@@ -1114,6 +1164,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/freeplay-lego-for-7-10-year-olds-tickets-1991473603156",
   "area": "Fingal",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -1136,6 +1187,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
+  "summary": "*May 7 & 21* The Lego Club takes place on alternate Thursdays of every month from 3.30pm - 4.30pm.",
   "ageTags": [
    "any"
   ],
@@ -1156,8 +1208,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -1178,8 +1231,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -1202,6 +1256,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/baby-and-toddler-group-ballyogan-library",
   "area": "dlr",
+  "summary": "Join us for Baby and Toddler group in Ballyogan Library.",
   "ageTags": [
    "under5"
   ],
@@ -1230,7 +1285,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp where 9–12s make their own Lego stop-motion film, ending in a screening."
  },
  {
   "date": "24 Jul",
@@ -1244,8 +1300,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -1268,6 +1325,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
+  "summary": "Join us for the ELI toddler playgroup in the Events Room every Friday morning from 10.30-11.30am.",
   "ageTags": [
    "any"
   ],
@@ -1290,6 +1348,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-friday-films",
   "area": "Dublin City",
+  "summary": "Join us this July in the Central Library for our Children’s Friday Film Club — a fun, relaxed weekly event designed especially for young…",
   "ageTags": [
    "any"
   ],
@@ -1318,7 +1377,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A four-day art camp for teens exploring drawing, painting and mixed media."
  },
  {
   "date": "24 Jul",
@@ -1332,8 +1392,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -1354,8 +1415,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -1376,8 +1438,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -1400,6 +1463,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
+  "summary": "Last Saturday every month from 10.30am - 11.45am No need to book just drop by!",
   "ageTags": [
    "5to8"
   ],
@@ -1422,6 +1486,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-free-play",
   "area": "Dublin City",
+  "summary": "Welcome to our free play Lego Club on Saturday mornings 10.30am to 12pm.",
   "ageTags": [
    "any"
   ],
@@ -1444,6 +1509,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/can-a-robot-really-think-ages-10-12-tickets-1994007227294",
   "area": "Fingal",
+  "summary": "Kids will learn the basics of coding by programming Photon to move, turn, and complete a simple course.",
   "ageTags": [
    "9to12"
   ],
@@ -1466,6 +1532,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/teen-manga-club-tickets-1992930018333",
   "area": "South Dublin",
+  "summary": "Meet up with teens who share your passion for Manga, Anime, K Pop and other fandom groups.",
   "ageTags": [
    "any"
   ],
@@ -1497,7 +1564,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "25 Jul",
@@ -1519,7 +1587,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A four-day art camp for teens exploring drawing, painting and mixed media."
  },
  {
   "date": "25 Jul",
@@ -1542,7 +1611,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A drawing workshop inspired by Degas' famous ballet dancer sculpture."
  },
  {
   "date": "25 Jul",
@@ -1556,8 +1626,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -1578,8 +1649,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -1602,6 +1674,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Events/2026/Q3-July-to-Sept/Felt-with-Jorgensen-Flair!-Family-Sensory-Friendly",
   "area": "Dublin City",
+  "summary": "Home Decorative Arts & History Events Current: Felt with Jorgensen Flair!",
   "ageTags": [
    "any"
   ],
@@ -1630,7 +1703,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  },
  {
   "date": "26 Jul",
@@ -1644,8 +1718,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -1666,8 +1741,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -1690,6 +1766,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
    "any"
   ],
@@ -1719,7 +1796,8 @@
   "free": false,
   "dropin": false,
   "ok": false,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
   "date": "27 Jul",
@@ -1735,6 +1813,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -1757,6 +1836,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/screen-free-summer-holidays-childrens-boardgames",
   "area": "Dublin City",
+  "summary": "Kick off the week with fun and friendly competition at our Children's boardgame sessions, running every Monday throughout July in the…",
   "ageTags": [
    "any"
   ],
@@ -1779,6 +1859,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/pop-up-paper-theatre-strictly-7-10-years-old-tickets-1993029517939",
   "area": "Fingal",
+  "summary": "Create your own 3D pop-up paper theatre and bring stories to life!",
   "ageTags": [
    "any"
   ],
@@ -1801,6 +1882,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/summer-strolls-templeogue-tickets-1993854193566",
   "area": "South Dublin",
+  "summary": "Summer walking tours series",
   "ageTags": [
    "any"
   ],
@@ -1821,8 +1903,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -1845,6 +1928,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and baby group for non-walkers.",
   "ageTags": [
    "any"
   ],
@@ -1867,6 +1951,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
    "any"
   ],
@@ -1896,7 +1981,8 @@
   "free": false,
   "dropin": false,
   "ok": false,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
   "date": "28 Jul",
@@ -1910,8 +1996,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -1934,6 +2021,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
+  "summary": "The Raheny Library Toddler Group meets every Tuesday morning from 10.30am to 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -1956,6 +2044,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
+  "summary": "Join us for toddler time every TUESDAY to meet other parents and carers with their toddlers.",
   "ageTags": [
    "any"
   ],
@@ -1978,6 +2067,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
+  "summary": "Join your favourite librarians in Charleville Mall Library throughout the months of July and August for kids' storytime!",
   "ageTags": [
    "any"
   ],
@@ -2000,6 +2090,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/paper-wizards-make-it-mash-it-create-it-strictly-9-12-years-old-tickets-1993031301273",
   "area": "Fingal",
+  "summary": "Turn old paper into brand new creations in this fun, splashy papermaking workshop.",
   "ageTags": [
    "any"
   ],
@@ -2022,6 +2113,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
    "any"
   ],
@@ -2044,6 +2136,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/anime-drawing-workshop-tickets-1994203877480",
   "area": "South Dublin",
+  "summary": "Join illustrator Amy O'Callaghan as she teaches you how to draw Aime style!",
   "ageTags": [
    "any"
   ],
@@ -2066,6 +2159,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/teen-maker-meet-up-strictly-13-17-years-old-tickets-1993032211997",
   "area": "Fingal",
+  "summary": "Come share, build, and connect at the Teen Maker Meet-Up.",
   "ageTags": [
    "any"
   ],
@@ -2088,6 +2182,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/screen-free-summer-holidays-childrens-calm-colouring",
   "area": "Dublin City",
+  "summary": "Unwind and get creative at our Children's Calm Colouring sessions, taking place every Tuesday throughout July at 2.30pm in the Central…",
   "ageTags": [
    "any"
   ],
@@ -2110,6 +2205,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-storytime-storyteller-aisling-breen",
   "area": "Dublin City",
+  "summary": "Join actor, writer and storyteller Aisling Breen for a magical storytelling adventure this summer.",
   "ageTags": [
    "any"
   ],
@@ -2132,6 +2228,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
+  "summary": "Join us for a Drop in Board Games session for children aged 6+ in Ballyfermot Library .",
   "ageTags": [
    "any"
   ],
@@ -2154,6 +2251,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
    "any"
   ],
@@ -2176,6 +2274,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
+  "summary": "Lego Club Terenure Library Tuesdays at 3.30pm Lego club is for children aged 6+",
   "ageTags": [
    "any"
   ],
@@ -2196,8 +2295,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -2218,8 +2318,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -2242,6 +2343,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
    "any"
   ],
@@ -2271,7 +2373,8 @@
   "free": false,
   "dropin": false,
   "ok": false,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
   "date": "29 Jul",
@@ -2285,8 +2388,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -2309,6 +2413,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/creative-hubs-interactive-family-concert-riona-session-1",
   "area": "Dublin City",
+  "summary": "A lively, interactive family concert featuring a vibrant mix of original songs in Irish and English, alongside much-loved children’s folk…",
   "ageTags": [
    "any"
   ],
@@ -2331,6 +2436,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Archaeology/Events/2026/Q3-Jul-Sept/Drop-In-Hunters,-Foragers-and-Farmers!-Stone-A-(1)",
   "area": "Dublin City",
+  "summary": "Home Archaeology Events Current: Drop-In: Hunters, Foragers and Farmers!",
   "ageTags": [
    "any"
   ],
@@ -2353,6 +2459,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/can-robots-really-think-strictly-for-kids-aged-10-12-years-old-tickets-1994413154433",
   "area": "Fingal",
+  "summary": "Kids will learn the basics of coding by programming Photon to move, turn, and complete a simple course.",
   "ageTags": [
    "any"
   ],
@@ -2375,6 +2482,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Events/2026/Q3-July-to-Sept/Dead-Zoo-Lab/Summer-Family-Drop-ins-Lets-Explore-The-Park",
   "area": "Dublin City",
+  "summary": "Home Decorative Arts & History Events Current: Summer Family Drop-ins: Let's Explore...The Park Selected dates and times in August…",
   "ageTags": [
    "any"
   ],
@@ -2395,7 +2503,7 @@
   "status": "Available",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "link": "https://imma.ie/whats-on/mornings-at-the-museum-holidays/",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -2403,7 +2511,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Drop in over the school holidays for family creative time in the galleries."
  },
  {
   "date": "29 Jul",
@@ -2419,6 +2528,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/zine-and-chat-a-creative-meetup-for-17-19-year-olds-tickets-1992781863197",
   "area": "Fingal",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -2441,6 +2551,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Children's Storytime on every Wednesday afternoon at 2.30pm in Ballyfermot Library.",
   "ageTags": [
    "any"
   ],
@@ -2463,6 +2574,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
    "any"
   ],
@@ -2485,6 +2597,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
+  "summary": "Join Library staff on Wednesday afternoons for a fun-filled storytime!",
   "ageTags": [
    "any"
   ],
@@ -2507,6 +2620,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Parents are welcome to sit in as well!",
   "ageTags": [
    "any"
   ],
@@ -2527,8 +2641,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -2551,6 +2666,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
+  "summary": "Join us in Ballyogan Library for our weekly quiet evening.",
   "ageTags": [
    "any"
   ],
@@ -2573,6 +2689,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/book-journaling-workshop-tickets-1993930591073",
   "area": "South Dublin",
+  "summary": "A Stop Scrolling Start Reading Event",
   "ageTags": [
    "any"
   ],
@@ -2593,8 +2710,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -2617,6 +2735,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and toddler group for young children.",
   "ageTags": [
    "any"
   ],
@@ -2639,6 +2758,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "The Offline Club is a phone-free, analogue club for teens aged between 12 and 17 years.",
   "ageTags": [
    "any"
   ],
@@ -2668,7 +2788,8 @@
   "free": false,
   "dropin": false,
   "ok": false,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
   "date": "30 Jul",
@@ -2682,8 +2803,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -2706,6 +2828,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -2728,6 +2851,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
+  "summary": "Pembroke Library toddler group is on Thursday morning from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -2750,6 +2874,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
+  "summary": "*No Toddler Group for the month of August* Ringsend Library toddler group meets on alternate Thursdays from 11am to 12 noon in the…",
   "ageTags": [
    "any"
   ],
@@ -2778,7 +2903,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A calm gallery tour for parents with babies in arms."
  },
  {
   "date": "30 Jul",
@@ -2794,6 +2920,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/screen-free-summer-holidays-lego-club-3",
   "area": "Dublin City",
+  "summary": "Join us this July for our fun and creative Children's Lego Club, taking place on Thursdays!",
   "ageTags": [
    "any"
   ],
@@ -2816,6 +2943,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
+  "summary": "Rathmines Library Toddler Group meets on Thursdays at 1pm.",
   "ageTags": [
    "any"
   ],
@@ -2838,6 +2966,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/harry-potter-science-2pm-workshop-tickets-1994412411210",
   "area": "South Dublin",
+  "summary": "Calling all young wizards!",
   "ageTags": [
    "any"
   ],
@@ -2860,6 +2989,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Archaeology/Events/2026/Q3-Jul-Sept/Drop-In-Rocks-of-the-Stone-Age!-Megalithic-Art-(1)",
   "area": "Dublin City",
+  "summary": "Home Archaeology Events Current: Drop-In: Rocks of the Stone Age!",
   "ageTags": [
    "any"
   ],
@@ -2882,6 +3012,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/harry-potter-science-3pm-workshop-tickets-1994414248706",
   "area": "South Dublin",
+  "summary": "Calling all young wizards!",
   "ageTags": [
    "any"
   ],
@@ -2904,6 +3035,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
    "any"
   ],
@@ -2926,6 +3058,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
+  "summary": "*May 7 & 21* The Lego Club takes place on alternate Thursdays of every month from 3.30pm - 4.30pm.",
   "ageTags": [
    "any"
   ],
@@ -2946,8 +3079,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -2970,6 +3104,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Events/2026/Q3-July-to-Sept/DUBLIN-BY-DUSK-Yoga-on-the-Green-with-the-Sanctuar",
   "area": "Dublin City",
+  "summary": "Home Decorative Arts & History Events Current: DUBLIN BY DUSK: Yoga on the Green with the Sanctuary 30/07/2026, Adults DUBLIN BY DUSK: Yoga…",
   "ageTags": [
    "any"
   ],
@@ -2992,6 +3127,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Archaeology/Events/2026/Q3-Jul-Sept/Crafted-Encounters-Japanese-Water-Based-Woodblock",
   "area": "Dublin City",
+  "summary": "Home Archaeology Events Current: WAIT LIST - DUBLIN BY DUSK: Crafted Encounters: Japanese Water-Based Woodblock Printing (Mokuhanga)…",
   "ageTags": [
    "any"
   ],
@@ -3012,8 +3148,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -3036,6 +3173,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/seen-and-heard",
   "area": "dlr",
+  "summary": "Discover Seen and Heard , a powerful exhibition by the Museum of Childhood Ireland Músaem Óige na hÉireann exploring the evolution of…",
   "ageTags": [
    "any"
   ],
@@ -3058,6 +3196,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/baby-and-toddler-group-ballyogan-library",
   "area": "dlr",
+  "summary": "Join us for Baby and Toddler group in Ballyogan Library.",
   "ageTags": [
    "under5"
   ],
@@ -3087,7 +3226,8 @@
   "free": false,
   "dropin": false,
   "ok": false,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
   "date": "31 Jul",
@@ -3101,8 +3241,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -3125,6 +3266,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
+  "summary": "Join us for the ELI toddler playgroup in the Events Room every Friday morning from 10.30-11.30am.",
   "ageTags": [
    "any"
   ],
@@ -3147,6 +3289,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-friday-films",
   "area": "Dublin City",
+  "summary": "Join us this July in the Central Library for our Children’s Friday Film Club — a fun, relaxed weekly event designed especially for young…",
   "ageTags": [
    "any"
   ],
@@ -3169,6 +3312,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/bring-photon-to-life-ages-1012-tickets-1994413571681",
   "area": "Fingal",
+  "summary": "Kids will learn the basics of coding by programming Photon to move, turn, and complete a simple course.",
   "ageTags": [
    "9to12"
   ],
@@ -3189,8 +3333,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -3211,8 +3356,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -3233,8 +3379,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -3257,6 +3404,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
+  "summary": "Last Saturday every month from 10.30am - 11.45am No need to book just drop by!",
   "ageTags": [
    "5to8"
   ],
@@ -3279,6 +3427,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-free-play",
   "area": "Dublin City",
+  "summary": "Welcome to our free play Lego Club on Saturday mornings 10.30am to 12pm.",
   "ageTags": [
    "any"
   ],
@@ -3310,7 +3459,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "1 Aug",
@@ -3324,8 +3474,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -3346,8 +3497,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -3376,7 +3528,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  },
  {
   "date": "2 Aug",
@@ -3390,8 +3543,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -3412,8 +3566,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -3436,6 +3591,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -3456,8 +3612,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -3480,6 +3637,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and baby group for non-walkers.",
   "ageTags": [
    "any"
   ],
@@ -3502,6 +3660,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
    "any"
   ],
@@ -3522,8 +3681,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -3546,6 +3706,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
+  "summary": "The Raheny Library Toddler Group meets every Tuesday morning from 10.30am to 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -3568,6 +3729,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
+  "summary": "Join us for toddler time every TUESDAY to meet other parents and carers with their toddlers.",
   "ageTags": [
    "any"
   ],
@@ -3590,6 +3752,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
+  "summary": "Join your favourite librarians in Charleville Mall Library throughout the months of July and August for kids' storytime!",
   "ageTags": [
    "any"
   ],
@@ -3612,6 +3775,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
    "any"
   ],
@@ -3634,6 +3798,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/greek-family-favourites",
   "area": "Dublin City",
+  "summary": "Join the award-winning Cool Food School for a fun-filled family food adventure exploring the flavours of Greece!",
   "ageTags": [
    "5to8"
   ],
@@ -3656,6 +3821,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
+  "summary": "Join us for a Drop in Board Games session for children aged 6+ in Ballyfermot Library .",
   "ageTags": [
    "any"
   ],
@@ -3678,6 +3844,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
    "any"
   ],
@@ -3700,6 +3867,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
+  "summary": "Lego Club Terenure Library Tuesdays at 3.30pm Lego club is for children aged 6+",
   "ageTags": [
    "any"
   ],
@@ -3720,8 +3888,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -3742,8 +3911,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -3766,6 +3936,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
    "any"
   ],
@@ -3786,8 +3957,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -3810,6 +3982,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Archaeology/Events/2026/Q3-Jul-Sept/Drop-In-Workshop-Bronze-Age-Artefact-Detective-(1)",
   "area": "Dublin City",
+  "summary": "Home Archaeology Events Current: Drop-In Workshop: Bronze Age Artefact Detective Wednesday 5th August, 11:00-13:00, Families Drop-In…",
   "ageTags": [
    "any"
   ],
@@ -3832,6 +4005,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/fantastic-fun-sarah-sparkles-event-fully-booked",
   "area": "dlr",
+  "summary": "Join Sarah Sparkles for a fully interactive show for little ones, including singing, dancing and movement.",
   "ageTags": [
    "any"
   ],
@@ -3852,7 +4026,7 @@
   "status": "Available",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "link": "https://imma.ie/whats-on/mornings-at-the-museum-holidays/",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -3860,7 +4034,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Drop in over the school holidays for family creative time in the galleries."
  },
  {
   "date": "5 Aug",
@@ -3876,6 +4051,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Archaeology/Events/2026/Q3-Jul-Sept/Drop-In-Summer-Sun-Discs!-Bronze-Age-Craft-Wor-(1)",
   "area": "Dublin City",
+  "summary": "Home Archaeology Events Current: Drop-In: Summer Sun Discs!",
   "ageTags": [
    "any"
   ],
@@ -3898,6 +4074,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Children's Storytime on every Wednesday afternoon at 2.30pm in Ballyfermot Library.",
   "ageTags": [
    "any"
   ],
@@ -3920,6 +4097,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
    "any"
   ],
@@ -3942,6 +4120,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
+  "summary": "Join Library staff on Wednesday afternoons for a fun-filled storytime!",
   "ageTags": [
    "any"
   ],
@@ -3964,6 +4143,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Parents are welcome to sit in as well!",
   "ageTags": [
    "any"
   ],
@@ -3984,8 +4164,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -4008,6 +4189,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
+  "summary": "Join us in Ballyogan Library for our weekly quiet evening.",
   "ageTags": [
    "any"
   ],
@@ -4028,8 +4210,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -4052,6 +4235,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and toddler group for young children.",
   "ageTags": [
    "any"
   ],
@@ -4074,6 +4258,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "The Offline Club is a phone-free, analogue club for teens aged between 12 and 17 years.",
   "ageTags": [
    "any"
   ],
@@ -4094,8 +4279,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -4118,6 +4304,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -4140,6 +4327,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
+  "summary": "Pembroke Library toddler group is on Thursday morning from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -4162,6 +4350,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
+  "summary": "*No Toddler Group for the month of August* Ringsend Library toddler group meets on alternate Thursdays from 11am to 12 noon in the…",
   "ageTags": [
    "any"
   ],
@@ -4184,6 +4373,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
+  "summary": "Rathmines Library Toddler Group meets on Thursdays at 1pm.",
   "ageTags": [
    "any"
   ],
@@ -4206,6 +4396,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/napkin-decoupage",
   "area": "dlr",
+  "summary": "Join Enid for an intergenerational decoupage workshop where children (11 yrs+) and an accompanying adult will create a decorative glass jar…",
   "ageTags": [
    "any"
   ],
@@ -4228,6 +4419,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-storytime-storyteller-aisling-breen-1",
   "area": "Dublin City",
+  "summary": "Join actor, writer and storyteller Aisling Breen for a magical storytelling adventure this summer.",
   "ageTags": [
    "any"
   ],
@@ -4250,6 +4442,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
    "any"
   ],
@@ -4272,6 +4465,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
+  "summary": "*May 7 & 21* The Lego Club takes place on alternate Thursdays of every month from 3.30pm - 4.30pm.",
   "ageTags": [
    "any"
   ],
@@ -4292,8 +4486,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -4314,8 +4509,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -4338,6 +4534,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/baby-and-toddler-group-ballyogan-library",
   "area": "dlr",
+  "summary": "Join us for Baby and Toddler group in Ballyogan Library.",
   "ageTags": [
    "under5"
   ],
@@ -4358,8 +4555,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -4382,6 +4580,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
+  "summary": "Join us for the ELI toddler playgroup in the Events Room every Friday morning from 10.30-11.30am.",
   "ageTags": [
    "any"
   ],
@@ -4402,8 +4601,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -4424,8 +4624,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -4446,8 +4647,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -4470,6 +4672,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
+  "summary": "Last Saturday every month from 10.30am - 11.45am No need to book just drop by!",
   "ageTags": [
    "5to8"
   ],
@@ -4492,6 +4695,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-free-play",
   "area": "Dublin City",
+  "summary": "Welcome to our free play Lego Club on Saturday mornings 10.30am to 12pm.",
   "ageTags": [
    "any"
   ],
@@ -4520,7 +4724,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Outdoor puppet show telling tales for young children — free, drop in."
  },
  {
   "date": "8 Aug",
@@ -4545,7 +4750,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "8 Aug",
@@ -4559,8 +4765,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -4581,8 +4788,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -4611,7 +4819,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  },
  {
   "date": "9 Aug",
@@ -4625,8 +4834,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -4647,8 +4857,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -4671,6 +4882,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
    "any"
   ],
@@ -4693,6 +4905,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -4713,8 +4926,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -4737,6 +4951,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and baby group for non-walkers.",
   "ageTags": [
    "any"
   ],
@@ -4759,6 +4974,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
    "any"
   ],
@@ -4779,8 +4995,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -4803,6 +5020,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
+  "summary": "The Raheny Library Toddler Group meets every Tuesday morning from 10.30am to 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -4825,6 +5043,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
+  "summary": "Join us for toddler time every TUESDAY to meet other parents and carers with their toddlers.",
   "ageTags": [
    "any"
   ],
@@ -4847,6 +5066,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
+  "summary": "Join your favourite librarians in Charleville Mall Library throughout the months of July and August for kids' storytime!",
   "ageTags": [
    "any"
   ],
@@ -4869,6 +5089,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/felt-your-own-dinosaur-with-jenni-kilgallon-12-14-year-olds-tickets-1992202726985",
   "area": "Fingal",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -4891,6 +5112,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
    "any"
   ],
@@ -4913,6 +5135,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
+  "summary": "Join us for a Drop in Board Games session for children aged 6+ in Ballyfermot Library .",
   "ageTags": [
    "any"
   ],
@@ -4935,6 +5158,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
    "any"
   ],
@@ -4957,6 +5181,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
+  "summary": "Lego Club Terenure Library Tuesdays at 3.30pm Lego club is for children aged 6+",
   "ageTags": [
    "any"
   ],
@@ -4977,8 +5202,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -4999,8 +5225,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -5023,6 +5250,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
    "any"
   ],
@@ -5043,8 +5271,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -5067,6 +5296,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Archaeology/Events/2026/Q3-Jul-Sept/Drop-In-The-Saints,-Scholars,-and-Scribes-of-I-(1)",
   "area": "Dublin City",
+  "summary": "Home Archaeology Events Current: Drop-In: The Saints, Scholars, and Scribes of Ireland!",
   "ageTags": [
    "any"
   ],
@@ -5087,7 +5317,7 @@
   "status": "Available",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "link": "https://imma.ie/whats-on/mornings-at-the-museum-holidays/",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -5095,7 +5325,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Drop in over the school holidays for family creative time in the galleries."
  },
  {
   "date": "12 Aug",
@@ -5111,6 +5342,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Children's Storytime on every Wednesday afternoon at 2.30pm in Ballyfermot Library.",
   "ageTags": [
    "any"
   ],
@@ -5133,6 +5365,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
    "any"
   ],
@@ -5155,6 +5388,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
+  "summary": "Join Library staff on Wednesday afternoons for a fun-filled storytime!",
   "ageTags": [
    "any"
   ],
@@ -5177,6 +5411,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Parents are welcome to sit in as well!",
   "ageTags": [
    "any"
   ],
@@ -5197,8 +5432,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -5221,6 +5457,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
+  "summary": "Join us in Ballyogan Library for our weekly quiet evening.",
   "ageTags": [
    "any"
   ],
@@ -5241,8 +5478,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -5265,6 +5503,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and toddler group for young children.",
   "ageTags": [
    "any"
   ],
@@ -5287,6 +5526,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "The Offline Club is a phone-free, analogue club for teens aged between 12 and 17 years.",
   "ageTags": [
    "any"
   ],
@@ -5307,8 +5547,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -5331,6 +5572,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -5353,6 +5595,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
+  "summary": "Pembroke Library toddler group is on Thursday morning from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -5375,6 +5618,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
+  "summary": "*No Toddler Group for the month of August* Ringsend Library toddler group meets on alternate Thursdays from 11am to 12 noon in the…",
   "ageTags": [
    "any"
   ],
@@ -5403,7 +5647,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A calm gallery tour for parents with babies in arms."
  },
  {
   "date": "13 Aug",
@@ -5419,6 +5664,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
+  "summary": "Rathmines Library Toddler Group meets on Thursdays at 1pm.",
   "ageTags": [
    "any"
   ],
@@ -5441,6 +5687,7 @@
   "cost": "Free",
   "link": "https://www.museum.ie/en-IE/Museums/Archaeology/Events/2026/Q3-Jul-Sept/Drop-In-An-Etch-in-Time!-Ogham-Craft-Workshop-(1)",
   "area": "Dublin City",
+  "summary": "Home Archaeology Events Current: Drop-In: An Etch in Time!",
   "ageTags": [
    "any"
   ],
@@ -5463,6 +5710,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
    "any"
   ],
@@ -5485,6 +5733,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
+  "summary": "*May 7 & 21* The Lego Club takes place on alternate Thursdays of every month from 3.30pm - 4.30pm.",
   "ageTags": [
    "any"
   ],
@@ -5505,8 +5754,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -5529,6 +5779,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/summer-teddy-bear-sleepover-for-3-6-year-olds-tickets-1991473964236",
   "area": "Fingal",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -5549,8 +5800,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -5573,6 +5825,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/baby-and-toddler-group-ballyogan-library",
   "area": "dlr",
+  "summary": "Join us for Baby and Toddler group in Ballyogan Library.",
   "ageTags": [
    "under5"
   ],
@@ -5593,8 +5846,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -5617,6 +5871,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
+  "summary": "Join us for the ELI toddler playgroup in the Events Room every Friday morning from 10.30-11.30am.",
   "ageTags": [
    "any"
   ],
@@ -5639,6 +5894,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/monster-summer-doodle-white-doodle-art",
   "area": "dlr",
+  "summary": "Join artist Susie Fortune from White Doodle Art for a fun, creative session and help bring a giant summer doodle to life!",
   "ageTags": [
    "5to8"
   ],
@@ -5659,8 +5915,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -5681,8 +5938,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -5705,6 +5963,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-family-film-club-1",
   "area": "dlr",
+  "summary": "Join us for a summer screening of a hilarious and visually stunning 2003 Oscar-winning family-friendly classic.",
   "ageTags": [
    "any"
   ],
@@ -5725,8 +5984,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -5749,6 +6009,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
+  "summary": "Last Saturday every month from 10.30am - 11.45am No need to book just drop by!",
   "ageTags": [
    "5to8"
   ],
@@ -5771,6 +6032,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-free-play",
   "area": "Dublin City",
+  "summary": "Welcome to our free play Lego Club on Saturday mornings 10.30am to 12pm.",
   "ageTags": [
    "any"
   ],
@@ -5802,7 +6064,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "15 Aug",
@@ -5816,8 +6079,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -5838,8 +6102,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -5868,7 +6133,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  },
  {
   "date": "16 Aug",
@@ -5882,8 +6148,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -5904,8 +6171,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -5928,6 +6196,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "There is no Tummy Time in Ballywaltrim Library on Monday 17 August.",
   "ageTags": [
    "any"
   ],
@@ -5950,6 +6219,7 @@
   "cost": "See link",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
    "any"
   ],
@@ -5972,6 +6242,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -5992,8 +6263,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -6016,6 +6288,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and baby group for non-walkers.",
   "ageTags": [
    "any"
   ],
@@ -6038,6 +6311,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
    "any"
   ],
@@ -6058,8 +6332,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -6082,6 +6357,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
+  "summary": "The Raheny Library Toddler Group meets every Tuesday morning from 10.30am to 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -6104,6 +6380,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
+  "summary": "Join us for toddler time every TUESDAY to meet other parents and carers with their toddlers.",
   "ageTags": [
    "any"
   ],
@@ -6126,6 +6403,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
+  "summary": "Join your favourite librarians in Charleville Mall Library throughout the months of July and August for kids' storytime!",
   "ageTags": [
    "any"
   ],
@@ -6148,6 +6426,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
    "any"
   ],
@@ -6170,6 +6449,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/lets-get-musical",
   "area": "dlr",
+  "summary": "Like to sing, dance, strum along to a good tune?",
   "ageTags": [
    "5to8"
   ],
@@ -6192,6 +6472,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
+  "summary": "Join us for a Drop in Board Games session for children aged 6+ in Ballyfermot Library .",
   "ageTags": [
    "any"
   ],
@@ -6214,6 +6495,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
    "any"
   ],
@@ -6236,6 +6518,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
+  "summary": "Lego Club Terenure Library Tuesdays at 3.30pm Lego club is for children aged 6+",
   "ageTags": [
    "any"
   ],
@@ -6256,8 +6539,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -6278,8 +6562,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -6302,6 +6587,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
    "any"
   ],
@@ -6322,8 +6608,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -6344,7 +6631,7 @@
   "status": "Available",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "link": "https://imma.ie/whats-on/mornings-at-the-museum-holidays/",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -6352,7 +6639,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Drop in over the school holidays for family creative time in the galleries."
  },
  {
   "date": "19 Aug",
@@ -6368,6 +6656,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Children's Storytime on every Wednesday afternoon at 2.30pm in Ballyfermot Library.",
   "ageTags": [
    "any"
   ],
@@ -6390,6 +6679,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/winnie-pooh-workshop-bees-honey-and-beeswax",
   "area": "dlr",
+  "summary": "Join Anyone 4 Science for a literature-themed science event to learn about Bee habitats, and make a Bee House for your garden.",
   "ageTags": [
    "any"
   ],
@@ -6412,6 +6702,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
    "any"
   ],
@@ -6434,6 +6725,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
+  "summary": "Join Library staff on Wednesday afternoons for a fun-filled storytime!",
   "ageTags": [
    "any"
   ],
@@ -6456,6 +6748,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Parents are welcome to sit in as well!",
   "ageTags": [
    "any"
   ],
@@ -6476,8 +6769,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -6500,6 +6794,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
+  "summary": "Join us in Ballyogan Library for our weekly quiet evening.",
   "ageTags": [
    "any"
   ],
@@ -6520,8 +6815,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -6544,6 +6840,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and toddler group for young children.",
   "ageTags": [
    "any"
   ],
@@ -6564,8 +6861,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -6588,6 +6886,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -6610,6 +6909,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
+  "summary": "Pembroke Library toddler group is on Thursday morning from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -6632,6 +6932,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
+  "summary": "*No Toddler Group for the month of August* Ringsend Library toddler group meets on alternate Thursdays from 11am to 12 noon in the…",
   "ageTags": [
    "any"
   ],
@@ -6654,6 +6955,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
+  "summary": "Rathmines Library Toddler Group meets on Thursdays at 1pm.",
   "ageTags": [
    "any"
   ],
@@ -6676,6 +6978,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
    "any"
   ],
@@ -6698,6 +7001,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
+  "summary": "*May 7 & 21* The Lego Club takes place on alternate Thursdays of every month from 3.30pm - 4.30pm.",
   "ageTags": [
    "any"
   ],
@@ -6718,8 +7022,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -6740,8 +7045,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -6764,6 +7070,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/baby-and-toddler-group-ballyogan-library",
   "area": "dlr",
+  "summary": "Join us for Baby and Toddler group in Ballyogan Library.",
   "ageTags": [
    "under5"
   ],
@@ -6784,8 +7091,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -6808,6 +7116,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
+  "summary": "Join us for the ELI toddler playgroup in the Events Room every Friday morning from 10.30-11.30am.",
   "ageTags": [
    "any"
   ],
@@ -6828,8 +7137,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -6850,8 +7160,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -6874,6 +7185,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/fingal-libraries-summer-of-board-games-tickets-1988319165147",
   "area": "Fingal",
+  "summary": "Bring your friends & family, and meet new players in real life, and it’s all free in Fingal Libraries Summer of Board Games.",
   "ageTags": [
    "any"
   ],
@@ -6894,8 +7206,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -6918,6 +7231,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
+  "summary": "Last Saturday every month from 10.30am - 11.45am No need to book just drop by!",
   "ageTags": [
    "5to8"
   ],
@@ -6940,6 +7254,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-free-play",
   "area": "Dublin City",
+  "summary": "Welcome to our free play Lego Club on Saturday mornings 10.30am to 12pm.",
   "ageTags": [
    "any"
   ],
@@ -6962,6 +7277,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/book-kells-workshop-heritage-week",
   "area": "dlr",
+  "summary": "Step into the world of ancient Ireland this Heritage Week with Dr Francesca Cadeddu’s family workshops.",
   "ageTags": [
    "any"
   ],
@@ -6984,6 +7300,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/musical-tots-fun-and-music-for-0-5year-olds-tickets-1991998440960",
   "area": "Fingal",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -7006,6 +7323,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/sarah-sparkles-magic-storytelling",
   "area": "dlr",
+  "summary": "Join Sarah Sparkles on a magical storytelling adventure as she fills the library with stories, imagination, and wonder!",
   "ageTags": [
    "any"
   ],
@@ -7037,7 +7355,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "22 Aug",
@@ -7059,7 +7378,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A print-launch talk and live printing demonstration at the museum."
  },
  {
   "date": "22 Aug",
@@ -7073,8 +7393,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -7095,8 +7416,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -7125,7 +7447,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  },
  {
   "date": "23 Aug",
@@ -7139,8 +7462,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -7161,8 +7485,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -7185,6 +7510,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
    "any"
   ],
@@ -7207,6 +7533,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -7227,8 +7554,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -7251,6 +7579,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and baby group for non-walkers.",
   "ageTags": [
    "any"
   ],
@@ -7273,6 +7602,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
    "any"
   ],
@@ -7293,8 +7623,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -7317,6 +7648,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
+  "summary": "The Raheny Library Toddler Group meets every Tuesday morning from 10.30am to 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -7339,6 +7671,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
+  "summary": "Join us for toddler time every TUESDAY to meet other parents and carers with their toddlers.",
   "ageTags": [
    "any"
   ],
@@ -7361,6 +7694,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
+  "summary": "Join your favourite librarians in Charleville Mall Library throughout the months of July and August for kids' storytime!",
   "ageTags": [
    "any"
   ],
@@ -7383,6 +7717,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Then join us in Ballywaltrim Library on Tuesday mornings during June, July and August for Weekly Teen Crafting.",
   "ageTags": [
    "any"
   ],
@@ -7405,6 +7740,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
+  "summary": "Join us for a Drop in Board Games session for children aged 6+ in Ballyfermot Library .",
   "ageTags": [
    "any"
   ],
@@ -7427,6 +7763,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
    "any"
   ],
@@ -7449,6 +7786,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
+  "summary": "Lego Club Terenure Library Tuesdays at 3.30pm Lego club is for children aged 6+",
   "ageTags": [
    "any"
   ],
@@ -7469,8 +7807,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -7491,8 +7830,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -7515,6 +7855,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Come along to Ballywaltrim Library this summer to our Chess for Teens.",
   "ageTags": [
    "any"
   ],
@@ -7535,8 +7876,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -7559,6 +7901,7 @@
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/zine-and-chat-a-creative-meetup-for-17-19-year-olds-tickets-1992781965503",
   "area": "Fingal",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -7581,6 +7924,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Children's Storytime on every Wednesday afternoon at 2.30pm in Ballyfermot Library.",
   "ageTags": [
    "any"
   ],
@@ -7603,6 +7947,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Wednesday at 3pm throughout July and August for Teddy Bear Story Time!",
   "ageTags": [
    "any"
   ],
@@ -7625,6 +7970,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
+  "summary": "Join Library staff on Wednesday afternoons for a fun-filled storytime!",
   "ageTags": [
    "any"
   ],
@@ -7647,6 +7993,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Parents are welcome to sit in as well!",
   "ageTags": [
    "any"
   ],
@@ -7667,8 +8014,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -7691,6 +8039,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
+  "summary": "Join us in Ballyogan Library for our weekly quiet evening.",
   "ageTags": [
    "any"
   ],
@@ -7711,8 +8060,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -7735,6 +8085,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and toddler group for young children.",
   "ageTags": [
    "any"
   ],
@@ -7755,8 +8106,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -7779,6 +8131,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -7801,6 +8154,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
+  "summary": "Pembroke Library toddler group is on Thursday morning from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -7823,6 +8177,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
+  "summary": "*No Toddler Group for the month of August* Ringsend Library toddler group meets on alternate Thursdays from 11am to 12 noon in the…",
   "ageTags": [
    "any"
   ],
@@ -7851,7 +8206,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A calm gallery tour for parents with babies in arms."
  },
  {
   "date": "27 Aug",
@@ -7867,6 +8223,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
+  "summary": "Rathmines Library Toddler Group meets on Thursdays at 1pm.",
   "ageTags": [
    "any"
   ],
@@ -7895,7 +8252,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A gentle stage show of Julia Donaldson's lift-the-flap stories for little ones."
  },
  {
   "date": "27 Aug",
@@ -7911,6 +8269,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Join us in Ballywaltrim Library every Thursday at 3pm throughout July and August for Summer Arts and Crafts.",
   "ageTags": [
    "any"
   ],
@@ -7933,6 +8292,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
+  "summary": "*May 7 & 21* The Lego Club takes place on alternate Thursdays of every month from 3.30pm - 4.30pm.",
   "ageTags": [
    "any"
   ],
@@ -7955,6 +8315,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/3d-modelling-printing-workshop",
   "area": "dlr",
+  "summary": "Join library staff for a hands-on session where participants will learn how to use 3D software to move, scale and rotate objects before…",
   "ageTags": [
    "any"
   ],
@@ -7975,8 +8336,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -7997,8 +8359,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -8021,6 +8384,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/baby-and-toddler-group-ballyogan-library",
   "area": "dlr",
+  "summary": "Join us for Baby and Toddler group in Ballyogan Library.",
   "ageTags": [
    "under5"
   ],
@@ -8041,8 +8405,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -8065,6 +8430,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
+  "summary": "Join us for the ELI toddler playgroup in the Events Room every Friday morning from 10.30-11.30am.",
   "ageTags": [
    "any"
   ],
@@ -8093,7 +8459,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A gentle stage show of Julia Donaldson's lift-the-flap stories for little ones."
  },
  {
   "date": "28 Aug",
@@ -8107,8 +8474,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -8129,8 +8497,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -8151,8 +8520,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -8175,6 +8545,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
+  "summary": "Last Saturday every month from 10.30am - 11.45am No need to book just drop by!",
   "ageTags": [
    "5to8"
   ],
@@ -8197,6 +8568,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-free-play",
   "area": "Dublin City",
+  "summary": "Welcome to our free play Lego Club on Saturday mornings 10.30am to 12pm.",
   "ageTags": [
    "any"
   ],
@@ -8225,7 +8597,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A gentle stage show of Julia Donaldson's lift-the-flap stories for little ones."
  },
  {
   "date": "29 Aug",
@@ -8250,7 +8623,8 @@
   "free": true,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A relaxed, kid-friendly tour of IMMA's current exhibitions."
  },
  {
   "date": "29 Aug",
@@ -8261,7 +8635,7 @@
   "activity": "Kíla — Family Show (live music)",
   "cat": "Show",
   "ages": "Children & families",
-  "status": "Available",
+  "status": "Sold out",
   "book": "Book online",
   "cost": "€28 / €12 child",
   "link": "https://www.mermaidartscentre.ie/whats-on/events/kila-family-show",
@@ -8271,8 +8645,9 @@
   ],
   "free": false,
   "dropin": false,
-  "ok": true,
-  "src": "manual"
+  "ok": false,
+  "src": "manual",
+  "summary": "A high-energy family show from the Irish trad band Kíla."
  },
  {
   "date": "29 Aug",
@@ -8288,6 +8663,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/anna-bananas-clown-show-0",
   "area": "dlr",
+  "summary": "Join us to celebrate the end of Summer Stars with Anna Bananas Clown Show, a warm and enjoyable performance full of light-hearted fun and…",
   "ageTags": [
    "any"
   ],
@@ -8308,8 +8684,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -8330,8 +8707,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -8360,7 +8738,8 @@
   "free": false,
   "dropin": false,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "A gentle stage show of Julia Donaldson's lift-the-flap stories for little ones."
  },
  {
   "date": "30 Aug",
@@ -8382,7 +8761,8 @@
   "free": true,
   "dropin": true,
   "ok": true,
-  "src": "manual"
+  "src": "manual",
+  "summary": "Sunday-afternoon drop-in art-making for families in the Creativity Hub."
  },
  {
   "date": "30 Aug",
@@ -8396,8 +8776,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -8418,8 +8799,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -8442,6 +8824,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "Summer Tummy Time at Ballywaltrim Library Tummy Time during June, July and August: Mondays and Tuesdays 10am to 11am No booking required.",
   "ageTags": [
    "any"
   ],
@@ -8464,6 +8847,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -8484,8 +8868,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -8508,6 +8893,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/story-we-tell-tomorrow",
   "area": "dlr",
+  "summary": "See The Story We Tell Tomorrow, two artworks as part of the dlr Public Art Programme in collaboration with local communities.",
   "ageTags": [
    "any"
   ],
@@ -8530,6 +8916,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and baby group for non-walkers.",
   "ageTags": [
    "any"
   ],
@@ -8550,8 +8937,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -8574,6 +8962,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
+  "summary": "The Raheny Library Toddler Group meets every Tuesday morning from 10.30am to 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -8596,6 +8985,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
+  "summary": "Join us for toddler time every TUESDAY to meet other parents and carers with their toddlers.",
   "ageTags": [
    "any"
   ],
@@ -8618,6 +9008,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
+  "summary": "Join us for a Drop in Board Games session for children aged 6+ in Ballyfermot Library .",
   "ageTags": [
    "any"
   ],
@@ -8640,6 +9031,7 @@
   "cost": "Free",
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/MSGTRN/WPAC/EVENTS?HOMEPRMS=EVSESPARAMS",
   "area": "North Wicklow",
+  "summary": "All are welcome to join Bray Library's Afterschool Storytime for children aged 4-8 years old.",
   "ageTags": [
    "any"
   ],
@@ -8662,6 +9054,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
+  "summary": "Lego Club Terenure Library Tuesdays at 3.30pm Lego club is for children aged 6+",
   "ageTags": [
    "any"
   ],
@@ -8682,8 +9075,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -8704,8 +9098,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -8726,8 +9121,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -8750,6 +9146,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Children's Storytime on every Wednesday afternoon at 2.30pm in Ballyfermot Library.",
   "ageTags": [
    "any"
   ],
@@ -8772,6 +9169,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
+  "summary": "Join Library staff on Wednesday afternoons for a fun-filled storytime!",
   "ageTags": [
    "any"
   ],
@@ -8794,6 +9192,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
+  "summary": "Parents are welcome to sit in as well!",
   "ageTags": [
    "any"
   ],
@@ -8814,8 +9213,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -8838,6 +9238,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
+  "summary": "Join us in Ballyogan Library for our weekly quiet evening.",
   "ageTags": [
    "any"
   ],
@@ -8858,8 +9259,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -8882,6 +9284,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
+  "summary": "This group is a parent and toddler group for young children.",
   "ageTags": [
    "any"
   ],
@@ -8902,8 +9305,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -8926,6 +9330,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
+  "summary": "The toddler group meets every Monday and Thursday from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -8948,6 +9353,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
+  "summary": "Pembroke Library toddler group is on Thursday morning from 10.30 - 11.30am.",
   "ageTags": [
    "any"
   ],
@@ -8970,6 +9376,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
+  "summary": "*No Toddler Group for the month of August* Ringsend Library toddler group meets on alternate Thursdays from 11am to 12 noon in the…",
   "ageTags": [
    "any"
   ],
@@ -8992,6 +9399,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
+  "summary": "Rathmines Library Toddler Group meets on Thursdays at 1pm.",
   "ageTags": [
    "any"
   ],
@@ -9014,6 +9422,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
+  "summary": "*May 7 & 21* The Lego Club takes place on alternate Thursdays of every month from 3.30pm - 4.30pm.",
   "ageTags": [
    "any"
   ],
@@ -9034,8 +9443,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -9056,8 +9466,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],
@@ -9080,6 +9491,7 @@
   "cost": "Free",
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/baby-and-toddler-group-ballyogan-library",
   "area": "dlr",
+  "summary": "Join us for Baby and Toddler group in Ballyogan Library.",
   "ageTags": [
    "under5"
   ],
@@ -9100,8 +9512,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.museum.ie/en-ie/museums/decorative-arts-history",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
   "area": "Dublin City",
+  "summary": "See the National Museum's natural-history collection in its new Collins Barracks home.",
   "ageTags": [
    "any"
   ],
@@ -9124,6 +9537,7 @@
   "cost": "Free",
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
+  "summary": "Join us for the ELI toddler playgroup in the Events Room every Friday morning from 10.30-11.30am.",
   "ageTags": [
    "any"
   ],
@@ -9144,8 +9558,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://imma.ie/whats-on/guided-tours/",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
   "area": "Dublin City",
+  "summary": "Join a free daily tour of IMMA's current exhibitions — just turn up.",
   "ageTags": [
    "any"
   ],
@@ -9166,8 +9581,9 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.nationalgallery.ie/families",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
   "area": "Dublin City",
+  "summary": "",
   "ageTags": [
    "any"
   ],

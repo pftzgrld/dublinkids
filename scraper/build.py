@@ -11,7 +11,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-import src_dcc, src_dlr, src_nmi, src_sdcc, src_wicklow  # noqa: E402
+import src_dcc, src_dlr, src_nmi, src_sdcc, src_wicklow, src_imma  # noqa: E402
 import status  # noqa: E402
 from common import today  # noqa: E402
 
@@ -41,11 +41,12 @@ def expand_recurring():
                     cat=rule["cat"], ages=rule["ages"],
                     status="No booking needed", book=rule["book"],
                     cost=rule["cost"], link=rule["link"], area=rule["area"],
-                    source="recurring"))
+                    source="recurring", summary=rule.get("summary", "")))
             d += dt.timedelta(days=1)
     return rows
 
 # module -> the `src` tags it owns (sdcc module also scrapes Fingal's org)
+# imma scraper is paused with the summary work — not registered yet
 SOURCES = {"dcc": (src_dcc, ["dcc"]), "dlr": (src_dlr, ["dlr"]),
            "nmi": (src_nmi, ["nmi"]), "sdcc": (src_sdcc, ["sdcc", "fingal"]),
            "wicklow": (src_wicklow, ["wicklow"])}

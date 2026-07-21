@@ -12,7 +12,7 @@ import re
 from bs4 import BeautifulSoup
 
 from common import (fetch, event_row, expand_rule, parse_day_month,
-                    parse_time_range, status_from_text, today)
+                    parse_time_range, status_from_text, today, clean_summary)
 
 BASE = "https://libraries.dlrcoco.ie"
 KID_RX = re.compile(
@@ -120,9 +120,14 @@ def parse_detail(url):
         ages = "Families"
     else:
         ages = "Children"
+    desc = ""
+    if "Event Description" in text:
+        desc = text.split("Event Description", 1)[1]
+        desc = re.split(r"\| (Share|Contact Details|Event Map|Cost)\b",
+                        desc)[0].replace("|", " ")
     return {"title": title, "venue": venue, "dates": dates, "time": time_str,
             "book": book, "link": link, "ages": ages, "status": status,
-            "cost": cost}
+            "cost": cost, "summary": clean_summary(desc)}
 
 
 def scrape():
@@ -138,5 +143,6 @@ def scrape():
                 iso=iso, time_str=d["time"], venue=d["venue"],
                 activity=d["title"], cat="Library", ages=d["ages"],
                 status=d["status"], book=d["book"], cost=d["cost"],
-                link=d["link"], area="dlr", source="dlr"))
+                link=d["link"], area="dlr", source="dlr",
+                summary=d.get("summary", "")))
     return rows

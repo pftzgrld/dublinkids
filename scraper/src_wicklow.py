@@ -17,7 +17,8 @@ import urllib.parse
 from bs4 import BeautifulSoup
 
 from common import (_session, event_row, parse_day_month, parse_time_range,
-                    status_from_text, today, HORIZON_DAYS, MONTHS)
+                    status_from_text, today, HORIZON_DAYS, MONTHS,
+                    clean_summary)
 import datetime as dt
 
 BASE = "https://wicklow.spydus.ie"
@@ -71,12 +72,17 @@ def scrape_spydus():
         dropin = bool(card.select_one(".event-noregistration"))
         status = ("No booking needed" if dropin
                   else status_from_text(text))
+        # description follows the 'Event' type marker in the card body
+        desc = text.split("| Event |", 1)[-1] if "| Event |" in text else ""
+        desc = re.split(r"\| (Registration|Free|Cost|Booking)\b", desc)[0]
+        desc = desc.replace("|", " ")
         rows.append(event_row(
             iso=iso, time_str=time_str, venue=BRANCHES[loc],
             activity=title, cat="Library", ages="Children",
             status=status, book="Drop-in" if dropin else "Contact branch",
             cost="Free" if free else "See link",
-            link=EVENTS_HOME, area=AREA, source="wicklow"))
+            link=EVENTS_HOME, area=AREA, source="wicklow",
+            summary=clean_summary(desc)))
     return rows
 
 

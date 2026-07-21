@@ -9,7 +9,7 @@ import re
 from bs4 import BeautifulSoup
 
 from common import (fetch, event_row, expand_rule, parse_day_month,
-                    parse_time_range, status_from_text)
+                    parse_time_range, status_from_text, clean_summary)
 
 BASE = "https://www.dublincity.ie"
 TYPES = {184: "kids", 223: "library"}
@@ -118,10 +118,15 @@ def parse_detail(url):
 
     status = status_from_text(text)
     cost = "Free" if re.search(r"\bfree\b", text, re.I) else "See link"
+    # description is the body after the Times & Dates schedule line
+    desc = text.split(when, 1)[-1] if when and when in text else text
+    desc = re.split(r"\| (Other Events|Share|Location|Add to calendar)\b",
+                    desc)[0].replace("|", " ")
     return {
         "title": title, "venue": venue, "dates": dates, "time": time_str,
         "book": book, "link": link, "ages": ages, "status": status,
         "cost": cost, "cat": categorise(title, venue, text),
+        "summary": clean_summary(desc),
     }
 
 
@@ -137,5 +142,5 @@ def scrape():
                 iso=iso, time_str=d["time"], venue=d["venue"],
                 activity=d["title"], cat=d["cat"], ages=d["ages"],
                 status=status, book=d["book"], cost=d["cost"], link=d["link"],
-                area="Dublin City", source="dcc"))
+                area="Dublin City", source="dcc", summary=d.get("summary", "")))
     return rows
