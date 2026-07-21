@@ -1,5 +1,4 @@
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Dublin Kids — what's on for kids in Dublin</title>
 <meta name="description" content="Every kids' activity in Dublin and north Wicklow's museums, galleries, libraries and parks — with the booking link. Refreshed weekly.">
 <meta property="og:type" content="website">
@@ -11,6 +10,14 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Dublin Kids">
+<meta name="theme-color" content="#f8f9fa">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☀️</text></svg>">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
@@ -108,6 +115,9 @@ footer{margin-top:34px;color:var(--muted);font-size:12.5px;text-align:center;lin
   li.ev{grid-template-columns:66px 1fr;}
   .right{grid-column:1 / -1;flex-direction:row;justify-content:space-between;align-items:center;border-top:1px solid var(--line);padding-top:9px;margin-top:2px;}
   .chiprow .lbl{width:100%;}
+  .searchrow{flex-wrap:wrap;}
+  .search{flex:1 1 100%;order:-1;}
+  .searchrow .btn{flex:1 1 auto;justify-content:center;}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
@@ -134,20 +144,18 @@ footer{margin-top:34px;color:var(--muted);font-size:12.5px;text-align:center;lin
     <div class="chiprow" id="arearow"><span class="lbl">Area</span></div>
     <div class="chiprow" id="togrow"><span class="lbl">Only</span></div>
   </div>
-</div>
-
-<div class="mus" id="muspanel" hidden>
-  <div class="musrow"><span class="mn"><a href="https://www.nationalgallery.ie" target="_blank" rel="noopener">National Gallery</a></span><span class="mh">Mon &amp; Sun 11:00–17:30 · Tue–Sat from 9:15 (Thu until 20:30) · free</span></div>
-  <div class="musrow"><span class="mn"><a href="https://www.museum.ie/en-ie/museums/archaeology" target="_blank" rel="noopener">NMI Archaeology, Kildare St</a></span><span class="mh">Tue–Sat 10:00–17:00 · Sun–Mon 13:00–17:00 · free</span></div>
-  <div class="musrow"><span class="mn"><a href="https://www.museum.ie/en-ie/museums/decorative-arts-history" target="_blank" rel="noopener">NMI Collins Barracks (Dead Zoo Lab)</a></span><span class="mh">Tue–Sat 10:00–17:00 · Sun–Mon 13:00–17:00 · free</span></div>
-  <div class="musrow"><span class="mn"><a href="https://www.nationalprintmuseum.ie" target="_blank" rel="noopener">National Print Museum</a></span><span class="mh">Tue–Fri 10:00–16:00 · Sat–Sun 12:00–16:00 · Mon closed</span></div>
-  <div class="musrow"><span class="mn"><a href="https://imma.ie" target="_blank" rel="noopener">IMMA</a></span><span class="mh">Tue–Sat 10:00–17:30 (Wed from 11:30) · Sun 12:00–17:30 · Mon closed · free</span></div>
-</div>
-
-<div class="calpanel" id="calpanel" hidden>
-  <button class="calnav" id="calprev" aria-label="Previous month">◀</button>
-  <div class="calmonth" id="calmonth"></div>
-  <button class="calnav" id="calnext" aria-label="Next month">▶</button>
+  <div class="calpanel" id="calpanel" hidden>
+    <button class="calnav" id="calprev" aria-label="Previous month">◀</button>
+    <div class="calmonth" id="calmonth"></div>
+    <button class="calnav" id="calnext" aria-label="Next month">▶</button>
+  </div>
+  <div class="mus" id="muspanel" hidden>
+    <div class="musrow"><span class="mn"><a href="https://www.nationalgallery.ie" target="_blank" rel="noopener">National Gallery</a></span><span class="mh">Mon &amp; Sun 11:00–17:30 · Tue–Sat from 9:15 (Thu until 20:30) · free</span></div>
+    <div class="musrow"><span class="mn"><a href="https://www.museum.ie/en-ie/museums/archaeology" target="_blank" rel="noopener">NMI Archaeology, Kildare St</a></span><span class="mh">Tue–Sat 10:00–17:00 · Sun–Mon 13:00–17:00 · free</span></div>
+    <div class="musrow"><span class="mn"><a href="https://www.museum.ie/en-ie/museums/decorative-arts-history" target="_blank" rel="noopener">NMI Collins Barracks (Dead Zoo Lab)</a></span><span class="mh">Tue–Sat 10:00–17:00 · Sun–Mon 13:00–17:00 · free</span></div>
+    <div class="musrow"><span class="mn"><a href="https://www.nationalprintmuseum.ie" target="_blank" rel="noopener">National Print Museum</a></span><span class="mh">Tue–Fri 10:00–16:00 · Sat–Sun 12:00–16:00 · Mon closed</span></div>
+    <div class="musrow"><span class="mn"><a href="https://imma.ie" target="_blank" rel="noopener">IMMA</a></span><span class="mh">Tue–Sat 10:00–17:30 (Wed from 11:30) · Sun 12:00–17:30 · Mon closed · free</span></div>
+  </div>
 </div>
 
 <div class="meta">
@@ -308,8 +316,12 @@ function renderCalPanel(){
       cell.appendChild(dots);
       cell.setAttribute("aria-label",`${evs[0].day} ${evs[0].date}: ${evs.length} ${evs.length===1?"activity":"activities"} — jump to listings`);
       cell.addEventListener("click",()=>{
+        calpanel.hidden=true;calbtn.setAttribute("aria-expanded","false");
         const sec=results.querySelector(`.daysec[data-iso="${iso}"]`);
-        if(sec)sec.scrollIntoView({behavior:"smooth",block:"start"});
+        if(sec){
+          const off=document.querySelector(".controls").offsetHeight+8;
+          window.scrollTo({top:sec.getBoundingClientRect().top+window.scrollY-off,behavior:"smooth"});
+        }
       });
     }
     grid.appendChild(cell);
