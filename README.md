@@ -28,7 +28,7 @@ python3 -m http.server 8000     # then open http://localhost:8000
 - `category`: Museum · Library · Workshop · Camp · Show · Park
 - `status`: Available · Limited · Waitlisted · Full · Sold out · No booking needed
 - `book`: Drop-in · Book online · Contact branch · Register once
-- `area`: Dublin City · dlr · South Dublin · Bray / D.L.
+- `area`: one per local authority — Dublin City · Fingal · dlr · South Dublin (+ Bray for the Mermaid, Co. Wicklow)
 - `link`: the exact booking / detail URL
 
 ## Goal
