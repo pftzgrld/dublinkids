@@ -70,6 +70,7 @@ header.top{padding:24px 0 4px;}
 .time{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px;font-weight:600;color:var(--accent-ink);font-variant-numeric:tabular-nums;padding-top:2px;line-height:1.3;}
 .body .act{font-weight:700;font-size:15.5px;letter-spacing:-.01em;}
 .body .ven{color:var(--muted);font-size:13.5px;margin-top:1px;}
+.body .sum{color:var(--ink);font-size:13.5px;line-height:1.4;margin-top:5px;opacity:.82;}
 .tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:7px;align-items:center;}
 .cat{font-size:11.5px;font-weight:700;padding:2px 8px;border-radius:6px;color:#fff;}
 .cat[data-c="Camp"]{color:#3c2f00;}
@@ -260,7 +261,12 @@ function card(e){
   const age=document.createElement("span");age.className="pill age";age.textContent=e.ages;
   tags.append(cat,age);
   if(!e.ok){const st=document.createElement("span");st.className="status "+statusClass(e.status);st.textContent=e.status;tags.append(st);}
-  b.append(act,ven,tags);
+  b.append(act,ven);
+  // SAMPLE: one-line summary, shown only on The Ark cards for now
+  if(e.summary && e.venue==="The Ark"){
+    const sm=document.createElement("div");sm.className="sum";sm.textContent=e.summary;b.append(sm);
+  }
+  b.append(tags);
   const right=document.createElement("div");right.className="right";
   const cost=document.createElement("span");cost.className="cost";cost.textContent=e.cost;right.appendChild(cost);
   const a=document.createElement("span");
