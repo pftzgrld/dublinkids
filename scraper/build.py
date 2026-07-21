@@ -103,6 +103,11 @@ def main():
         out.append(r)
     out.sort(key=lambda r: (r["iso"], r["time"]))
 
+    # summaries removed for now — titles are self-evident; the extraction
+    # stays dormant in the scrapers, so re-enabling is just dropping this line
+    for r in out:
+        r.pop("summary", None)
+
     DATA.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n")
     upcoming = sum(1 for r in out if r["iso"] >= today().isoformat())
     print(f"TOTAL {len(out)} events ({upcoming} upcoming) -> {DATA}")
