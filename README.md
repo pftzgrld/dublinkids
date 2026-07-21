@@ -35,8 +35,8 @@ python3 -m http.server 8000     # then open http://localhost:8000
 Keep it **current** — that's the whole point. A live, smaller dataset beats a stale complete one.
 
 ## Status (21 Jul 2026)
-1. **Deploy — DONE.** Live at https://pftzgrld.github.io/dublin-kids-summer/
-   (public repo `pftzgrld/dublin-kids-summer`, GitHub Pages from main branch root).
+1. **Deploy — DONE.** Live at https://pftzgrld.github.io/dublinkids/
+   (public repo `pftzgrld/dublinkids`, GitHub Pages from main branch root).
 2. **Calendar view — DONE.** Month-grid toggle next to Filters; category dots +
    per-day counts; click a day for its events; respects all filters.
 3. **All branches — DONE** for Dublin City (all DCC branches incl. Central Library via
