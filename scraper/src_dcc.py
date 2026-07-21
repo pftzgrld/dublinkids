@@ -111,6 +111,23 @@ def parse_detail(url):
             r"spaces are limited", text, re.I):
         book = "Contact branch"
 
+    # per-date booking links: 'Book for Tuesday 21 July session' -> that date's
+    # DCC Spydus booking page (RNI is a stable record id)
+    date_links = {}
+    for a in main.select("a[href]"):
+        lbl = a.get_text(" ", strip=True)
+        if re.match(r"book (for|now|here|your)\b", lbl, re.I):
+            iso = parse_day_month(lbl)
+            h = a["href"]
+            if h.startswith("//"):
+                h = "https:" + h
+            elif h.startswith("/"):
+                h = "https://www.dublincity.ie" + h
+            if iso:
+                date_links[iso] = h
+            elif "spydus" in h and book != "Book online":
+                book, link = "Book online", h  # single undated booking link
+
     ages_m = re.search(r"(?:suitable for )?ages?[sd]?\s*:?\s*([\d]+\s*[-–+]\s*"
                        r"[\d]*\+?|[\d]+\+)", text, re.I)
     ages = ages_m.group(1).replace(" ", "") if ages_m else \
@@ -126,7 +143,7 @@ def parse_detail(url):
         "title": title, "venue": venue, "dates": dates, "time": time_str,
         "book": book, "link": link, "ages": ages, "status": status,
         "cost": cost, "cat": categorise(title, venue, text),
-        "summary": clean_summary(desc),
+        "summary": clean_summary(desc), "date_links": date_links,
     }
 
 
@@ -136,11 +153,16 @@ def scrape():
         d = parse_detail(url)
         if not d or not d["dates"]:
             continue
-        status = d["status"] if d["book"] != "Drop-in" else "No booking needed"
         for iso in d["dates"]:
+            # this date's own booking link wins over the general event page
+            if iso in d["date_links"]:
+                book, link = "Book online", d["date_links"][iso]
+            else:
+                book, link = d["book"], d["link"]
+            status = d["status"] if book != "Drop-in" else "No booking needed"
             rows.append(event_row(
                 iso=iso, time_str=d["time"], venue=d["venue"],
                 activity=d["title"], cat=d["cat"], ages=d["ages"],
-                status=status, book=d["book"], cost=d["cost"], link=d["link"],
+                status=status, book=book, cost=d["cost"], link=link,
                 area="Dublin City", source="dcc", summary=d.get("summary", "")))
     return rows

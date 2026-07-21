@@ -88,23 +88,35 @@ def parse_time_range(text, require_ampm=False):
 AGE_BUCKETS = [("under5", 0, 4), ("5to8", 5, 8), ("9to12", 9, 12),
                ("teen", 13, 17)]
 
+# the KIND of activity caps how old it really goes — a '5+' storytime is for
+# littles, not literally up to 17
+_YOUNG_CEIL = [
+    (re.compile(r"sensory|tummy time|rhyme time|lapsit|baby", re.I), 4),
+    (re.compile(r"storytime|story time|colour|\btots?\b|toddler|nursery|"
+                r"pre-?school|puppet", re.I), 8),
+]
+
 
 def age_tags(ages_text, context=""):
     """Derive ageTags[] from a free-text age description (and, for keywords
     only, the event title in `context`).
 
-    Parses a numeric [lo, hi] age span from the ages field (handling '6+',
-    '3-8', '10-14', 'ages 5') and returns every bucket it overlaps. Age WORDS
-    (toddler/baby/teen) are read from the title too — 'Baby Book Club' labelled
-    'Families' is really under-5s — but NUMBERS are read from the ages field
-    only, so a title like '2pm show' isn't misread as age 2. Genuine all-ages
-    / family events return ['any']; a bare 'children' covers the kid buckets
-    but not teens.
+    Parses a numeric [lo, hi] age span and returns every bucket it overlaps.
+    Rules that make it accurate for a children's listing:
+      - an explicit range ('3-8', '10-14') is taken as-is;
+      - 'N+' opens upward but is capped by what the activity actually is — a
+        storytime/colouring tops out at 8, a sensory/baby session at 4, and an
+        unqualified '6+' at 12 (this is a kids' site; teens need an explicit
+        teen signal or a floor of 11+);
+      - age WORDS (baby/toddler/teen) are read from the title too, but NUMBERS
+        only from the ages field, so '2pm show' isn't read as age 2.
+    Genuine all-ages / family events return ['any'].
     """
     if not ages_text and not context:
         return ["any"]
     t = (ages_text or "").lower().strip()
-    kw = t + " " + (context or "").lower()   # keyword surface: ages + title
+    kw = t + " | " + (context or "").lower()   # keyword surface: ages + title
+    ceil = next((c for rx, c in _YOUNG_CEIL if rx.search(kw)), None)
     lo = hi = None
 
     def widen(a, b):
@@ -112,20 +124,25 @@ def age_tags(ages_text, context=""):
         lo = a if lo is None else min(lo, a)
         hi = b if hi is None else max(hi, b)
 
-    if re.search(r"bab(y|ies)|toddler|\btots?\b|tummy time|rhyme time|"
-                 r"pre-?school|early years|under\s*5|\bbuggy|\bpram", kw):
-        widen(0, 4)
-    if re.search(r"\bteen|young (people|adult)|secondary", kw):
-        widen(13, 17)
-    m = re.search(r"(\d{1,2})\s*[-–]\s*(\d{1,2})", t)          # a range: 3-8
+    m = re.search(r"(\d{1,2})\s*[-–]\s*(\d{1,2})", t)          # explicit range
     if m:
         widen(int(m.group(1)), int(m.group(2)))
-    elif re.search(r"(\d{1,2})\s*\+", t):                       # open-ended: 6+
-        widen(int(re.search(r"(\d{1,2})\s*\+", t).group(1)), 17)
     else:
-        m = re.search(r"\b(?:ages?\s*)?(\d{1,2})\b", t)         # a single age
-        if m:
-            widen(int(m.group(1)), int(m.group(1)))
+        if re.search(r"bab(y|ies)|toddler|\btots?\b|tummy|sensory|rhyme|"
+                     r"pre-?school|early years|under\s*5|\bbuggy|\bpram", kw):
+            widen(0, ceil or 4)
+        if re.search(r"\bteen|young (people|adult)|secondary", kw):
+            widen(13, 17)
+        mp = re.search(r"(\d{1,2})\s*\+", t)                    # open-ended: 6+
+        ms = re.search(r"\b(?:ages?\s*)?(\d{1,2})\b", t)        # a single age
+        if mp:
+            n = int(mp.group(1))
+            widen(n, ceil or (17 if n >= 11 else 12))
+        elif ms:
+            n = int(ms.group(1))
+            widen(n, ceil or n)
+        elif ceil is not None:            # young activity, no number given
+            widen(0, ceil)
 
     if lo is not None:
         tags = [name for name, blo, bhi in AGE_BUCKETS
