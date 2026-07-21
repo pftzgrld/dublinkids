@@ -14,7 +14,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import src_dcc, src_dlr, src_nmi, src_sdcc, src_wicklow  # noqa: E402
 import src_imma, src_ark  # noqa: E402
 import status  # noqa: E402
-from common import today  # noqa: E402
+from common import today, age_tags  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "events.json"
@@ -106,9 +106,12 @@ def main():
     out.sort(key=lambda r: (r["iso"], r["time"]))
 
     # summaries removed for now — titles are self-evident; the extraction
-    # stays dormant in the scrapers, so re-enabling is just dropping this line
+    # stays dormant in the scrapers, so re-enabling is just dropping this line.
+    # Re-derive age tags for every row (incl. the manual seed loaded raw) so
+    # the age filter reflects the current parser.
     for r in out:
         r.pop("summary", None)
+        r["ageTags"] = age_tags(r.get("ages", ""), r.get("activity", ""))
 
     DATA.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n")
     upcoming = sum(1 for r in out if r["iso"] >= today().isoformat())

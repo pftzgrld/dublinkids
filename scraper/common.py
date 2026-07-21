@@ -84,29 +84,59 @@ def parse_time_range(text, require_ampm=False):
     return t1
 
 
-AGE_RULES = [
-    ("under5", re.compile(r"\b(babies|baby|toddler|under\s*5|0\s*-\s*[2-5]|"
-                          r"2\s*-\s*[2-5]|pre-?school|early\s*years)\b", re.I)),
-    ("5to8", re.compile(r"\b(5|6|7|8)\s*(-|–|to)\s*(5|6|7|8|9|10|11|12)\b|"
-                        r"\bage[sd]?\s*[5-8]\b", re.I)),
-    ("9to12", re.compile(r"\b(9|10|11|12)\s*(-|–|to)\s*(10|11|12|13)\b|"
-                         r"\b(8|9)\s*(-|–|to)\s*1[0-2]\b", re.I)),
-    ("teen", re.compile(r"\b(teen|1[3-7]\s*(-|–|to)\s*1[3-9]|young\s*adult)\b",
-                        re.I)),
-]
+# the four filter buckets, as inclusive age spans
+AGE_BUCKETS = [("under5", 0, 4), ("5to8", 5, 8), ("9to12", 9, 12),
+               ("teen", 13, 17)]
 
 
-def age_tags(ages_text):
-    """Derive ageTags[] from a free-text age description."""
-    if not ages_text:
+def age_tags(ages_text, context=""):
+    """Derive ageTags[] from a free-text age description (and, for keywords
+    only, the event title in `context`).
+
+    Parses a numeric [lo, hi] age span from the ages field (handling '6+',
+    '3-8', '10-14', 'ages 5') and returns every bucket it overlaps. Age WORDS
+    (toddler/baby/teen) are read from the title too — 'Baby Book Club' labelled
+    'Families' is really under-5s — but NUMBERS are read from the ages field
+    only, so a title like '2pm show' isn't misread as age 2. Genuine all-ages
+    / family events return ['any']; a bare 'children' covers the kid buckets
+    but not teens.
+    """
+    if not ages_text and not context:
         return ["any"]
-    t = ages_text.lower()
-    if any(w in t for w in ("all ages", "families", "family", "everyone",
-                            "all welcome", "children")):
-        tags = ["any"]
+    t = (ages_text or "").lower().strip()
+    kw = t + " " + (context or "").lower()   # keyword surface: ages + title
+    lo = hi = None
+
+    def widen(a, b):
+        nonlocal lo, hi
+        lo = a if lo is None else min(lo, a)
+        hi = b if hi is None else max(hi, b)
+
+    if re.search(r"bab(y|ies)|toddler|\btots?\b|tummy time|rhyme time|"
+                 r"pre-?school|early years|under\s*5|\bbuggy|\bpram", kw):
+        widen(0, 4)
+    if re.search(r"\bteen|young (people|adult)|secondary", kw):
+        widen(13, 17)
+    m = re.search(r"(\d{1,2})\s*[-–]\s*(\d{1,2})", t)          # a range: 3-8
+    if m:
+        widen(int(m.group(1)), int(m.group(2)))
+    elif re.search(r"(\d{1,2})\s*\+", t):                       # open-ended: 6+
+        widen(int(re.search(r"(\d{1,2})\s*\+", t).group(1)), 17)
     else:
-        tags = [tag for tag, rx in AGE_RULES if rx.search(ages_text)]
-    return tags or ["any"]
+        m = re.search(r"\b(?:ages?\s*)?(\d{1,2})\b", t)         # a single age
+        if m:
+            widen(int(m.group(1)), int(m.group(1)))
+
+    if lo is not None:
+        tags = [name for name, blo, bhi in AGE_BUCKETS
+                if not (hi < blo or lo > bhi)]
+        if tags:
+            return tags
+    if re.search(r"all ages|famil|everyone|all welcome|all the family", kw):
+        return ["any"]
+    if re.search(r"child|kid|junior|young", kw):  # kids, but not specifically teen
+        return ["under5", "5to8", "9to12"]
+    return ["any"]
 
 
 _SUM_BOILERPLATE = re.compile(

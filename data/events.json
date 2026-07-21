@@ -14,7 +14,7 @@
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -36,7 +36,8 @@
   "link": "https://ark.ticketsolve.com/ticketbooth/shows/873663002",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": false,
   "dropin": false,
@@ -80,7 +81,7 @@
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": false,
@@ -102,7 +103,7 @@
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -124,7 +125,10 @@
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -146,7 +150,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080208)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -168,7 +172,9 @@
   "link": "https://www.dublincity.ie/events/screen-free-summer-holidays-childrens-calm-colouring",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": false,
@@ -190,7 +196,9 @@
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -212,7 +220,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055682)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -234,7 +244,9 @@
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -256,7 +268,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/design-your-own-anime-character-amy-louise-ocallaghan",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -345,7 +359,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080221)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -367,7 +381,8 @@
   "link": "https://ark.ticketsolve.com/ticketbooth/shows/873663002",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": false,
   "dropin": false,
@@ -411,7 +426,10 @@
   "link": "https://ark.ie/events/view/my-fathers-dragon",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -433,7 +451,9 @@
   "link": "https://www.eventbrite.ie/e/make-a-morse-code-machine-strictly-9-12-years-old-tickets-1993027750653",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -477,7 +497,9 @@
   "link": "https://www.eventbrite.ie/e/under-the-sea-fish-puzzle-art-laser-cutter-workshop-for-children-age-7-tickets-1993919518956",
   "area": "South Dublin",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": false,
@@ -521,7 +543,9 @@
   "link": "https://www.eventbrite.ie/e/make-a-morse-code-machine-strictly-13-17-years-old-tickets-1993028440717",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -587,7 +611,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081689)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -609,7 +635,8 @@
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8"
   ],
   "free": true,
   "dropin": true,
@@ -631,7 +658,8 @@
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -675,7 +703,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -719,7 +749,7 @@
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -741,7 +771,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081706)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -763,7 +795,8 @@
   "link": "https://ark.ticketsolve.com/ticketbooth/shows/873663002",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": false,
   "dropin": false,
@@ -807,7 +840,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -829,7 +862,7 @@
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -851,7 +884,10 @@
   "link": "https://ark.ie/events/view/my-fathers-dragon",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -873,7 +909,7 @@
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -961,7 +997,9 @@
   "link": "https://www.dublincity.ie/events/screen-free-summer-holidays-lego-club-2",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": false,
@@ -983,7 +1021,7 @@
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -1027,7 +1065,9 @@
   "link": "https://www.eventbrite.ie/e/daves-jungle-2pm-show-tickets-1993471692495",
   "area": "South Dublin",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -1071,7 +1111,9 @@
   "link": "https://www.eventbrite.ie/e/daves-jungle-3pm-show-tickets-1993473631294",
   "area": "South Dublin",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -1093,7 +1135,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081698)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -1115,7 +1159,9 @@
   "link": "https://www.eventbrite.ie/e/freeplay-lego-for-7-10-year-olds-tickets-1991473603156",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -1225,7 +1271,8 @@
   "link": "https://ark.ticketsolve.com/ticketbooth/shows/873663002",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": false,
   "dropin": false,
@@ -1269,7 +1316,7 @@
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -1291,7 +1338,10 @@
   "link": "https://ark.ie/events/view/my-fathers-dragon",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -1313,7 +1363,9 @@
   "link": "https://www.dublincity.ie/events/childrens-friday-films",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": false,
@@ -1423,7 +1475,8 @@
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "5to8"
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -1467,7 +1520,7 @@
   "link": "https://ark.ie/events/view/excitedly-resting-installation-2",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -1489,7 +1542,10 @@
   "link": "https://ark.ie/events/view/my-fathers-dragon",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -1533,7 +1589,7 @@
   "link": "https://www.eventbrite.ie/e/teen-manga-club-tickets-1992930018333",
   "area": "South Dublin",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": false,
@@ -1754,7 +1810,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052902)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -1799,7 +1855,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -1821,7 +1877,9 @@
   "link": "https://www.dublincity.ie/events/screen-free-summer-holidays-childrens-boardgames",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": false,
@@ -1843,7 +1901,9 @@
   "link": "https://www.eventbrite.ie/e/pop-up-paper-theatre-strictly-7-10-years-old-tickets-1993029517939",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -1865,7 +1925,9 @@
   "link": "https://www.eventbrite.ie/e/summer-strolls-templeogue-tickets-1993854193566",
   "area": "South Dublin",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -1909,7 +1971,7 @@
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -1931,7 +1993,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052914)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -1998,7 +2060,7 @@
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": false,
@@ -2020,7 +2082,7 @@
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -2042,7 +2104,10 @@
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -2064,7 +2129,9 @@
   "link": "https://www.eventbrite.ie/e/paper-wizards-make-it-mash-it-create-it-strictly-9-12-years-old-tickets-1993031301273",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -2086,7 +2153,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080209)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -2108,7 +2175,9 @@
   "link": "https://www.eventbrite.ie/e/anime-drawing-workshop-tickets-1994203877480",
   "area": "South Dublin",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -2130,7 +2199,7 @@
   "link": "https://www.eventbrite.ie/e/teen-maker-meet-up-strictly-13-17-years-old-tickets-1993032211997",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": false,
@@ -2152,7 +2221,9 @@
   "link": "https://www.dublincity.ie/events/screen-free-summer-holidays-childrens-calm-colouring",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": false,
@@ -2174,7 +2245,8 @@
   "link": "https://www.dublincity.ie/events/summer-storytime-storyteller-aisling-breen",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8"
   ],
   "free": true,
   "dropin": true,
@@ -2196,7 +2268,9 @@
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -2218,7 +2292,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055683)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -2240,7 +2316,9 @@
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -2306,7 +2384,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080222)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -2395,7 +2473,10 @@
   "link": "https://ark.ie/events/view/my-fathers-dragon",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -2439,7 +2520,9 @@
   "link": "https://www.eventbrite.ie/e/can-robots-really-think-strictly-for-kids-aged-10-12-years-old-tickets-1994413154433",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -2461,7 +2544,9 @@
   "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Events/2026/Q3-July-to-Sept/Dead-Zoo-Lab/Summer-Family-Drop-ins-Lets-Explore-The-Park",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -2505,7 +2590,9 @@
   "link": "https://www.eventbrite.ie/e/zine-and-chat-a-creative-meetup-for-17-19-year-olds-tickets-1992781863197",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -2549,7 +2636,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081690)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -2571,7 +2660,8 @@
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8"
   ],
   "free": true,
   "dropin": true,
@@ -2593,7 +2683,8 @@
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -2637,7 +2728,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -2659,7 +2752,9 @@
   "link": "https://www.eventbrite.ie/e/book-journaling-workshop-tickets-1993930591073",
   "area": "South Dublin",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -2703,7 +2798,7 @@
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -2725,7 +2820,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081707)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -2792,7 +2889,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -2814,7 +2911,7 @@
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -2836,7 +2933,10 @@
   "link": "https://ark.ie/events/view/my-fathers-dragon",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -2858,7 +2958,7 @@
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -2880,7 +2980,7 @@
   "link": "https://imma.ticketsolve.com/ticketbooth/shows/873628871",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": false,
@@ -2902,7 +3002,9 @@
   "link": "https://www.dublincity.ie/events/screen-free-summer-holidays-lego-club-3",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": false,
@@ -2924,7 +3026,7 @@
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -2946,7 +3048,9 @@
   "link": "https://www.eventbrite.ie/e/harry-potter-science-2pm-workshop-tickets-1994412411210",
   "area": "South Dublin",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -2990,7 +3094,9 @@
   "link": "https://www.eventbrite.ie/e/harry-potter-science-3pm-workshop-tickets-1994414248706",
   "area": "South Dublin",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -3012,7 +3118,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081699)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -3144,7 +3252,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/seen-and-heard",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -3233,7 +3343,7 @@
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -3255,7 +3365,10 @@
   "link": "https://ark.ie/events/view/my-fathers-dragon",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -3277,7 +3390,9 @@
   "link": "https://www.dublincity.ie/events/childrens-friday-films",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": false,
@@ -3387,7 +3502,8 @@
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "5to8"
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -3431,7 +3547,7 @@
   "link": "https://ark.ie/events/view/excitedly-resting-installation-2",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -3453,7 +3569,10 @@
   "link": "https://ark.ie/events/view/my-fathers-dragon",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -3585,7 +3704,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -3629,7 +3748,7 @@
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -3651,7 +3770,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052919)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -3695,7 +3814,7 @@
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": false,
@@ -3717,7 +3836,7 @@
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -3739,7 +3858,10 @@
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -3761,7 +3883,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080210)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -3783,7 +3905,8 @@
   "link": "https://www.dublincity.ie/events/greek-family-favourites",
   "area": "Dublin City",
   "ageTags": [
-   "5to8"
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -3805,7 +3928,9 @@
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -3827,7 +3952,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055684)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -3849,7 +3976,9 @@
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -3915,7 +4044,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080223)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -3981,7 +4110,8 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/fantastic-fun-sarah-sparkles-event-fully-booked",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8"
   ],
   "free": true,
   "dropin": false,
@@ -4069,7 +4199,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081691)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -4091,7 +4223,8 @@
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8"
   ],
   "free": true,
   "dropin": true,
@@ -4113,7 +4246,8 @@
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -4157,7 +4291,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -4201,7 +4337,7 @@
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -4223,7 +4359,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081708)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -4267,7 +4405,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -4289,7 +4427,7 @@
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -4311,7 +4449,7 @@
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -4333,7 +4471,7 @@
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -4355,7 +4493,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/napkin-decoupage",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -4377,7 +4517,8 @@
   "link": "https://www.dublincity.ie/events/summer-storytime-storyteller-aisling-breen-1",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8"
   ],
   "free": true,
   "dropin": true,
@@ -4399,7 +4540,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081700)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -4531,7 +4674,7 @@
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -4619,7 +4762,8 @@
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "5to8"
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -4795,7 +4939,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052903)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -4817,7 +4961,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -4861,7 +5005,7 @@
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -4883,7 +5027,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052976)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -4927,7 +5071,7 @@
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": false,
@@ -4949,7 +5093,7 @@
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -4971,7 +5115,10 @@
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -4993,7 +5140,9 @@
   "link": "https://www.eventbrite.ie/e/felt-your-own-dinosaur-with-jenni-kilgallon-12-14-year-olds-tickets-1992202726985",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -5015,7 +5164,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080211)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -5037,7 +5186,9 @@
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -5059,7 +5210,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055685)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -5081,7 +5234,9 @@
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -5147,7 +5302,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080224)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -5235,7 +5390,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081692)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -5257,7 +5414,8 @@
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8"
   ],
   "free": true,
   "dropin": true,
@@ -5279,7 +5437,8 @@
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -5323,7 +5482,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -5367,7 +5528,7 @@
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -5389,7 +5550,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081709)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -5433,7 +5596,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -5455,7 +5618,7 @@
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -5477,7 +5640,7 @@
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -5499,7 +5662,7 @@
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -5543,7 +5706,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081701)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -5609,7 +5774,9 @@
   "link": "https://www.eventbrite.ie/e/summer-teddy-bear-sleepover-for-3-6-year-olds-tickets-1991473964236",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -5697,7 +5864,7 @@
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -5829,7 +5996,8 @@
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "5to8"
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -5983,7 +6151,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081685)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -6005,7 +6173,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052904)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": false,
   "dropin": false,
@@ -6027,7 +6195,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -6071,7 +6239,7 @@
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -6093,7 +6261,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052977)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -6137,7 +6305,7 @@
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": false,
@@ -6159,7 +6327,7 @@
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -6181,7 +6349,10 @@
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -6203,7 +6374,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080212)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -6247,7 +6418,9 @@
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -6269,7 +6442,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055686)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -6291,7 +6466,9 @@
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -6357,7 +6534,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080225)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -6423,7 +6600,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/winnie-pooh-workshop-bees-honey-and-beeswax",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -6445,7 +6624,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081693)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -6467,7 +6648,8 @@
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8"
   ],
   "free": true,
   "dropin": true,
@@ -6489,7 +6671,8 @@
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -6533,7 +6716,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -6577,7 +6762,7 @@
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -6621,7 +6806,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -6643,7 +6828,7 @@
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -6665,7 +6850,7 @@
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -6687,7 +6872,7 @@
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -6709,7 +6894,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081702)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -6841,7 +7028,7 @@
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -6907,7 +7094,9 @@
   "link": "https://www.eventbrite.ie/e/fingal-libraries-summer-of-board-games-tickets-1988319165147",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -6951,7 +7140,8 @@
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "5to8"
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -6995,7 +7185,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/book-kells-workshop-heritage-week",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -7017,7 +7209,7 @@
   "link": "https://www.eventbrite.ie/e/musical-tots-fun-and-music-for-0-5year-olds-tickets-1991998440960",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": false,
@@ -7039,7 +7231,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/sarah-sparkles-magic-storytelling",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -7193,7 +7387,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052905)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -7215,7 +7409,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -7259,7 +7453,7 @@
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -7281,7 +7475,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052978)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -7325,7 +7519,7 @@
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": false,
@@ -7347,7 +7541,7 @@
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -7369,7 +7563,10 @@
   "link": "https://www.dublincity.ie/events/summer-stars-storytime",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -7391,7 +7588,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080213)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -7413,7 +7610,9 @@
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -7435,7 +7634,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055687)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -7457,7 +7658,9 @@
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -7523,7 +7726,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080226)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -7567,7 +7770,9 @@
   "link": "https://www.eventbrite.ie/e/zine-and-chat-a-creative-meetup-for-17-19-year-olds-tickets-1992781965503",
   "area": "Fingal",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -7611,7 +7816,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081694)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -7633,7 +7840,8 @@
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8"
   ],
   "free": true,
   "dropin": true,
@@ -7655,7 +7863,8 @@
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -7699,7 +7908,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -7743,7 +7954,7 @@
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -7787,7 +7998,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -7809,7 +8020,7 @@
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -7831,7 +8042,7 @@
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -7853,7 +8064,7 @@
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -7897,7 +8108,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081703)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -7941,7 +8154,8 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/3d-modelling-printing-workshop",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -8051,7 +8265,7 @@
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -8161,7 +8375,8 @@
   "link": "https://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "5to8"
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -8249,7 +8464,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/anna-bananas-clown-show-0",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -8403,7 +8620,7 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052906)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -8425,7 +8642,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -8469,7 +8686,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/story-we-tell-tomorrow",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -8491,7 +8710,7 @@
   "link": "https://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -8535,7 +8754,7 @@
   "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": false,
@@ -8557,7 +8776,7 @@
   "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -8579,7 +8798,9 @@
   "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -8601,7 +8822,9 @@
   "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055688)",
   "area": "North Wicklow",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": true,
@@ -8623,7 +8846,9 @@
   "link": "https://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "5to8",
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -8733,7 +8958,8 @@
   "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8"
   ],
   "free": true,
   "dropin": true,
@@ -8755,7 +8981,8 @@
   "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "9to12",
+   "teen"
   ],
   "free": true,
   "dropin": true,
@@ -8799,7 +9026,9 @@
   "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
   "area": "dlr",
   "ageTags": [
-   "any"
+   "under5",
+   "5to8",
+   "9to12"
   ],
   "free": true,
   "dropin": false,
@@ -8843,7 +9072,7 @@
   "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -8887,7 +9116,7 @@
   "link": "https://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -8909,7 +9138,7 @@
   "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -8931,7 +9160,7 @@
   "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -8953,7 +9182,7 @@
   "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
@@ -9085,7 +9314,7 @@
   "link": "https://www.dublincity.ie/events/toddler-playgroup",
   "area": "Dublin City",
   "ageTags": [
-   "any"
+   "under5"
   ],
   "free": true,
   "dropin": true,
