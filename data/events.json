@@ -2946,30 +2946,6 @@
   "src": "recurring"
  },
  {
-  "date": "30 Jul",
-  "iso": "2026-07-30",
-  "day": "Thu",
-  "time": "See link",
-  "venue": "dlr LexIcon",
-  "activity": "Seen and Heard",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/seen-and-heard",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
- },
- {
   "date": "31 Jul",
   "iso": "2026-07-31",
   "day": "Fri",
@@ -3816,6 +3792,29 @@
   "dropin": true,
   "ok": true,
   "src": "nmi"
+ },
+ {
+  "date": "5 Aug",
+  "iso": "2026-08-05",
+  "day": "Wed",
+  "time": "11:30",
+  "venue": "Dundrum Library",
+  "activity": "Fantastic fun with Sarah Sparkles!",
+  "cat": "Library",
+  "ages": "0-6",
+  "status": "Fully booked",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/fantastic-fun-sarah-sparkles-event-fully-booked",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "dlr"
  },
  {
   "date": "5 Aug",
@@ -5594,28 +5593,6 @@
   "date": "14 Aug",
   "iso": "2026-08-14",
   "day": "Fri",
-  "time": "15:30",
-  "venue": "dlr LexIcon",
-  "activity": "Monster Summer Doodle with White Doodle Art",
-  "cat": "Library",
-  "ages": "5-8",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/monster-summer-doodle-white-doodle-art",
-  "area": "DLR",
-  "ageTags": [
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "14 Aug",
-  "iso": "2026-08-14",
-  "day": "Fri",
   "time": "16:00",
   "venue": "IMMA",
   "activity": "Drop-in exhibition tour",
@@ -5655,6 +5632,28 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "15 Aug",
+  "iso": "2026-08-15",
+  "day": "Sat",
+  "time": "10:00",
+  "venue": "Blackrock Library",
+  "activity": "Summer Family Film Club",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/summer-family-film-club-1",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "15 Aug",
@@ -6980,30 +6979,6 @@
   "date": "22 Aug",
   "iso": "2026-08-22",
   "day": "Sat",
-  "time": "11:30–12:30",
-  "venue": "dlr LexIcon",
-  "activity": "Sarah Sparkles Magic Storytelling",
-  "cat": "Library",
-  "ages": "0-10",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/sarah-sparkles-magic-storytelling",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "22 Aug",
-  "iso": "2026-08-22",
-  "day": "Sat",
   "time": "14:00–16:00",
   "venue": "National Print Museum",
   "activity": "'Come Fly with Me' Print Launch (talk + demo)",
@@ -8250,6 +8225,30 @@
   "dropin": false,
   "ok": true,
   "src": "manual"
+ },
+ {
+  "date": "29 Aug",
+  "iso": "2026-08-29",
+  "day": "Sat",
+  "time": "16:00",
+  "venue": "dlr LexIcon",
+  "activity": "Anna Bananas Clown Show",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/anna-bananas-clown-show-0",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "29 Aug",

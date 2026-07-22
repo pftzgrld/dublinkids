@@ -8,6 +8,7 @@ every detail page, and keep child-relevant events by keyword. Detail pages
 carry date, time, venue, cost and often the booking state inline
 ('Event Fully Booked').
 """
+import json
 import re
 from bs4 import BeautifulSoup
 
@@ -32,50 +33,48 @@ def _collect(soup, seen):
             seen.append(url)
 
 
-def _render_all():
-    """The listing is a JS 'Load More' page whose AJAX pagination is
-    session-bound (a plain fetch only sees the first ~14). Render it and
-    click Load More to exhaustion to get the whole programme (~36)."""
+def _ajax_all(seen):
+    """The listing is a JS 'Load More' page. Its counter reads 'of 131', but
+    that's an all-time total — the view only actually serves the current /
+    upcoming events (~35). Paginate the Drupal views AJAX (using the page's
+    own view_dom_id) across all pages and union — more reliable than driving
+    the flaky Load-More button headlessly."""
+    from common import _session
     try:
-        from playwright.sync_api import sync_playwright
-    except ImportError:
-        return []
-    urls = set()
-    try:
-        with sync_playwright() as pw:
-            b = pw.chromium.launch()
-            p = b.new_page()
-            p.goto(f"{BASE}/events-listing", timeout=60000,
-                   wait_until="domcontentloaded")
-            p.wait_for_timeout(3000)
-            for _ in range(20):
-                btn = p.query_selector("a:has-text('Load More'), "
-                                       "button:has-text('Load More')")
-                if not btn or not btn.is_visible():
-                    break
-                btn.click()
-                p.wait_for_timeout(1500)
-            for h in p.eval_on_selector_all(
-                    'a[href*="/event-calendar/"]', "els=>els.map(e=>e.href)"):
-                if h.rstrip("/").split("/")[-1] != "event-calendar":
-                    urls.add(h)
-            b.close()
+        r = _session.get(f"{BASE}/events-listing", timeout=30)
+        m = re.search(r'drupal-settings-json">(.*?)</script>', r.text, re.S)
+        views = json.loads(m.group(1))["views"]["ajaxViews"]
+        tgt = next(v for v in views.values()
+                   if v.get("view_display_id") == "block_2")
     except Exception:
-        return []
-    return list(urls)
+        return
+    _collect(BeautifulSoup(r.text, "html.parser"), seen)   # initial page
+    for page in range(0, 16):
+        try:
+            rr = _session.get(
+                f"{BASE}/views/ajax",
+                params={"_wrapper_format": "drupal_ajax",
+                        "view_name": tgt["view_name"],
+                        "view_display_id": "block_2",
+                        "view_dom_id": tgt["view_dom_id"],
+                        "view_path": tgt.get("view_path", "/node/8280"),
+                        "view_args": "", "page": page},
+                headers={"X-Requested-With": "XMLHttpRequest"}, timeout=30)
+            for c in rr.json():
+                if isinstance(c.get("data"), str):
+                    _collect(BeautifulSoup(c["data"], "html.parser"), seen)
+        except Exception:
+            continue
 
 
 def listing_links():
-    """Full listing via a rendered Load-More pass, unioned with the static
-    event-calendar page as a fallback when Playwright isn't available."""
+    """The full current listing: the event-calendar page plus every page of
+    the events-listing views AJAX, unioned."""
     seen = []
-    for u in _render_all():
-        if u not in seen:
-            seen.append(u)
-    for path in ("/events-and-news/event-calendar", "/events-listing"):
-        r = fetch(BASE + path)
-        if r:
-            _collect(BeautifulSoup(r.text, "html.parser"), seen)
+    r = fetch(f"{BASE}/events-and-news/event-calendar")
+    if r:
+        _collect(BeautifulSoup(r.text, "html.parser"), seen)
+    _ajax_all(seen)
     return seen
 
 
