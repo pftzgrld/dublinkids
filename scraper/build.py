@@ -14,6 +14,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import src_dcc, src_dlr, src_nmi, src_sdcc, src_wicklow  # noqa: E402
 import src_imma, src_ark, src_dlr_clubs  # noqa: E402
 import src_sdcc_events, src_dcc_blog, src_fingal_events  # noqa: E402
+import src_dlr_events  # noqa: E402
 import status  # noqa: E402
 from common import today, age_tags  # noqa: E402
 
@@ -54,6 +55,7 @@ SOURCES = {"dcc": (src_dcc, ["dcc"]), "dlr": (src_dlr, ["dlr"]),
            "wicklow": (src_wicklow, ["wicklow"]), "imma": (src_imma, ["imma"]),
            "ark": (src_ark, ["ark"]),
            "dlrclubs": (src_dlr_clubs, ["dlrclubs"]),
+           "dlrevents": (src_dlr_events, ["dlrevents"]),
            "sdccevents": (src_sdcc_events, ["sdccevents"]),
            "dccblog": (src_dcc_blog, ["dccblog"]),
            "fingalevents": (src_fingal_events, ["fingalevents"])}
@@ -98,16 +100,27 @@ def main():
           f"{changed} changed")
     rows.extend(manual)
 
-    # de-dup (a venue can surface via two sources) and drop pre-season rows
-    seen, out = set(), []
+    # de-dup (a venue can surface via two sources) and drop pre-season rows.
+    # First source wins, EXCEPT that booking-required evidence from a later
+    # duplicate upgrades an assumed drop-in — the libraries listing defaults
+    # to drop-in when the page shows no booking text, while dlr-events often
+    # states 'Booking is needed' explicitly for the same event.
+    seen, out = {}, []
     for r in rows:
         if r["iso"] < SEASON_START:
             continue
         key = (r["iso"], r["venue"].lower().strip(),
                r["activity"].lower().strip()[:60])
         if key in seen:
+            kept = seen[key]
+            if kept["book"] == "Drop-in" and \
+                    r["book"] in ("Book online", "Contact branch"):
+                kept.update(book=r["book"], link=r["link"], dropin=False)
+                if kept["status"] == "No booking needed":
+                    kept["status"] = r["status"]
+                    kept["ok"] = r["ok"]
             continue
-        seen.add(key)
+        seen[key] = r
         out.append(r)
     out.sort(key=lambda r: (r["iso"], r["time"]))
 

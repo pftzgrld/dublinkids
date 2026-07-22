@@ -418,5 +418,28 @@
   "ok": true,
   "src": "manual",
   "summary": "A gentle stage show of Julia Donaldson's lift-the-flap stories for little ones."
+ },
+ {
+  "date": "24 Jul",
+  "iso": "2026-07-24",
+  "day": "Fri",
+  "time": "11:00–13:00",
+  "venue": "Municipal Gallery, dlr LexIcon",
+  "activity": "KCAT Lifework: Family Drop-in Workshop with Jinny Ly",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.dlrcoco.ie/arts/municipal-gallery-dlr-lexicon/gallery-learning-programme/kcat-exhibition-learning-programme",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "manual",
+  "summary": "Explore the Lifework exhibition then make art with visual artist Jinny Ly — paper, markers, wool and collage."
  }
 ]

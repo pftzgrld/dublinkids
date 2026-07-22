@@ -213,3 +213,27 @@ campaign/campus; /ga/ Irish mirrors are excluded as duplicates.
   (date + title + teaser). Explicit family/kid signal required — 'audiences
   of all ages' on the Swords concert series is not a kid event. This is
   where BlanchFest lives. Library events stay with the Eventbrite org.
+
+## dlr-events — the main council site's events system (added 22 Jul, night)
+
+Litmus-test find: the KCAT family drop-in Patrick's friend shared wasn't on
+the site. Root causes and fixes:
+- **dlrcoco.ie/dlr-events** is a full events system (arts/heritage/parks
+  family programme — clown shows, Harry Potter science, Bricks4Kidz,
+  biodiversity walks) that overlaps but does not equal the libraries
+  listing. `src_dlr_events.py` paginates ?page=N, parses detail pages.
+  Gotchas: filter on the event's own description only (the footer promotes
+  OTHER events — 'Napkin Decoupage' poisoned whole-page matching); 'must be
+  accompanied by an adult' means a KIDS event (never bare-\badult filter);
+  the time field sits two segments before 'Cost' and ranges often mark only
+  the end with pm; '*Event is Fully Booked*' is appended to titles.
+- **KCAT gallery-learning page**: the web accordion says '27 July' but the
+  official May-Aug PDF programme says Friday 24 July 11am-1pm (the whole
+  drop-in series is Fridays; 27th is a Monday). Went with the PDF +
+  pattern; seeded manually in manual-events.json. No scraper — one family
+  event remained in this exhibition's programme; re-check when the next
+  exhibition posts.
+- **build.py merge rule**: on duplicate (iso, venue, activity), first
+  source still wins, but booking-required evidence from a later duplicate
+  upgrades an assumed drop-in (libraries listing defaults to drop-in when
+  the page shows no booking text; dlr-events states 'Booking is needed').
