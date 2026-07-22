@@ -73,7 +73,11 @@ rows for it are kept — a broken parser never empties the site.
 | wicklow | Bray/Ballywaltrim/Greystones/Enniskerry + Whale Theatre | Wicklow **Spydus** ENQ search (server-rendered over a session) | deep-link via **IRN**; Whale needs Playwright (currently comedy/adult only) |
 | imma | IMMA family workshops/tours | Playwright render of the summer pages | Ticketsolve deep-links for bookable; excludes adult workshops |
 | ark | The Ark, Temple Bar | browser-UA curl of `ark.ie/events/view/<slug>` | irregular dates (camp blocks, exhibition runs, one-offs); most of its programme is autumn (out of the 45-day horizon) and rolls in later |
-| dlrclubs | dlr branches' regular clubs (junior book, Lego, gaming, board games, parent & toddler) | clubs-and-groups category pages; prose schedules parsed to weekly / nth-weekday rules, expanded within the horizon | only CONCRETE schedules become rows — 'one Saturday a month' / 'alternating' / 'fortnightly' are dropped, never guessed; see SCRAPING.md '22 Jul' section |
+| dlrclubs | dlr branches' regular clubs (junior book, Lego, gaming, board games, parent & toddler, storytime) | clubs-and-groups + children-and-families category pages; prose schedules parsed to weekly / nth-weekday rules, expanded within the horizon | only CONCRETE schedules become rows — 'one Saturday a month' / 'alternating' / 'fortnightly' are dropped, never guessed; see SCRAPING.md '22 Jul' section |
+| sdccevents | SDCC council events (fun days, cinema days, sports camps, parks) | sitemap-driven: fresh /en/events/*.html detail pages; Eventbrite JSON-LD date fallback | the /en/events/ search is JS — don't fight it, the sitemap has everything |
+| dccblog | DCC 'Children's Summer Programme' blog post | h2 branch / li 'Title, Weekday D Month at time' | carries events MISSING from the events listing; src_dcc must stay before it in SOURCES so listing rows win de-dup |
+| hughlane | Hugh Lane Gallery (offsite programme — gallery shut for refurb) | Eventbrite org 10755329962 via src_sdcc ORGS | 0 rows until the autumn programme lists — that's correct, not broken |
+| fingalevents | Fingal council events (BlanchFest etc.) | /events/browse cards | explicit family signal required; concerts excluded |
 
 Areas: Dublin City · Fingal · DLR · South Dublin · North Wicklow.
 
