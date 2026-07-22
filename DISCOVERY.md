@@ -1,5 +1,33 @@
 # Discovery sweep — 2026-07-22
 
+## Triage verdict — 22 Jul (read this, skip the lists)
+
+Every candidate below was fetched and scored for upcoming dates + booking
+signals; the top scorers were read by hand. You don't need to review the
+raw lists. Outcome:
+
+**Done already:** dlr Storytime page → added to `src_dlr_clubs.py`
+(7 weekly branch storytimes incl. as Gaeilge).
+
+**Worth building (ranked):**
+1. **SDCC events section** (`sdcc.ie/en/events/` — popular-events +
+   library-events, paginated HTML with detail pages). Family fun days,
+   cinema days, sports camps, all-branch library events. Biggest gap:
+   we only cover Ballyroan today.
+2. **DCC "Children's Summer Programme" blog** — curated per-branch list;
+   spot-checked: carries dated August events MISSING from the events
+   listing we scrape (Cabra manga workshop, Screen Print Your Style).
+3. **Hugh Lane** — gallery shut for refurb, programme runs offsite; books
+   via Eventbrite, so reuse the Ballyroan/Fingal showmore-JSON machinery
+   on their organiser id.
+4. **Fingal council events** (`fingal.ie/events`) — small but has the
+   family festivals (BlanchFest 21 Aug).
+
+**Not sources:** KCAT / gallery-learning calendar — the Lifework workshop
+programme is past its deadlines; re-check when the next exhibition's
+programme posts. Everything else scored = blogs, book lists, genealogy
+("family history"), one-off news.
+
 Sitemap-enumerated pages matching kid/family keywords that the
 scrapers don't already cover. Hand-review: promote real venue
 calendars to sources, ignore the rest. Regenerate with
