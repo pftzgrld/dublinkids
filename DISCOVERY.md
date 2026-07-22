@@ -9,7 +9,7 @@ raw lists. Outcome:
 **Done already:** dlr Storytime page → added to `src_dlr_clubs.py`
 (7 weekly branch storytimes incl. as Gaeilge).
 
-**Worth building (ranked):**
+**Built 22 Jul (all four live in build.py):**
 1. **SDCC events section** (`sdcc.ie/en/events/` — popular-events +
    library-events, paginated HTML with detail pages). Family fun days,
    cinema days, sports camps, all-branch library events. Biggest gap:

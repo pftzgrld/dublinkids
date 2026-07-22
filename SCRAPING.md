@@ -187,3 +187,29 @@ grouped by host for hand review. wicklow.ie / museum.ie / ark.ie /
 nationalgallery.ie expose no XML sitemap (museum/ark/NGI are covered by
 scrapers/manual seed anyway). 'camp' must match \bcamps?\b or it hits
 campaign/campus; /ga/ Irish mirrors are excluded as duplicates.
+
+## Council events + Hugh Lane (added 22 Jul, evening)
+
+- **SDCC events** (`src_sdcc_events.py`): sitemap-driven — /en/events/ search
+  is JS and branch pages are unreliable, but the sitemap lists every
+  /en/events/*.html detail with lastmod; parse the recently-touched ones.
+  Structured pages carry `.date-time-area` (dd/mm/yy + time) and `.tag-area`
+  (SDCC area); prose pages get date-regex + Eventbrite JSON-LD fallback when
+  the page itself shows no dates (the rugby camp). Fun days / cinema days
+  count as kid events by nature; civic noise (mattress amnesty, park yoga,
+  residencies, schedules) excluded by regex.
+- **DCC summer-programme blog** (`src_dcc_blog.py`): the curated
+  library/blog/childrens-summer-programme post carries dated events MISSING
+  from the events listing. h2 = branch, li = 'Title, Weekday D Month at
+  time'. Keep src_dcc BEFORE dccblog in SOURCES so listing rows (with real
+  booking links) win the de-dup.
+- **Hugh Lane** (org added to `src_sdcc.py` ORGS, source `hughlane`):
+  gallery shut for refurb, programme runs offsite; books via Eventbrite org
+  10755329962. JSON-LD location.name = the actual offsite venue. Currently
+  yields 0 rows (summer camps already started -> not 'future'; autumn
+  family programme not on sale yet) — rows flow when they list, like the
+  Whale. Needs kid signal (their org mixes in adult courses/lectures).
+- **Fingal council events** (`src_fingal_events.py`): /events/browse cards
+  (date + title + teaser). Explicit family/kid signal required — 'audiences
+  of all ages' on the Swords concert series is not a kid event. This is
+  where BlanchFest lives. Library events stay with the Eventbrite org.

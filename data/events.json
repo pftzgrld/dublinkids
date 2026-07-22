@@ -1632,6 +1632,28 @@
   "date": "25 Jul",
   "iso": "2026-07-25",
   "day": "Sat",
+  "time": "14:00",
+  "venue": "Clondalkin area",
+  "activity": "Balgaddy Family Fun Day",
+  "cat": "Park",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.sdcc.ie/en/events/popular-events/balgaddy-family-fun-day.html",
+  "area": "South Dublin",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "sdccevents"
+ },
+ {
+  "date": "25 Jul",
+  "iso": "2026-07-25",
+  "day": "Sat",
   "time": "14:00–16:00",
   "venue": "Hugh Lane Gallery",
   "activity": "Explore, Express & Create (teen camp) (day 4 of 4)",
@@ -2078,6 +2100,30 @@
   "src": "recurring"
  },
  {
+  "date": "27 Jul",
+  "iso": "2026-07-27",
+  "day": "Mon",
+  "time": "See link",
+  "venue": "Collinstown Sports Complex",
+  "activity": "Inclusive Multi Sports Camp",
+  "cat": "Camp",
+  "ages": "5-17",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/inclusive-multi-sport-camp-tickets-1992624337032",
+  "area": "South Dublin",
+  "ageTags": [
+   "5to8",
+   "9to12",
+   "teen"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "sdccevents"
+ },
+ {
   "date": "28 Jul",
   "iso": "2026-07-28",
   "day": "Tue",
@@ -2283,6 +2329,30 @@
   "date": "28 Jul",
   "iso": "2026-07-28",
   "day": "Tue",
+  "time": "13:00",
+  "venue": "Inchicore Library",
+  "activity": "Screen Print Your Style",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "28 Jul",
+  "iso": "2026-07-28",
+  "day": "Tue",
   "time": "14:00–15:00",
   "venue": "Ballyroan Library",
   "activity": "Anime Drawing workshop",
@@ -2369,6 +2439,29 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "28 Jul",
+  "iso": "2026-07-28",
+  "day": "Tue",
+  "time": "14:30",
+  "venue": "Marino Library",
+  "activity": "Sumner Storytime with Storyteller Aisling Breen",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
  },
  {
   "date": "28 Jul",
@@ -2782,6 +2875,30 @@
   "date": "29 Jul",
   "iso": "2026-07-29",
   "day": "Wed",
+  "time": "12:00",
+  "venue": "Central Library",
+  "activity": "Stories from Around the World",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "29 Jul",
+  "iso": "2026-07-29",
+  "day": "Wed",
   "time": "14:00–15:00",
   "venue": "Blanchardstown Library",
   "activity": "Zine and Chat - A Creative Meetup for  17-19 year olds",
@@ -2848,30 +2965,6 @@
   "dropin": true,
   "ok": true,
   "src": "dlrclubs"
- },
- {
-  "date": "29 Jul",
-  "iso": "2026-07-29",
-  "day": "Wed",
-  "time": "14:45",
-  "venue": "Dalkey Library",
-  "activity": "Harry Potter Science",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Fully booked",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/harry-potter-science-event-fully-booked",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": false,
-  "src": "dlr"
  },
  {
   "date": "29 Jul",
@@ -3056,6 +3149,30 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "29 Jul",
+  "iso": "2026-07-29",
+  "day": "Wed",
+  "time": "See link",
+  "venue": "Collinstown Sports Complex",
+  "activity": "Inclusive Multi Sports Camp",
+  "cat": "Camp",
+  "ages": "5-17",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/inclusive-multi-sport-camp-tickets-1992624337032",
+  "area": "South Dublin",
+  "ageTags": [
+   "5to8",
+   "9to12",
+   "teen"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "sdccevents"
  },
  {
   "date": "30 Jul",
@@ -3286,6 +3403,54 @@
   "date": "30 Jul",
   "iso": "2026-07-30",
   "day": "Thu",
+  "time": "11:00",
+  "venue": "Ringsend Library",
+  "activity": "Book Adventures with Anita Nicholson",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "30 Jul",
+  "iso": "2026-07-30",
+  "day": "Thu",
+  "time": "11:00",
+  "venue": "Terenure Library",
+  "activity": "Creative Drama & Storytelling with Angelica Santander",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "30 Jul",
+  "iso": "2026-07-30",
+  "day": "Thu",
   "time": "12:30",
   "venue": "Central Library",
   "activity": "Screen Free Summer Holidays: Lego Club",
@@ -3326,6 +3491,30 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "30 Jul",
+  "iso": "2026-07-30",
+  "day": "Thu",
+  "time": "13:00",
+  "venue": "Walkinstown Library",
+  "activity": "Creative Drama & Storytelling with Angelica Santander",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
  },
  {
   "date": "30 Jul",
@@ -3372,6 +3561,29 @@
   "dropin": true,
   "ok": true,
   "src": "nmi"
+ },
+ {
+  "date": "30 Jul",
+  "iso": "2026-07-30",
+  "day": "Thu",
+  "time": "14:30",
+  "venue": "Dolphin’s Barn Library",
+  "activity": "Sumner Storytime with Storyteller Aisling Breen",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
  },
  {
   "date": "30 Jul",
@@ -3918,6 +4130,30 @@
   "src": "recurring"
  },
  {
+  "date": "31 Jul",
+  "iso": "2026-07-31",
+  "day": "Fri",
+  "time": "See link",
+  "venue": "Collinstown Sports Complex",
+  "activity": "Inclusive Multi Sports Camp",
+  "cat": "Camp",
+  "ages": "5-17",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/inclusive-multi-sport-camp-tickets-1992624337032",
+  "area": "South Dublin",
+  "ageTags": [
+   "5to8",
+   "9to12",
+   "teen"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "sdccevents"
+ },
+ {
   "date": "1 Aug",
   "iso": "2026-08-01",
   "day": "Sat",
@@ -4411,6 +4647,30 @@
   "date": "4 Aug",
   "iso": "2026-08-04",
   "day": "Tue",
+  "time": "10:30",
+  "venue": "Ballymun Library",
+  "activity": "Creative Drama & Storytelling with Angelica Santander",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "4 Aug",
+  "iso": "2026-08-04",
+  "day": "Tue",
   "time": "10:30–11:30",
   "venue": "Dolphin's Barn Library",
   "activity": "Dolphin's Barn Toddler Time",
@@ -4451,6 +4711,30 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "4 Aug",
+  "iso": "2026-08-04",
+  "day": "Tue",
+  "time": "11:00",
+  "venue": "Inchicore Library",
+  "activity": "Book Adventures with Anita Nicholson",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
  },
  {
   "date": "4 Aug",
@@ -4501,6 +4785,30 @@
   "date": "4 Aug",
   "iso": "2026-08-04",
   "day": "Tue",
+  "time": "14:00",
+  "venue": "Cabra Library",
+  "activity": "Creative Drama & Storytelling with Angelica Santander",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "4 Aug",
+  "iso": "2026-08-04",
+  "day": "Tue",
   "time": "15:00",
   "venue": "Ballyfermot Library",
   "activity": "Drop in Children's Board Games",
@@ -4542,6 +4850,28 @@
   "dropin": true,
   "ok": true,
   "src": "wicklow"
+ },
+ {
+  "date": "4 Aug",
+  "iso": "2026-08-04",
+  "day": "Tue",
+  "time": "15:00–16:30",
+  "venue": "Dalkey Library",
+  "activity": "Get Creative! An Interactive Writing Workshop for Children",
+  "cat": "Library",
+  "ages": "10-12",
+  "status": "Fully booked",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/get-creative-interactive-writing-workshop-children",
+  "area": "DLR",
+  "ageTags": [
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "dlr"
  },
  {
   "date": "4 Aug",
@@ -5270,6 +5600,29 @@
   "date": "6 Aug",
   "iso": "2026-08-06",
   "day": "Thu",
+  "time": "14:30",
+  "venue": "Pembroke Library",
+  "activity": "Sumner Storytime with Storyteller Aisling Breen",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "6 Aug",
+  "iso": "2026-08-06",
+  "day": "Thu",
   "time": "14:30–16:30",
   "venue": "Deansgrange Library",
   "activity": "Chess Drop-in",
@@ -5606,6 +5959,30 @@
   "date": "7 Aug",
   "iso": "2026-08-07",
   "day": "Fri",
+  "time": "14:00",
+  "venue": "Charleville Mall Library",
+  "activity": "Musical Workshop",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "7 Aug",
+  "iso": "2026-08-07",
+  "day": "Fri",
   "time": "16:00",
   "venue": "IMMA",
   "activity": "Drop-in exhibition tour",
@@ -5787,6 +6164,30 @@
   "date": "8 Aug",
   "iso": "2026-08-08",
   "day": "Sat",
+  "time": "14:00",
+  "venue": "Coolock Library",
+  "activity": "Screen Print Your Style",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "8 Aug",
+  "iso": "2026-08-08",
+  "day": "Sat",
   "time": "15:00",
   "venue": "Ballyogan Library",
   "activity": "Gaming & VR Club",
@@ -5871,6 +6272,29 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "9 Aug",
+  "iso": "2026-08-09",
+  "day": "Sun",
+  "time": "12:00",
+  "venue": "Park Community Centre",
+  "activity": "The Park Community Centre Colour Dash & Family Day",
+  "cat": "Park",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.sdcc.ie/en/events/popular-events/the-park-community-centre-colour-dash-family-day.html",
+  "area": "South Dublin",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "sdccevents"
  },
  {
   "date": "9 Aug",
@@ -6047,6 +6471,29 @@
   "dropin": false,
   "ok": true,
   "src": "dlrclubs"
+ },
+ {
+  "date": "10 Aug",
+  "iso": "2026-08-10",
+  "day": "Mon",
+  "time": "15:00",
+  "venue": "Finglas Library",
+  "activity": "Summer Storytime with Storyteller Aisling Breen",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
  },
  {
   "date": "10 Aug",
@@ -6248,6 +6695,30 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "11 Aug",
+  "iso": "2026-08-11",
+  "day": "Tue",
+  "time": "11:00",
+  "venue": "Donaghmede Library",
+  "activity": "Design your own mythical Creature",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
  },
  {
   "date": "11 Aug",
@@ -6547,6 +7018,30 @@
   "date": "12 Aug",
   "iso": "2026-08-12",
   "day": "Wed",
+  "time": "10:30",
+  "venue": "Drumcondra Library",
+  "activity": "Stories from Around the World",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "12 Aug",
+  "iso": "2026-08-12",
+  "day": "Wed",
   "time": "11:00–13:00",
   "venue": "NMI Archaeology, Kildare St",
   "activity": "Drop-In: The Saints, Scholars, and Scribes of Ireland! Early Medieval Ireland Handling Workshop",
@@ -6564,6 +7059,30 @@
   "dropin": true,
   "ok": true,
   "src": "nmi"
+ },
+ {
+  "date": "12 Aug",
+  "iso": "2026-08-12",
+  "day": "Wed",
+  "time": "11:30",
+  "venue": "Kevin Street Library",
+  "activity": "Design Your Own Anime Character",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
  },
  {
   "date": "12 Aug",
@@ -7292,6 +7811,28 @@
   "date": "14 Aug",
   "iso": "2026-08-14",
   "day": "Fri",
+  "time": "10:30",
+  "venue": "Central Library",
+  "activity": "Greek Family Favourites",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "14 Aug",
+  "iso": "2026-08-14",
+  "day": "Fri",
   "time": "10:30–11:15",
   "venue": "Dalkey Library",
   "activity": "Toddler and Guardian Group",
@@ -7486,6 +8027,28 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "15 Aug",
+  "iso": "2026-08-15",
+  "day": "Sat",
+  "time": "11:00",
+  "venue": "Tallaght area",
+  "activity": "Brookfield Family Fun Day",
+  "cat": "Park",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.sdcc.ie/en/events/popular-events/brookfield family fun-day.html",
+  "area": "South Dublin",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "sdccevents"
  },
  {
   "date": "15 Aug",
@@ -7981,6 +8544,30 @@
   "date": "18 Aug",
   "iso": "2026-08-18",
   "day": "Tue",
+  "time": "11:00",
+  "venue": "Rathmines Library",
+  "activity": "Cool for the Summer – Visual Art Workshop",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
   "time": "11:30–12:30",
   "venue": "Ballywaltrim Library, Bray",
   "activity": "Teen Crafting @ Ballywaltrim Library",
@@ -7998,6 +8585,78 @@
   "dropin": true,
   "ok": true,
   "src": "wicklow"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
+  "time": "12:00",
+  "venue": "Walkinstown Library",
+  "activity": "Coimici Gael Comic Design",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
+  "time": "14:00",
+  "venue": "Pearse Street Library",
+  "activity": "Create Your Own Irish Myths & Legends",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
+  "time": "14:00",
+  "venue": "Terenure Library",
+  "activity": "Coimici Gael Comic Design",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
  },
  {
   "date": "18 Aug",
@@ -8246,6 +8905,30 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
+  "time": "11:00",
+  "venue": "Cabra Library",
+  "activity": "Manga & Comic Making Workshop",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dublincity.ie/library/blog/childrens-summer-programme",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dccblog"
  },
  {
   "date": "19 Aug",
@@ -9055,6 +9738,50 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "21 Aug",
+  "iso": "2026-08-21",
+  "day": "Fri",
+  "time": "See link",
+  "venue": "Blanchardstown",
+  "activity": "BlanchFest",
+  "cat": "Park",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.fingal.ie/events/blanchfest",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "fingalevents"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "09:55",
+  "venue": "Tallaght area",
+  "activity": "Balgaddy Cinema Day",
+  "cat": "Show",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.sdcc.ie/en/events/popular-events/balgaddy-cinema-day.html",
+  "area": "South Dublin",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "sdccevents"
  },
  {
   "date": "22 Aug",
@@ -10995,30 +11722,6 @@
   "iso": "2026-08-29",
   "day": "Sat",
   "time": "16:00",
-  "venue": "dlr LexIcon",
-  "activity": "Anna Bananas Clown Show",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/anna-bananas-clown-show-0",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "29 Aug",
-  "iso": "2026-08-29",
-  "day": "Sat",
-  "time": "16:00",
   "venue": "IMMA",
   "activity": "Drop-in exhibition tour",
   "cat": "Museum",
@@ -11079,6 +11782,28 @@
   "dropin": false,
   "ok": true,
   "src": "manual"
+ },
+ {
+  "date": "30 Aug",
+  "iso": "2026-08-30",
+  "day": "Sun",
+  "time": "12:30",
+  "venue": "Tallaght area",
+  "activity": "Firhouse Fun Day",
+  "cat": "Park",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.sdcc.ie/en/events/popular-events/firhouse-fun-day.html",
+  "area": "South Dublin",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "sdccevents"
  },
  {
   "date": "30 Aug",
@@ -12472,6 +13197,28 @@
   "date": "5 Sep",
   "iso": "2026-09-05",
   "day": "Sat",
+  "time": "13:00",
+  "venue": "Tallaght area",
+  "activity": "Glenasmole Fun day",
+  "cat": "Park",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.sdcc.ie/en/events/popular-events/glenasmole-fun-day.html",
+  "area": "South Dublin",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "sdccevents"
+ },
+ {
+  "date": "5 Sep",
+  "iso": "2026-09-05",
+  "day": "Sat",
   "time": "14:00",
   "venue": "Ballyogan Library",
   "activity": "Junior Chess Club",
@@ -12490,6 +13237,28 @@
   "dropin": true,
   "ok": true,
   "src": "dlrclubs"
+ },
+ {
+  "date": "5 Sep",
+  "iso": "2026-09-05",
+  "day": "Sat",
+  "time": "14:00",
+  "venue": "Lucan area",
+  "activity": "Adamstown Cinema Day",
+  "cat": "Show",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.sdcc.ie/en/events/popular-events/adamstown-cinema-day.html",
+  "area": "South Dublin",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "sdccevents"
  },
  {
   "date": "5 Sep",

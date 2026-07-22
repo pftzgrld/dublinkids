@@ -20,6 +20,12 @@ ORGS = [
     {"url": "https://www.eventbrite.ie/o/fingal-county-libraries-19927793883",
      "id": "19927793883", "area": "Fingal", "venue": "Fingal library",
      "require_kid_signal": True, "source": "fingal"},
+    # Hugh Lane is shut for refurbishment; its programme runs OFFSITE in 40+
+    # locations and books through this org — JSON-LD location.name carries
+    # the actual venue, so don't hardcode the gallery.
+    {"url": "https://www.eventbrite.ie/o/hugh-lane-gallery-10755329962",
+     "id": "10755329962", "area": "Dublin City", "venue": "Hugh Lane Gallery",
+     "require_kid_signal": True, "source": "hughlane"},
 ]
 EVENT_URL_RX = r'https://www\.eventbrite\.ie/e/[a-z0-9-]+-tickets-\d+'
 
@@ -134,11 +140,19 @@ def scrape():
                 venue = (loc.get("name") or org["venue"]).strip()
                 if "ballyroan" in venue.lower():
                     venue = "Ballyroan Library"
+                if org["source"] == "hughlane":
+                    venue = re.sub(r"^(HLG|Hugh Lane Gallery)\s*[@at-]*\s*",
+                                   "", venue).strip() or "Hugh Lane Gallery"
                 ages_m = re.search(r"ages?\s*(\d+\s*[-–]\s*\d+|\d+\+)", name,
                                    re.I)
+                if org["source"] == "hughlane":
+                    cat = "Camp" if re.search(r"camp", name, re.I) \
+                        else "Workshop"
+                else:
+                    cat = "Library"
                 rows.append(event_row(
                     iso=iso, time_str=t or parse_time_range(name),
-                    venue=venue, activity=name, cat="Library",
+                    venue=venue, activity=name, cat=cat,
                     ages=ages_m.group(1).replace(" ", "") if ages_m
                     else "Children",
                     status=availability(ev), book="Book online",
