@@ -32,6 +32,8 @@ PAGES = [
     ("/news-events/clubs-and-groups/board-game-groups", "Children", True),
     ("/using-your-library/children-and-families/parent-and-toddler-groups",
      "0-4", False),
+    ("/using-your-library/children-and-families/storytime", "Children",
+     False),
 ]
 
 KID_RX = re.compile(r"junior|child|kids?\b|famil|teen|young|lego|baby|babies|"
@@ -272,6 +274,7 @@ def parse_page(html, url, default_ages, need_kid):
             if not title:
                 title, block = lines[0], " | ".join(lines[1:]) or lines[0]
                 lines = lines[1:]
+            title = title.strip(" ,;:")
             if len(title) > 70 or (need_kid
                                    and not KID_RX.search(title + " " + block)):
                 continue
