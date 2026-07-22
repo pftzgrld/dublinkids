@@ -87,7 +87,7 @@ the UNFILTERED listing, which is what broke coverage. Also:
   ignores the page param (single page of results).
 - The fullest link source is `/events-and-news/event-calendar` itself; the scraper unions
   it with the listing node and the views/ajax block (each surfaces events the others miss).
-- Kid-filtering now happens by keyword on the detail page, not by category term.
+- Full listing needs a rendered Load-More pass (the AJAX pagination is session-bound and caps at ~14); render + click Load More gets all ~36. Kid-filtering happens by keyword on the detail page, not by category term.
 - dlr staff append "*Event is Fully Booked*" to the TITLE — strip it, keep the status,
   and treat such events as bookable (Contact branch), never drop-in.
 

@@ -32,29 +32,50 @@ def _collect(soup, seen):
             seen.append(url)
 
 
+def _render_all():
+    """The listing is a JS 'Load More' page whose AJAX pagination is
+    session-bound (a plain fetch only sees the first ~14). Render it and
+    click Load More to exhaustion to get the whole programme (~36)."""
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        return []
+    urls = set()
+    try:
+        with sync_playwright() as pw:
+            b = pw.chromium.launch()
+            p = b.new_page()
+            p.goto(f"{BASE}/events-listing", timeout=60000,
+                   wait_until="domcontentloaded")
+            p.wait_for_timeout(3000)
+            for _ in range(20):
+                btn = p.query_selector("a:has-text('Load More'), "
+                                       "button:has-text('Load More')")
+                if not btn or not btn.is_visible():
+                    break
+                btn.click()
+                p.wait_for_timeout(1500)
+            for h in p.eval_on_selector_all(
+                    'a[href*="/event-calendar/"]', "els=>els.map(e=>e.href)"):
+                if h.rstrip("/").split("/")[-1] != "event-calendar":
+                    urls.add(h)
+            b.close()
+    except Exception:
+        return []
+    return list(urls)
+
+
 def listing_links():
-    """Union of the three places dlr surfaces events: the event-calendar
-    page (fullest), the events-listing node, and its views/ajax block
-    (which carries events the static pages omit)."""
+    """Full listing via a rendered Load-More pass, unioned with the static
+    event-calendar page as a fallback when Playwright isn't available."""
     seen = []
+    for u in _render_all():
+        if u not in seen:
+            seen.append(u)
     for path in ("/events-and-news/event-calendar", "/events-listing"):
         r = fetch(BASE + path)
         if r:
             _collect(BeautifulSoup(r.text, "html.parser"), seen)
-    try:
-        from common import _session
-        r = _session.post(
-            f"{BASE}/views/ajax",
-            data={"view_name": "bones_page_listing_blocks",
-                  "view_display_id": "block_2", "view_path": "/node/8280",
-                  "_wrapper_format": "drupal_ajax"},
-            headers={"X-Requested-With": "XMLHttpRequest"}, timeout=30)
-        if r.status_code == 200:
-            for c in r.json():
-                if c.get("command") == "insert" and c.get("data"):
-                    _collect(BeautifulSoup(c["data"], "html.parser"), seen)
-    except Exception:
-        pass
     return seen
 
 
