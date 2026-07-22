@@ -25,14 +25,19 @@ straight through to the specific booking page.
   Reads `data/events.json` and renders a date-grouped list + a month calendar
   panel. Installable as a home-screen web app (manifest + icons). The frontend
   **only ever reads events.json** — all gathering happens in the scraper.
-- **`data/events.json`** — the built dataset (~413 rows). Regenerated each run.
+- **`data/events.json`** — the built dataset (~515 rows). Regenerated each run.
 - **`scraper/`** — one module per source, orchestrated by `build.py`:
   - `common.py` — shared helpers: `fetch` (browser-UA + retry), `event_row`
     (the schema + derives `ageTags`/`free`/`dropin`/`ok`), `age_tags`,
     `parse_time_range`, `parse_day_month`, `expand_rule`, `status_from_text`,
     `clean_summary` (dormant — summaries are stripped at build, see below).
   - `src_dcc.py` `src_dlr.py` `src_nmi.py` `src_sdcc.py` (Ballyroan + Fingal
-    Eventbrite) `src_wicklow.py` `src_imma.py` `src_ark.py` — the scrapers.
+    Eventbrite) `src_wicklow.py` `src_imma.py` `src_ark.py`
+    `src_dlr_clubs.py` (dlr recurring clubs from prose schedules) — the
+    scrapers.
+  - `discover.py` — one-off sitemap sweep across the council/museum hosts;
+    writes keyword-filtered candidate URLs to `DISCOVERY.md` for hand review.
+    Not part of build.py.
   - `status.py` — re-polls booking status for the manual-seed venues.
   - `build.py` — runs every source, expands `data/recurring.json` (always-on
     museum drop-ins), merges `data/manual-events.json`, de-dups, drops
@@ -68,6 +73,7 @@ rows for it are kept — a broken parser never empties the site.
 | wicklow | Bray/Ballywaltrim/Greystones/Enniskerry + Whale Theatre | Wicklow **Spydus** ENQ search (server-rendered over a session) | deep-link via **IRN**; Whale needs Playwright (currently comedy/adult only) |
 | imma | IMMA family workshops/tours | Playwright render of the summer pages | Ticketsolve deep-links for bookable; excludes adult workshops |
 | ark | The Ark, Temple Bar | browser-UA curl of `ark.ie/events/view/<slug>` | irregular dates (camp blocks, exhibition runs, one-offs); most of its programme is autumn (out of the 45-day horizon) and rolls in later |
+| dlrclubs | dlr branches' regular clubs (junior book, Lego, gaming, board games, parent & toddler) | clubs-and-groups category pages; prose schedules parsed to weekly / nth-weekday rules, expanded within the horizon | only CONCRETE schedules become rows — 'one Saturday a month' / 'alternating' / 'fortnightly' are dropped, never guessed; see SCRAPING.md '22 Jul' section |
 
 Areas: Dublin City · Fingal · DLR · South Dublin · North Wicklow.
 
@@ -92,39 +98,27 @@ Areas: Dublin City · Fingal · DLR · South Dublin · North Wicklow.
 - Horizon is **45 days** (`HORIZON_DAYS`). Recurring rules and open-ended runs
   expand only within it; autumn events appear as the window advances.
 
-## Open questions Patrick is bringing in
+## Done 22 Jul (were the open questions)
 
-**1. "Is there a way to scrape all of a website to find buried content?"**
-(e.g. `dlrcoco.ie/arts/municipal-gallery-dlr-lexicon/.../kcat-exhibition-learning-programme#learning-programme-calendar`
-— note this is the **main dlrcoco.ie council site, a different host** from the
-libraries subsite, and looks to have its own gallery-education calendar.)
-- Don't blind-crawl (too noisy). The efficient move is **sitemap-driven
-  discovery**: fetch `/sitemap.xml` for each host (dlrcoco.ie, dublincity.ie,
-  fingal.ie, wicklow.ie, museum.ie…), enumerate every URL, filter by
-  kid-relevant keywords in the path/title (child/family/kids/junior/gallery-
-  learning/storytime/camp/workshop), and produce a **candidate list** to
-  hand-review. Also worth: each site's own search, and `site:` web searches.
-- Recommended next step: write a one-off `discover.py` that pulls the sitemaps,
-  keyword-filters, and prints candidate URLs grouped by host. Patrick reviews,
-  we promote the good ones to real sources. The dlr gallery learning programme
-  is likely the first new source out of that (it's a real venue we don't cover:
-  the Municipal Gallery / LexIcon exhibition-learning calendar).
+**1. Buried-content discovery — built.** `scraper/discover.py` sweeps the
+sitemaps of 11 hosts and writes `DISCOVERY.md` (~445 candidates, grouped by
+host, freshest first) for Patrick to review. It found the trigger example —
+the Municipal Gallery / LexIcon **KCAT exhibition-learning programme** on
+dlrcoco.ie (fresh, updated Jul 2026) — plus promising SDCC finds (family fun
+days, sports camps under `/en/imeachtai`, Clondalkin kids-events PDFs): SDCC
+proper is barely covered today (Ballyroan Eventbrite only). wicklow.ie,
+museum.ie, ark.ie, nationalgallery.ie expose no XML sitemap (the latter three
+are covered by scrapers/manual seed anyway).
+**Next:** Patrick reviews DISCOVERY.md; promote winners to sources — the KCAT
+gallery-learning calendar and the SDCC events pages look like the first two.
 
-**2. Clubs-and-groups — include the ones with clear schedules.**
-`libraries.dlrcoco.ie/news-events/clubs-and-groups` — category pages (Lego &
-Builder Clubs, Storytime, Junior Book Clubs, Parent & Toddler Groups, Board
-Game/Gaming Clubs). Each lists per-branch clubs with a prose schedule.
-- Reality: some are vague ("one Saturday a month", "alternating Saturdays,
-  check here") → skip. **Many are clear** ("every Tuesday 3.30pm", "first
-  Saturday 11am") → Patrick wants these **in**. It's just laborious.
-- Recommended approach: a **`src_dlr_clubs.py`** that fetches the kid category
-  pages, parses each club block into a rule (branch + weekday/nth-weekday +
-  time + link), and expands with `expand_rule`/an nth-weekday helper within the
-  horizon. Drop the ones whose schedule can't be parsed to concrete dates
-  (don't invent dates). Same pattern as `recurring.json` but scraped. Book-by-
-  email clubs → book="Contact branch", link to the clubs page section.
-- This generalises: DCC and other councils have similar "regular clubs" pages;
-  the nth-weekday expansion helper would serve all of them.
+**2. Clubs with clear schedules — built.** `src_dlr_clubs.py` is live in
+build.py (src `dlrclubs`, ~101 rows): 16 clubs parsed to concrete dates
+(weekly + nth-weekday incl. Irish 'Gach Déardaoin'), 11 vague/adult ones
+correctly dropped. Break notes ('until September'), bank-holiday-weekend
+exclusions, and months-vs-years age units all handled — details in
+SCRAPING.md. The nth-weekday machinery lives in the module and can be lifted
+for other councils' clubs pages (DCC has similar) when we do them.
 
 ## Backlog / smaller threads
 

@@ -12,7 +12,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 
 import src_dcc, src_dlr, src_nmi, src_sdcc, src_wicklow  # noqa: E402
-import src_imma, src_ark  # noqa: E402
+import src_imma, src_ark, src_dlr_clubs  # noqa: E402
 import status  # noqa: E402
 from common import today, age_tags  # noqa: E402
 
@@ -50,7 +50,8 @@ def expand_recurring():
 SOURCES = {"dcc": (src_dcc, ["dcc"]), "dlr": (src_dlr, ["dlr"]),
            "nmi": (src_nmi, ["nmi"]), "sdcc": (src_sdcc, ["sdcc", "fingal"]),
            "wicklow": (src_wicklow, ["wicklow"]), "imma": (src_imma, ["imma"]),
-           "ark": (src_ark, ["ark"])}
+           "ark": (src_ark, ["ark"]),
+           "dlrclubs": (src_dlr_clubs, ["dlrclubs"])}
 
 
 def main():

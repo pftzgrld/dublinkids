@@ -148,3 +148,42 @@ horizon) and will appear automatically as the horizon advances. The Ark books
 via ark.ticketsolve.com — Ticketsolve's /ticketbooth/shows list renders empty
 to a scrape, so booking links come from the detail pages, not a Ticketsolve
 sweep.
+
+## dlr clubs & groups (added 22 Jul)
+
+The clubs-and-groups category pages (junior book, Lego & builder, gaming,
+board games, plus children-and-families/parent-and-toddler-groups) list
+per-branch clubs with a PROSE schedule. `src_dlr_clubs.py` parses each
+branch accordion (`.field-group-accordion-wrapper`: first div = branch,
+second = content; clubs split on h5 or a short bold-only paragraph) and
+expands only the concrete rules:
+- weekly ('every Tuesday', 'Fridays', 'Every Mon', Irish 'Gach Déardaoin')
+  and nth-weekday ('second Monday of the month', 'last Thursday', 'every
+  Second Saturday of the month') within the horizon;
+- vague patterns are DROPPED, never guessed: 'one Saturday a month',
+  'alternating open Saturdays', 'every other Tuesday', 'fortnightly',
+  'generally', 'every second Wednesday' (no 'of the month' = fortnightly),
+  'every open Saturday' (needs the branch's Saturday-opening calendar);
+- 'on a break until September' / 'will start from the 3 of September'
+  gate dates to the resume date; 'unless bank holiday weekend' drops dates
+  in a weekend touching an Irish BH (first/last-Monday rules computed;
+  Easter Monday not — no in-horizon rule needs it);
+- ages: months units ('0-18 months', Irish '0-18 mí', '18 mths-3 yrs')
+  convert to years or they'd tag as 0-18 YEARS; plain ranges need an
+  age/years context so times ('2.30-4.30pm') never match;
+- booking links only from tickettailor/spydus/eventbrite hrefs (the
+  Dundrum baby club's Spydus RUNSQRY saved-query link is session-stable);
+  else email/'booking' → Contact branch, 'no booking required' → Drop-in.
+Gaming and board-game pages mix in adult clubs — those two require a kid
+signal (junior/ages/N+) per block; Scrabble 'all welcome' clubs are excluded.
+D&D is listed on two category pages — deduped in scrape().
+
+## Sitemap discovery (scraper/discover.py, 22 Jul)
+
+One-off sweep, not part of build.py: pulls /sitemap.xml (Drupal index
+pagination + WordPress sitemap_index handled; parse BYTES — sdcc.ie's UTF-8
+BOM breaks text-decoded parsing), keyword-filters paths, writes DISCOVERY.md
+grouped by host for hand review. wicklow.ie / museum.ie / ark.ie /
+nationalgallery.ie expose no XML sitemap (museum/ark/NGI are covered by
+scrapers/manual seed anyway). 'camp' must match \bcamps?\b or it hits
+campaign/campus; /ga/ Irish mirrors are excluded as duplicates.
