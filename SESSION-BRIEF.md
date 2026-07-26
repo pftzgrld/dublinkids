@@ -8,7 +8,7 @@ straight through to the specific booking page.
 
 - **Live:** https://dublinkids.com (custom domain, HTTPS enforced)
 - **Repo:** `github.com/pftzgrld/dublinkids` — GitHub Pages from `main` root.
-  This project folder (`projects/kids-activities`) is its own git repo nested
+  This project folder (`projects/dublinkids`) is its own git repo nested
   inside claude-os; commit/push from here, not the parent.
 - **Old link redirect:** `pftzgrld/dublin-kids-summer` is a stub repo that
   301s the old github.io URL to dublinkids.com (people had the old link).
@@ -79,6 +79,10 @@ rows for it are kept — a broken parser never empties the site.
 | dccblog | DCC 'Children's Summer Programme' blog post | h2 branch / li 'Title, Weekday D Month at time' | carries events MISSING from the events listing; src_dcc must stay before it in SOURCES so listing rows win de-dup |
 | hughlane | Hugh Lane Gallery (offsite programme — gallery shut for refurb) | Eventbrite org 10755329962 via src_sdcc ORGS | 0 rows until the autumn programme lists — that's correct, not broken |
 | fingalevents | Fingal council events (BlanchFest etc.) | /events/browse cards | explicit family signal required; concerts excluded |
+| dublinia | Dublinia (Viking museum) | Eventbrite org 16651922183 via src_sdcc ORGS | site 403s bots; kid-signal OFF (children's museum), ADULT_RX drops lectures/whiskey nights; Festival-type JSON-LD (Heritage Week) expands ≤14-day runs |
+| heritage | ALL OPW sites, Dublin + Wicklow (Pearse Museum, Rathfarnham Castle, Botanic Gardens, Custom House, RHK, Kilmainham Gaol, Glendalough; Casino Marino / Dublin Castle / Farmleigh auto-appear on reopening) | heritageireland.ie/whats-on — fully server-rendered, all ~117 events in DOM | Botanic Gardens' own site 403s — this feed is the route in. Kid decision on DETAIL pages: `?tag=family-fun` OR kid-signal; NOT_KIDS_RX vetoes 'not suitable for children'; 'family' only in event-framing phrases (historical prose says 'the Hudson family') |
+| epic | EPIC The Irish Emigration Museum | epicchq.com/whats-on + /event/ pages, labelled Date/Time/Cost fields | in-gallery sessions cost 'With admission' (honest free-filter); Kids-Go-Free style OFFERS excluded (deals, not events) |
+| christchurch | Christ Church Cathedral (crypt, family workshops, Heritage Week tours) | The Events Calendar REST API `/wp-json/tribe/events/v1/events?categories=` | ONLY workshop/programmes/visit categories — the full calendar is ~2,300 worship services; 'BOOKED OUT' title prefix → status |
 
 Areas: Dublin City · Fingal · DLR · South Dublin · North Wicklow.
 
@@ -124,6 +128,37 @@ correctly dropped. Break notes ('until September'), bank-holiday-weekend
 exclusions, and months-vs-years age units all handled — details in
 SCRAPING.md. The nth-weekday machinery lives in the module and can be lifted
 for other councils' clubs pages (DCC has similar) when we do them.
+
+## Done 26 Jul — museums / paid venues / churches expansion
+
+Venue research (all four compass points web-verified 26 Jul 26) and four new
+sources built: `heritage`, `epic`, `christchurch`, `dublinia` (via ORGS), plus
+6 manual rows for Airfield's Tue+Thu summer programme (to 13 Aug; airfield.ie
+403s bots except sitemap + detail pages, and dates live inside DigiTickets —
+only the concrete Tue/Thu rule became rows). Paid venues are IN where they
+produce real events; cost shows 'With admission' honestly.
+
+**Deliberately skipped — recheck dates:**
+- **Chester Beatty** — whole Dublin Castle complex CLOSED to Dec 2026 (EU
+  Presidency). Free family programme is top-tier; add via a scraper (WordPress
+  whats-on, 403s bots — needs browser UA/Playwright) when it reopens Jan 2027.
+- **St Michan's crypt** — 2024 arson destroyed the Crusader + 4 mummies;
+  closed since, stars never returning to display. Do not list without phoning
+  (+353 1 872 4154).
+- **Wicklow Gaol** — closed Sept 2025; new operator (Coredate) signed Jul 2026,
+  "reopening later this summer". Recheck Sept 2026.
+- **Casino Marino** — "currently closed" per OPW page. Auto-appears via the
+  heritage scraper when events resume.
+- **GPO Museum / MoLI / 14 Henrietta St** — open but no dated kids events
+  (MoLI has a permanent children's exhibition — recurring-row candidate if
+  the venue-directory question is ever revisited).
+- **Phoenix Park / Farmleigh** — 2026 events calendar empty (EU Presidency;
+  Farmleigh programme paused). Biodiversity Festival Sat 5 Sep 2026 will need
+  a manual row nearer the date. Kilmainham Gaol: no kids events, under-6s
+  not recommended; tour tickets sell out 28 days out — not listable fare.
+- **Malahide Castle / Powerscourt / Glendalough always-on** (Fairy Trail,
+  Butterfly House, waterfall playground) — venue-directory content, not
+  events; parked to keep the site an events finder.
 
 ## Backlog / smaller threads
 

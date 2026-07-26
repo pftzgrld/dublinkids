@@ -92,6 +92,29 @@
   "summary": "A four-day art camp for teens exploring drawing, painting and mixed media."
  },
  {
+  "date": "24 Jul",
+  "iso": "2026-07-24",
+  "day": "Fri",
+  "time": "11:00–13:00",
+  "venue": "Municipal Gallery, dlr LexIcon",
+  "activity": "KCAT Lifework: Family Drop-in Workshop with Jinny Ly",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.dlrcoco.ie/arts/municipal-gallery-dlr-lexicon/gallery-learning-programme/kcat-exhibition-learning-programme",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "manual",
+  "summary": "Explore the Lifework exhibition then make art with visual artist Jinny Ly — paper, markers, wool and collage."
+ },
+ {
   "date": "25 Jul",
   "iso": "2026-07-25",
   "day": "Sat",
@@ -187,6 +210,29 @@
   "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
+  "time": "Any time",
+  "venue": "Airfield Estate, Dundrum",
+  "activity": "Summer at Airfield — farm & garden kids activities",
+  "cat": "Park",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "With admission",
+  "link": "https://www.airfield.ie/events/summer-at-airfield-estate/",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "manual",
+  "summary": "Seasonal kids activities across the farm and gardens, every Tuesday and Thursday — included with admission, free for members.",
+  "iso": "2026-07-28",
+  "date": "28 Jul",
+  "day": "Tue"
+ },
+ {
   "date": "29 Jul",
   "iso": "2026-07-29",
   "day": "Wed",
@@ -235,6 +281,29 @@
   "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
+  "time": "Any time",
+  "venue": "Airfield Estate, Dundrum",
+  "activity": "Summer at Airfield — farm & garden kids activities",
+  "cat": "Park",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "With admission",
+  "link": "https://www.airfield.ie/events/summer-at-airfield-estate/",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "manual",
+  "summary": "Seasonal kids activities across the farm and gardens, every Tuesday and Thursday — included with admission, free for members.",
+  "iso": "2026-07-30",
+  "date": "30 Jul",
+  "day": "Thu"
+ },
+ {
   "date": "31 Jul",
   "iso": "2026-07-31",
   "day": "Fri",
@@ -259,6 +328,52 @@
   "summary": "Five-day camp making Lego stop-motion animations, finishing with a screening."
  },
  {
+  "time": "Any time",
+  "venue": "Airfield Estate, Dundrum",
+  "activity": "Summer at Airfield — farm & garden kids activities",
+  "cat": "Park",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "With admission",
+  "link": "https://www.airfield.ie/events/summer-at-airfield-estate/",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "manual",
+  "summary": "Seasonal kids activities across the farm and gardens, every Tuesday and Thursday — included with admission, free for members.",
+  "iso": "2026-08-04",
+  "date": "4 Aug",
+  "day": "Tue"
+ },
+ {
+  "time": "Any time",
+  "venue": "Airfield Estate, Dundrum",
+  "activity": "Summer at Airfield — farm & garden kids activities",
+  "cat": "Park",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "With admission",
+  "link": "https://www.airfield.ie/events/summer-at-airfield-estate/",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "manual",
+  "summary": "Seasonal kids activities across the farm and gardens, every Tuesday and Thursday — included with admission, free for members.",
+  "iso": "2026-08-06",
+  "date": "6 Aug",
+  "day": "Thu"
+ },
+ {
   "date": "8 Aug",
   "iso": "2026-08-08",
   "day": "Sat",
@@ -280,6 +395,52 @@
   "ok": true,
   "src": "manual",
   "summary": "Outdoor puppet show telling tales for young children — free, drop in."
+ },
+ {
+  "time": "Any time",
+  "venue": "Airfield Estate, Dundrum",
+  "activity": "Summer at Airfield — farm & garden kids activities",
+  "cat": "Park",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "With admission",
+  "link": "https://www.airfield.ie/events/summer-at-airfield-estate/",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "manual",
+  "summary": "Seasonal kids activities across the farm and gardens, every Tuesday and Thursday — included with admission, free for members.",
+  "iso": "2026-08-11",
+  "date": "11 Aug",
+  "day": "Tue"
+ },
+ {
+  "time": "Any time",
+  "venue": "Airfield Estate, Dundrum",
+  "activity": "Summer at Airfield — farm & garden kids activities",
+  "cat": "Park",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "With admission",
+  "link": "https://www.airfield.ie/events/summer-at-airfield-estate/",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "manual",
+  "summary": "Seasonal kids activities across the farm and gardens, every Tuesday and Thursday — included with admission, free for members.",
+  "iso": "2026-08-13",
+  "date": "13 Aug",
+  "day": "Thu"
  },
  {
   "date": "22 Aug",
@@ -418,28 +579,5 @@
   "ok": true,
   "src": "manual",
   "summary": "A gentle stage show of Julia Donaldson's lift-the-flap stories for little ones."
- },
- {
-  "date": "24 Jul",
-  "iso": "2026-07-24",
-  "day": "Fri",
-  "time": "11:00–13:00",
-  "venue": "Municipal Gallery, dlr LexIcon",
-  "activity": "KCAT Lifework: Family Drop-in Workshop with Jinny Ly",
-  "cat": "Workshop",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.dlrcoco.ie/arts/municipal-gallery-dlr-lexicon/gallery-learning-programme/kcat-exhibition-learning-programme",
-  "area": "DLR",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "manual",
-  "summary": "Explore the Lifework exhibition then make art with visual artist Jinny Ly — paper, markers, wool and collage."
  }
 ]

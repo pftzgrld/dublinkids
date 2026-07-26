@@ -26,6 +26,12 @@ ORGS = [
     {"url": "https://www.eventbrite.ie/o/hugh-lane-gallery-10755329962",
      "id": "10755329962", "area": "Dublin City", "venue": "Hugh Lane Gallery",
      "require_kid_signal": True, "source": "hughlane"},
+    # Dublinia's site 403s bots; their dated workshops (Little Vikings etc.)
+    # ticket through this org. A children's museum, so no kid signal needed —
+    # ADULT_RX carries the filtering (lectures, whiskey nights).
+    {"url": "https://www.eventbrite.ie/o/dublinia-16651922183",
+     "id": "16651922183", "area": "Dublin City", "venue": "Dublinia",
+     "require_kid_signal": False, "source": "dublinia"},
 ]
 EVENT_URL_RX = r'https://www\.eventbrite\.ie/e/[a-z0-9-]+-tickets-\d+'
 
@@ -58,8 +64,8 @@ KID_RX = re.compile(
     r"child|kids?\b|famil|toddler|baby|babies|storytime|story\s*time|teen|"
     r"junior|lego|age[sd]?\s*\d|young\s*people|school|"
     r"\d{1,2}\s*[-–]\s*\d{1,2}\s*(?:year|yr)|years?\s*old", re.I)
-ADULT_RX = re.compile(r"for adults|adults? only|adult event|18\+|over 18s?",
-                      re.I)
+ADULT_RX = re.compile(r"for adults|adults? only|adult event|18\+|over 18s?|"
+                      r"lecture|whiskey|wine tasting", re.I)
 
 
 def jsonld_events(html):
@@ -73,7 +79,8 @@ def jsonld_events(html):
             continue
         items = d if isinstance(d, list) else [d]
         for it in items:
-            if isinstance(it, dict) and "Event" in str(it.get("@type", "")):
+            if isinstance(it, dict) and \
+                    re.search(r"Event|Festival", str(it.get("@type", ""))):
                 out.append(it)
     return out
 
@@ -124,8 +131,21 @@ def scrape():
                 if len(start) < 10:
                     continue
                 iso = start[:10]
-                if iso < today().isoformat():
+                # a short multi-day run (Heritage Week at Dublinia) gets a
+                # row per remaining day; anything longer keeps its start date
+                end_iso = str(ev.get("endDate", ""))[:10]
+                dates = [iso]
+                if len(end_iso) == 10 and end_iso > iso:
+                    import datetime as _dt
+                    a = _dt.date.fromisoformat(iso)
+                    b = _dt.date.fromisoformat(end_iso)
+                    if (b - a).days <= 14:
+                        dates = [(a + _dt.timedelta(days=n)).isoformat()
+                                 for n in range((b - a).days + 1)]
+                dates = [d for d in dates if d >= today().isoformat()]
+                if not dates:
                     continue
+                iso = dates[0]
                 name = ev.get("name", "").strip()
                 blurb = name + " " + str(ev.get("description", ""))[:600]
                 if ADULT_RX.search(blurb):
@@ -148,15 +168,21 @@ def scrape():
                 if org["source"] == "hughlane":
                     cat = "Camp" if re.search(r"camp", name, re.I) \
                         else "Workshop"
+                elif org["source"] == "dublinia":
+                    cat = "Workshop" if re.search(r"workshop|dig|craft",
+                                                  name, re.I) else "Museum"
                 else:
                     cat = "Library"
-                rows.append(event_row(
-                    iso=iso, time_str=t or parse_time_range(name),
-                    venue=venue, activity=name, cat=cat,
-                    ages=ages_m.group(1).replace(" ", "") if ages_m
-                    else "Children",
-                    status=availability(ev), book="Book online",
-                    cost=cost_from_offers(ev), link=url, area=org["area"],
-                    source=org["source"],
-                    summary=clean_summary(ev.get("description", ""))))
+                default_ages = "Families" if org["source"] == "dublinia" \
+                    else "Children"
+                for d_iso in dates:
+                    rows.append(event_row(
+                        iso=d_iso, time_str=t or parse_time_range(name),
+                        venue=venue, activity=name, cat=cat,
+                        ages=ages_m.group(1).replace(" ", "") if ages_m
+                        else default_ages,
+                        status=availability(ev), book="Book online",
+                        cost=cost_from_offers(ev), link=url,
+                        area=org["area"], source=org["source"],
+                        summary=clean_summary(ev.get("description", ""))))
     return rows

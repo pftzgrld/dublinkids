@@ -15,7 +15,7 @@ drop-in-only / hide booked-out), and clicks straight through to book.
 
 Run locally:
 ```
-cd projects/kids-activities
+cd projects/dublinkids
 python3 -m http.server 8000     # then open http://localhost:8000
 ```
 (Open via a server, not `file://` — fetch needs http.)
