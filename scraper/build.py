@@ -15,6 +15,7 @@ import src_dcc, src_dlr, src_nmi, src_sdcc, src_wicklow  # noqa: E402
 import src_imma, src_ark, src_dlr_clubs  # noqa: E402
 import src_sdcc_events, src_dcc_blog, src_fingal_events  # noqa: E402
 import src_dlr_events, src_heritage, src_epic, src_christchurch  # noqa: E402
+import src_heritageweek  # noqa: E402
 import status  # noqa: E402
 from common import today, age_tags  # noqa: E402
 
@@ -61,7 +62,8 @@ SOURCES = {"dcc": (src_dcc, ["dcc"]), "dlr": (src_dlr, ["dlr"]),
            "fingalevents": (src_fingal_events, ["fingalevents"]),
            "heritage": (src_heritage, ["heritage"]),
            "epic": (src_epic, ["epic"]),
-           "christchurch": (src_christchurch, ["christchurch"])}
+           "christchurch": (src_christchurch, ["christchurch"]),
+           "heritageweek": (src_heritageweek, ["heritageweek"])}
 
 
 def main():

@@ -155,28 +155,6 @@
   "src": "manual"
  },
  {
-  "date": "26 Jul",
-  "iso": "2026-07-26",
-  "day": "Sun",
-  "time": "16:00",
-  "venue": "IMMA",
-  "activity": "Explorer Family Art Workshops",
-  "cat": "Workshop",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "imma"
- },
- {
   "date": "27 Jul",
   "iso": "2026-07-27",
   "day": "Mon",
@@ -268,28 +246,6 @@
   "src": "manual"
  },
  {
-  "date": "29 Jul",
-  "iso": "2026-07-29",
-  "day": "Wed",
-  "time": "11:30–12:30",
-  "venue": "IMMA",
-  "activity": "Mornings at the Museum",
-  "cat": "Workshop",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://imma.ie/whats-on/mornings-at-the-museum-holidays/",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "imma"
- },
- {
   "date": "30 Jul",
   "iso": "2026-07-30",
   "day": "Thu",
@@ -311,28 +267,6 @@
   "dropin": false,
   "ok": false,
   "src": "manual"
- },
- {
-  "date": "30 Jul",
-  "iso": "2026-07-30",
-  "day": "Thu",
-  "time": "11:00",
-  "venue": "IMMA",
-  "activity": "Parent and Baby Gallery Tour",
-  "cat": "Workshop",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://imma.ticketsolve.com/ticketbooth/shows/873628871",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "imma"
  },
  {
   "time": "Any time",
@@ -380,28 +314,6 @@
   "src": "manual"
  },
  {
-  "date": "2 Aug",
-  "iso": "2026-08-02",
-  "day": "Sun",
-  "time": "16:00",
-  "venue": "IMMA",
-  "activity": "Explorer Family Art Workshops",
-  "cat": "Workshop",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "imma"
- },
- {
   "time": "Any time",
   "venue": "Airfield Estate, Dundrum",
   "activity": "Summer at Airfield — farm & garden kids activities",
@@ -422,28 +334,6 @@
   "iso": "2026-08-04",
   "date": "4 Aug",
   "day": "Tue"
- },
- {
-  "date": "5 Aug",
-  "iso": "2026-08-05",
-  "day": "Wed",
-  "time": "02:30–15:30",
-  "venue": "IMMA",
-  "activity": "Gelli Plate Monoprinting for Kids",
-  "cat": "Workshop",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://imma.ticketsolve.com/ticketbooth/shows/873635523",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "imma"
  },
  {
   "time": "Any time",
@@ -491,117 +381,6 @@
   "src": "manual"
  },
  {
-  "date": "9 Aug",
-  "iso": "2026-08-09",
-  "day": "Sun",
-  "time": "16:00",
-  "venue": "IMMA",
-  "activity": "Explorer Family Art Workshops",
-  "cat": "Workshop",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "imma"
- },
- {
-  "date": "10 Aug",
-  "iso": "2026-08-10",
-  "day": "Mon",
-  "time": "10:00–11:00",
-  "venue": "Ballywaltrim Library, Bray",
-  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052903)",
-  "area": "North Wicklow",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "wicklow"
- },
- {
-  "date": "11 Aug",
-  "iso": "2026-08-11",
-  "day": "Tue",
-  "time": "10:00–11:00",
-  "venue": "Ballywaltrim Library, Bray",
-  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052976)",
-  "area": "North Wicklow",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "wicklow"
- },
- {
-  "date": "11 Aug",
-  "iso": "2026-08-11",
-  "day": "Tue",
-  "time": "11:30–12:30",
-  "venue": "Ballywaltrim Library, Bray",
-  "activity": "Teen Crafting @ Ballywaltrim Library",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080211)",
-  "area": "North Wicklow",
-  "ageTags": [
-   "teen"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "wicklow"
- },
- {
-  "date": "11 Aug",
-  "iso": "2026-08-11",
-  "day": "Tue",
-  "time": "15:00–15:30",
-  "venue": "Bray Library",
-  "activity": "Afterschool Storytime",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055685)",
-  "area": "North Wicklow",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "wicklow"
- },
- {
   "time": "Any time",
   "venue": "Airfield Estate, Dundrum",
   "activity": "Summer at Airfield — farm & garden kids activities",
@@ -622,99 +401,6 @@
   "iso": "2026-08-11",
   "date": "11 Aug",
   "day": "Tue"
- },
- {
-  "date": "12 Aug",
-  "iso": "2026-08-12",
-  "day": "Wed",
-  "time": "10:00–12:00",
-  "venue": "Ballywaltrim Library, Bray",
-  "activity": "Teen Chess @ Ballywaltrim Library",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131080224)",
-  "area": "North Wicklow",
-  "ageTags": [
-   "teen"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "wicklow"
- },
- {
-  "date": "12 Aug",
-  "iso": "2026-08-12",
-  "day": "Wed",
-  "time": "15:00–15:30",
-  "venue": "Ballywaltrim Library, Bray",
-  "activity": "Teddy Bear Story Time at Ballywaltrim Library",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081692)",
-  "area": "North Wicklow",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "wicklow"
- },
- {
-  "date": "13 Aug",
-  "iso": "2026-08-13",
-  "day": "Thu",
-  "time": "10:00–11:00",
-  "venue": "Ballywaltrim Library, Bray",
-  "activity": "The Offline Club: Less scrolling, more making",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081709)",
-  "area": "North Wicklow",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "wicklow"
- },
- {
-  "date": "13 Aug",
-  "iso": "2026-08-13",
-  "day": "Thu",
-  "time": "15:00–15:45",
-  "venue": "Ballywaltrim Library, Bray",
-  "activity": "Arts and Crafts at Ballywaltrim Library",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(131081701)",
-  "area": "North Wicklow",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "wicklow"
  },
  {
   "time": "Any time",
@@ -739,26 +425,48 @@
   "day": "Thu"
  },
  {
-  "date": "16 Aug",
-  "iso": "2026-08-16",
-  "day": "Sun",
-  "time": "16:00",
-  "venue": "IMMA",
-  "activity": "Explorer Family Art Workshops",
-  "cat": "Workshop",
+  "date": "17 Aug",
+  "iso": "2026-08-17",
+  "day": "Mon",
+  "time": "09:00–17:00",
+  "venue": "Martello Tower Portrane",
+  "activity": "A Tour of Martello Tower Portrane",
+  "cat": "Museum",
   "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
-  "area": "Dublin City",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "€6",
+  "link": "https://www.heritageweek.ie/event-listings/a-tour-of-martello-tower-portrane-2",
+  "area": "Fingal",
   "ageTags": [
    "any"
   ],
-  "free": true,
-  "dropin": true,
+  "free": false,
+  "dropin": false,
   "ok": true,
-  "src": "imma"
+  "src": "heritageweek"
+ },
+ {
+  "date": "17 Aug",
+  "iso": "2026-08-17",
+  "day": "Mon",
+  "time": "10:00–11:00",
+  "venue": "Ballywaltrim Library, Bray",
+  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "See link",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052904)",
+  "area": "North Wicklow",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "17 Aug",
@@ -786,23 +494,23 @@
   "date": "17 Aug",
   "iso": "2026-08-17",
   "day": "Mon",
-  "time": "10:00–11:00",
-  "venue": "Ballywaltrim Library, Bray",
-  "activity": "Tummy Time at Ballywaltrim Library: Summer Times",
-  "cat": "Library",
-  "ages": "Children",
+  "time": "10:00–16:00",
+  "venue": "Swords Castle",
+  "activity": "Symbol of Hope Exhibition: Discover Cultural Unity",
+  "cat": "Show",
+  "ages": "Families",
   "status": "Available",
-  "book": "Contact branch",
-  "cost": "See link",
-  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33052904)",
-  "area": "North Wicklow",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/symbol-of-hope-exhibition-discover-cultural-unity",
+  "area": "Fingal",
   "ageTags": [
-   "under5"
+   "any"
   ],
-  "free": false,
+  "free": true,
   "dropin": false,
   "ok": true,
-  "src": "wicklow"
+  "src": "heritageweek"
  },
  {
   "date": "17 Aug",
@@ -896,6 +604,28 @@
   "date": "17 Aug",
   "iso": "2026-08-17",
   "day": "Mon",
+  "time": "10:30–12:00",
+  "venue": "Seamus Heaney: Listen Now Again exhibition centre",
+  "activity": "Chester Beatty Silkworm Families Drop-in: Harvest Knots",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/chester-beatty-silkworm-families-drop-in-harvest-knots-2",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "17 Aug",
+  "iso": "2026-08-17",
+  "day": "Mon",
   "time": "11:00–12:30",
   "venue": "Blanchardstown Library",
   "activity": "My Favourite Toy/ Game/ Book  Free Workshop for Children from 8 to 12 years",
@@ -915,6 +645,72 @@
   "dropin": false,
   "ok": false,
   "src": "fingal"
+ },
+ {
+  "date": "17 Aug",
+  "iso": "2026-08-17",
+  "day": "Mon",
+  "time": "11:00–12:30",
+  "venue": "Ardgillan Castle - Exhibition Room",
+  "activity": "Ogham Writing Workshop for Kids Ardgillan Castle",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://fareharbor.com/embeds/book/ardgillancastle/items/746977/calendar/2026/08/?flow=1246562&amp;full-items=yes&amp;g4=yes",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "17 Aug",
+  "iso": "2026-08-17",
+  "day": "Mon",
+  "time": "11:00–13:00",
+  "venue": "Saint Patrick's Cathedral, Deanery Mews Building",
+  "activity": "Family Workshop: Celtic Knot Art",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.stpatrickscathedral.ie/event/heritage-week-workshops-celtic-knot-art/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "17 Aug",
+  "iso": "2026-08-17",
+  "day": "Mon",
+  "time": "12:00–14:00",
+  "venue": "St. Andrew's Church, Mount Merrion Avenue, Blackrock",
+  "activity": "Tour of St. Andrew's Church, Blackrock",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/tour-of-st-andrews-church-blackrock",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "17 Aug",
@@ -961,6 +757,28 @@
   "dropin": false,
   "ok": false,
   "src": "sdcc"
+ },
+ {
+  "date": "17 Aug",
+  "iso": "2026-08-17",
+  "day": "Mon",
+  "time": "15:00–17:00",
+  "venue": "Monkstown Parish Church and Monkstown Schoolhouse",
+  "activity": "Self-Guided Tours of Monkstown Parish Church & Restored Georgian Schoolhouse",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/self-guided-tours-of-monkstown-parish-church-restored-georgian-schoolhouse",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "17 Aug",
@@ -1081,6 +899,28 @@
   "date": "18 Aug",
   "iso": "2026-08-18",
   "day": "Tue",
+  "time": "09:00–17:00",
+  "venue": "Martello Tower Portrane",
+  "activity": "A Tour of Martello Tower Portrane",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "€6",
+  "link": "https://www.heritageweek.ie/event-listings/a-tour-of-martello-tower-portrane-2",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
   "time": "10:00",
   "venue": "Finglas Library",
   "activity": "Baby Book Club",
@@ -1164,6 +1004,28 @@
   "dropin": true,
   "ok": true,
   "src": "heritage"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
+  "time": "10:00–16:00",
+  "venue": "Swords Castle",
+  "activity": "Symbol of Hope Exhibition: Discover Cultural Unity",
+  "cat": "Show",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/symbol-of-hope-exhibition-discover-cultural-unity",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "18 Aug",
@@ -1442,6 +1304,28 @@
   "date": "18 Aug",
   "iso": "2026-08-18",
   "day": "Tue",
+  "time": "12:00–14:00",
+  "venue": "St. Andrew's Church, Mount Merrion Avenue, Blackrock",
+  "activity": "Tour of St. Andrew's Church, Blackrock",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/tour-of-st-andrews-church-blackrock",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
   "time": "13:00–15:00",
   "venue": "Blanchardstown Library",
   "activity": "Make Your Mark: Iron-On Tees with Andrew Carson (Strictly 7-10 years old)",
@@ -1461,6 +1345,28 @@
   "dropin": false,
   "ok": false,
   "src": "fingal"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
+  "time": "13:30–15:00",
+  "venue": "Kevin Street Library",
+  "activity": "Chester Beatty Silkworm Workshop for Families: Eco Friendly Animals",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/chester-beatty-silkworm-families-drop-in-harvest-knots",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "18 Aug",
@@ -1536,6 +1442,51 @@
   "date": "18 Aug",
   "iso": "2026-08-18",
   "day": "Tue",
+  "time": "14:00–15:00",
+  "venue": "National Print Museum",
+  "activity": "Free Family Tour of the National Print Museum",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.nationalprintmuseum.ie/whats-on/family-friendly-tour/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
+  "time": "14:30–15:30",
+  "venue": "Ballymun Library",
+  "activity": "Stories From the National Folklore Collection Schools Collection",
+  "cat": "Library",
+  "ages": "8–12",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/stories-from-the-national-folklore-collection-schools-collection",
+  "area": "Dublin City",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
   "time": "15:00",
   "venue": "Ballyfermot Library",
   "activity": "Drop in Children's Board Games",
@@ -1577,6 +1528,28 @@
   "dropin": true,
   "ok": true,
   "src": "wicklow"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
+  "time": "15:00–17:00",
+  "venue": "Monkstown Parish Church and Monkstown Schoolhouse",
+  "activity": "Self-Guided Tours of Monkstown Parish Church & Restored Georgian Schoolhouse",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/self-guided-tours-of-monkstown-parish-church-restored-georgian-schoolhouse",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "18 Aug",
@@ -1720,6 +1693,28 @@
   "date": "18 Aug",
   "iso": "2026-08-18",
   "day": "Tue",
+  "time": "18:00–19:00",
+  "venue": "Tailors' Hall",
+  "activity": "Heritage Tour of Tailors' Hall in The Liberties Dublin — 18 August",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/1996973289867?aff=oddtdtcreator",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
   "time": "18:30–20:00",
   "venue": "Greystones Library",
   "activity": "National Heritage Week - Frances Browner and Friends",
@@ -1744,6 +1739,28 @@
   "date": "18 Aug",
   "iso": "2026-08-18",
   "day": "Tue",
+  "time": "19:30–20:30",
+  "venue": "Shandon Pitch and Putt",
+  "activity": "Phibsboro Urban Hedgerow Walk & Talk",
+  "cat": "Park",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/phibsboro-urban-hedgerow-walk",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "18 Aug",
+  "iso": "2026-08-18",
+  "day": "Tue",
   "time": "Any time",
   "venue": "National Gallery",
   "activity": "Atrium creative space — drop-in art-making",
@@ -1761,6 +1778,28 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
+  "time": "09:00–17:00",
+  "venue": "Martello Tower Portrane",
+  "activity": "A Tour of Martello Tower Portrane",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "€6",
+  "link": "https://www.heritageweek.ie/event-listings/a-tour-of-martello-tower-portrane-2",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "19 Aug",
@@ -1810,6 +1849,28 @@
   "date": "19 Aug",
   "iso": "2026-08-19",
   "day": "Wed",
+  "time": "10:00–16:00",
+  "venue": "Swords Castle",
+  "activity": "Symbol of Hope Exhibition: Discover Cultural Unity",
+  "cat": "Show",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/symbol-of-hope-exhibition-discover-cultural-unity",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
   "time": "10:00–17:00",
   "venue": "NMI Collins Barracks",
   "activity": "Dead Zoo Lab exhibition",
@@ -1854,6 +1915,28 @@
   "date": "19 Aug",
   "iso": "2026-08-19",
   "day": "Wed",
+  "time": "10:30–12:00",
+  "venue": "Seamus Heaney: Listen Now Again Exhibition Centre",
+  "activity": "Nature's Orchestra: Workshop for Families",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://chesterbeatty.ie/whats-on/silkworm-families-natures-orchestra/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
   "time": "11:00",
   "venue": "Cabra Library",
   "activity": "Manga & Comic Making Workshop",
@@ -1878,6 +1961,28 @@
   "date": "19 Aug",
   "iso": "2026-08-19",
   "day": "Wed",
+  "time": "11:00–11:30",
+  "venue": "NMI Collins Barracks",
+  "activity": "Heritage Week Family Tours at the Dead Zoo Lab",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/heritage-week-family-tours-at-the-dead-zoo-lab",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
   "time": "11:00–12:00",
   "venue": "Pearse Museum, Rathfarnham",
   "activity": "The Bumblebees of St. Enda’s Park: A Guided Walk",
@@ -1895,6 +2000,28 @@
   "dropin": false,
   "ok": true,
   "src": "heritage"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
+  "time": "11:00–12:00",
+  "venue": "Saint Patrick's Cathedral, Deanery Mews Building",
+  "activity": "Family Workshop: Children's Pop-Up Books",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.stpatrickscathedral.ie/event/heritage-week-workshops-pop-up-books-with-marshs-library/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "19 Aug",
@@ -1946,6 +2073,72 @@
   "date": "19 Aug",
   "iso": "2026-08-19",
   "day": "Wed",
+  "time": "12:00–14:00",
+  "venue": "St. Andrew's Church, Mount Merrion Avenue, Blackrock",
+  "activity": "Tour of St. Andrew's Church, Blackrock",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/tour-of-st-andrews-church-blackrock",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
+  "time": "13:00–16:00",
+  "venue": "Royal Irish Academy",
+  "activity": "Ink & Innovation: A Family-Friendly Printing Workshop",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/ink-innovation-a-family-friendly-printing-workshop",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
+  "time": "14:00–15:00",
+  "venue": "National Print Museum",
+  "activity": "Free Family Tour of the National Print Museum",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.nationalprintmuseum.ie/whats-on/family-friendly-tour/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
   "time": "14:00–16:00",
   "venue": "Blanchardstown Library",
   "activity": "Make Your Mark: Iron-On Tees with Andrew Carson (Strictly 13-17 years old)",
@@ -1965,6 +2158,28 @@
   "dropin": false,
   "ok": false,
   "src": "fingal"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
+  "time": "14:00–16:00",
+  "venue": "NMI Collins Barracks",
+  "activity": "Heritage Week Drop-ins at the Dead Zoo Lab",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/heritage-week-drop-ins-at-the-dead-zoo-lab",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "19 Aug",
@@ -2064,6 +2279,28 @@
   "date": "19 Aug",
   "iso": "2026-08-19",
   "day": "Wed",
+  "time": "15:00–17:00",
+  "venue": "Monkstown Parish Church and Monkstown Schoolhouse",
+  "activity": "Self-Guided Tours of Monkstown Parish Church & Restored Georgian Schoolhouse",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/self-guided-tours-of-monkstown-parish-church-restored-georgian-schoolhouse",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
   "time": "15:15",
   "venue": "Cabra Library",
   "activity": "Children's Storytime at Cabra Library",
@@ -2127,6 +2364,28 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "19 Aug",
+  "iso": "2026-08-19",
+  "day": "Wed",
+  "time": "16:00–17:00",
+  "venue": "Tailors' Hall",
+  "activity": "Heritage Tour of Tailors' Hall in The Liberties Dublin — 19 August",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/1996973356065?aff=oddtdtcreator",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "19 Aug",
@@ -2247,6 +2506,28 @@
   "date": "20 Aug",
   "iso": "2026-08-20",
   "day": "Thu",
+  "time": "09:00–17:00",
+  "venue": "Martello Tower Portrane",
+  "activity": "A Tour of Martello Tower Portrane",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "€6",
+  "link": "https://www.heritageweek.ie/event-listings/a-tour-of-martello-tower-portrane-2",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
   "time": "09:30–14:00",
   "venue": "Deansgrange Library",
   "activity": "Mythmakers with Dave Rudden",
@@ -2309,6 +2590,28 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
+  "time": "10:00–16:00",
+  "venue": "Swords Castle",
+  "activity": "Symbol of Hope Exhibition: Discover Cultural Unity",
+  "cat": "Show",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/symbol-of-hope-exhibition-discover-cultural-unity",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "20 Aug",
@@ -2468,6 +2771,117 @@
   "date": "20 Aug",
   "iso": "2026-08-20",
   "day": "Thu",
+  "time": "11:00–12:00",
+  "venue": "Christ Church Cathedral Welcome Desk",
+  "activity": "Family Monks Tour of Christ Church Cathedral",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://christchurchcathedral.ticketsolve.com/ticketbooth/shows",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
+  "time": "11:00–13:00",
+  "venue": "Saint Patrick's Cathedral, Deanery Mews Building",
+  "activity": "Family Workshop: Letter Illumination",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.stpatrickscathedral.ie/event/heritage-week-workshops-letter-illumination/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
+  "time": "11:00–13:00",
+  "venue": "NMI Collins Barracks",
+  "activity": "Heritage Week Drop-ins at the Dead Zoo Lab",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/heritage-week-drop-ins-at-the-dead-zoo-lab",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
+  "time": "12:00–14:00",
+  "venue": "St. Andrew's Church, Mount Merrion Avenue, Blackrock",
+  "activity": "Tour of St. Andrew's Church, Blackrock",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/tour-of-st-andrews-church-blackrock",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
+  "time": "12:45–14:45",
+  "venue": "Coolock Library",
+  "activity": "Chester Beatty Creative Lab for Teens: Star Sign Constellations",
+  "cat": "Library",
+  "ages": "12-17",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://chesterbeatty.ie/whats-on/creative-lab-for-teens-star-sign-constellations/",
+  "area": "Dublin City",
+  "ageTags": [
+   "9to12",
+   "teen"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
   "time": "13:00",
   "venue": "Rathmines Library",
   "activity": "Rathmines Toddlers at One",
@@ -2507,6 +2921,28 @@
   "dropin": true,
   "ok": true,
   "src": "nmi"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
+  "time": "14:00–16:00",
+  "venue": "NMI Archaeology, Kildare St",
+  "activity": "Forge and Rune! Viking Sword Craft Workshop",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/drop-in-forge-and-rune-viking-sword-craft-workshop",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "20 Aug",
@@ -2644,6 +3080,28 @@
   "dropin": false,
   "ok": true,
   "src": "wicklow"
+ },
+ {
+  "date": "20 Aug",
+  "iso": "2026-08-20",
+  "day": "Thu",
+  "time": "15:00–17:00",
+  "venue": "Monkstown Parish Church and Monkstown Schoolhouse",
+  "activity": "Self-Guided Tours of Monkstown Parish Church & Restored Georgian Schoolhouse",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/self-guided-tours-of-monkstown-parish-church-restored-georgian-schoolhouse",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "20 Aug",
@@ -2805,6 +3263,28 @@
   "date": "21 Aug",
   "iso": "2026-08-21",
   "day": "Fri",
+  "time": "09:00–17:00",
+  "venue": "Martello Tower Portrane",
+  "activity": "A Tour of Martello Tower Portrane",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "€6",
+  "link": "https://www.heritageweek.ie/event-listings/a-tour-of-martello-tower-portrane-2",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "21 Aug",
+  "iso": "2026-08-21",
+  "day": "Fri",
   "time": "10:00",
   "venue": "Ballyogan Library",
   "activity": "Baby and Toddler Group",
@@ -2844,6 +3324,28 @@
   "dropin": false,
   "ok": true,
   "src": "dlr"
+ },
+ {
+  "date": "21 Aug",
+  "iso": "2026-08-21",
+  "day": "Fri",
+  "time": "10:00–16:00",
+  "venue": "Swords Castle",
+  "activity": "Symbol of Hope Exhibition: Discover Cultural Unity",
+  "cat": "Show",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/symbol-of-hope-exhibition-discover-cultural-unity",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "21 Aug",
@@ -2959,6 +3461,51 @@
   "date": "21 Aug",
   "iso": "2026-08-21",
   "day": "Fri",
+  "time": "10:30–12:00",
+  "venue": "Coolock Library",
+  "activity": "Harvest Looms with the Chester Beatty: Workshop for Families",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://chesterbeatty.ie/whats-on/silkworm-families-harvest-looms/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "21 Aug",
+  "iso": "2026-08-21",
+  "day": "Fri",
+  "time": "11:00–12:30",
+  "venue": "Swords Library",
+  "activity": "Swords Castle Crafts with Francesca Caddedu",
+  "cat": "Library",
+  "ages": "7-12",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/swords-castle-crafts-with-francesca-caddedu",
+  "area": "Fingal",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "21 Aug",
+  "iso": "2026-08-21",
+  "day": "Fri",
   "time": "11:00–13:00",
   "venue": "Blanchardstown Library",
   "activity": "Creative Coding with Robots & AI with Ahmed (Ages 10-12)",
@@ -2976,6 +3523,28 @@
   "dropin": false,
   "ok": false,
   "src": "fingal"
+ },
+ {
+  "date": "21 Aug",
+  "iso": "2026-08-21",
+  "day": "Fri",
+  "time": "12:00–14:00",
+  "venue": "St. Andrew's Church, Mount Merrion Avenue, Blackrock",
+  "activity": "Tour of St. Andrew's Church, Blackrock",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/tour-of-st-andrews-church-blackrock",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "21 Aug",
@@ -3020,6 +3589,28 @@
   "dropin": false,
   "ok": false,
   "src": "christchurch"
+ },
+ {
+  "date": "21 Aug",
+  "iso": "2026-08-21",
+  "day": "Fri",
+  "time": "15:00–17:00",
+  "venue": "Monkstown Parish Church and Monkstown Schoolhouse",
+  "activity": "Self-Guided Tours of Monkstown Parish Church & Restored Georgian Schoolhouse",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/self-guided-tours-of-monkstown-parish-church-restored-georgian-schoolhouse",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "21 Aug",
@@ -3091,6 +3682,28 @@
   "date": "22 Aug",
   "iso": "2026-08-22",
   "day": "Sat",
+  "time": "09:00–17:00",
+  "venue": "Martello Tower Portrane",
+  "activity": "A Tour of Martello Tower Portrane",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "€6",
+  "link": "https://www.heritageweek.ie/event-listings/a-tour-of-martello-tower-portrane-2",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
   "time": "09:55",
   "venue": "Tallaght area",
   "activity": "Balgaddy Cinema Day",
@@ -3108,6 +3721,29 @@
   "dropin": true,
   "ok": true,
   "src": "sdccevents"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "10:00–12:00",
+  "venue": "Cabinteely Park Pond",
+  "activity": "Nature Safari - Celebrating Wild Child Day",
+  "cat": "Park",
+  "ages": "8+",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.com/e/nature-safari-celebrating-wild-child-day-tickets-1993996503218?aff=oddtdtcreator",
+  "area": "DLR",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "22 Aug",
@@ -3154,6 +3790,28 @@
   "dropin": false,
   "ok": true,
   "src": "fingal"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "10:00–16:00",
+  "venue": "Swords Castle",
+  "activity": "Symbol of Hope Exhibition: Discover Cultural Unity",
+  "cat": "Show",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/symbol-of-hope-exhibition-discover-cultural-unity",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "22 Aug",
@@ -3272,6 +3930,28 @@
   "date": "22 Aug",
   "iso": "2026-08-22",
   "day": "Sat",
+  "time": "11:00–11:30",
+  "venue": "NMI Collins Barracks",
+  "activity": "Heritage Week Family Tours at the Dead Zoo Lab",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/heritage-week-family-tours-at-the-dead-zoo-lab",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
   "time": "11:00–12:00",
   "venue": "Blanchardstown Library",
   "activity": "Musical Tots -Fun and music for 0-5year olds",
@@ -3340,6 +4020,51 @@
   "date": "22 Aug",
   "iso": "2026-08-22",
   "day": "Sat",
+  "time": "11:00–12:00",
+  "venue": "Kilmainham Gaol Museum",
+  "activity": "Children's Tour of Kilmainham Gaol",
+  "cat": "Museum",
+  "ages": "8-12",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://heritage-childrens-tour.eventbrite.ie",
+  "area": "Dublin City",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "11:00–12:30",
+  "venue": "Portmarnock",
+  "activity": "Fossil Walks",
+  "cat": "Park",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "See link",
+  "link": "https://naturetalesandtrails.ie/bookings/p/fossil-walk-30nov-we8pj-9tlxa",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
   "time": "11:00–13:00",
   "venue": "Blanchardstown Library",
   "activity": "Teaching Computers to Read: AI, Coding & Robotics with Ahmed (ages 10 - 12)",
@@ -3357,6 +4082,51 @@
   "dropin": false,
   "ok": true,
   "src": "fingal"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "11:00–13:00",
+  "venue": "Newbridge House",
+  "activity": "Curious Cabinets at Newbridge House!",
+  "cat": "Workshop",
+  "ages": "8-12",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://newbridgehouseandfarm.com/",
+  "area": "Fingal",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "11:00–14:00",
+  "venue": "UCD Classical Museum",
+  "activity": "Family Fun at the Museum",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/family-fun-at-the-museum",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "22 Aug",
@@ -3381,6 +4151,28 @@
   "dropin": false,
   "ok": true,
   "src": "dlr"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "11:30–13:45",
+  "venue": "Moontour",
+  "activity": "Family Harbour Heritage Tour le Moontour",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "See link",
+  "link": "https://www.eventbrite.ie/e/family-harbour-heritage-tour-le-moontour-tickets-1996881189392",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "22 Aug",
@@ -3457,6 +4249,50 @@
   "date": "22 Aug",
   "iso": "2026-08-22",
   "day": "Sat",
+  "time": "14:00–14:45",
+  "venue": "Tailors' Hall",
+  "activity": "Heritage Tour of Tailors' Hall in The Liberties Dublin — 22 August 2pm",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/1997450312655?aff=oddtdtcreator",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "14:00–16:00",
+  "venue": "NMI Collins Barracks",
+  "activity": "Heritage Week Drop-ins at the Dead Zoo Lab",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/heritage-week-drop-ins-at-the-dead-zoo-lab",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
   "time": "14:00–16:00",
   "venue": "National Print Museum",
   "activity": "'Come Fly with Me' Print Launch (talk + demo)",
@@ -3474,6 +4310,51 @@
   "dropin": false,
   "ok": true,
   "src": "manual"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "14:30–16:30",
+  "venue": "Irish Museum of Modern Art",
+  "activity": "\"A Celebration of the Camac\"",
+  "cat": "Show",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/national-heritage-week-celebratory-afternoon-a-celebration-of-the-camac-tickets-1997614959117",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "14:30–16:45",
+  "venue": "Moontour",
+  "activity": "Kids Harbour Heritage Tour le Moontour",
+  "cat": "Museum",
+  "ages": "10-14",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "See link",
+  "link": "https://www.eventbrite.ie/e/kids-harbour-heritage-tour-le-moontour-tickets-1996887861348",
+  "area": "DLR",
+  "ageTags": [
+   "9to12",
+   "teen"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "22 Aug",
@@ -3526,6 +4407,28 @@
   "date": "22 Aug",
   "iso": "2026-08-22",
   "day": "Sat",
+  "time": "15:00–17:00",
+  "venue": "Monkstown Parish Church and Monkstown Schoolhouse",
+  "activity": "Self-Guided Tours of Monkstown Parish Church & Restored Georgian Schoolhouse",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/self-guided-tours-of-monkstown-parish-church-restored-georgian-schoolhouse",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
   "time": "16:00",
   "venue": "IMMA",
   "activity": "Drop-in exhibition tour",
@@ -3543,6 +4446,28 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "22 Aug",
+  "iso": "2026-08-22",
+  "day": "Sat",
+  "time": "18:30–19:15",
+  "venue": "Saint Patrick's Cathedral, Dublin",
+  "activity": "Evening Recital: Peter and the Wolf",
+  "cat": "Show",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.stpatrickscathedral.ie/event/heritage-week-concerts-peter-the-wolf/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "22 Aug",
@@ -3611,6 +4536,50 @@
   "dropin": false,
   "ok": true,
   "src": "epic"
+ },
+ {
+  "date": "23 Aug",
+  "iso": "2026-08-23",
+  "day": "Sun",
+  "time": "09:00–17:00",
+  "venue": "Martello Tower Portrane",
+  "activity": "A Tour of Martello Tower Portrane",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "€6",
+  "link": "https://www.heritageweek.ie/event-listings/a-tour-of-martello-tower-portrane-2",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "23 Aug",
+  "iso": "2026-08-23",
+  "day": "Sun",
+  "time": "10:00–16:00",
+  "venue": "Glendalough Visitor Centre",
+  "activity": "Family Fun Heritage Day at Glendalough Visitor Centre OPW",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/family-fun-heritage-day-at-glendalough-visitor-centre-opw",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "23 Aug",
@@ -3705,6 +4674,51 @@
   "date": "23 Aug",
   "iso": "2026-08-23",
   "day": "Sun",
+  "time": "11:00–12:00",
+  "venue": "Kilmainham Gaol Museum",
+  "activity": "Children's Tour of Kilmainham Gaol",
+  "cat": "Museum",
+  "ages": "8-12",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://heritage-childrens-tour.eventbrite.ie",
+  "area": "Dublin City",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "23 Aug",
+  "iso": "2026-08-23",
+  "day": "Sun",
+  "time": "11:00–12:30",
+  "venue": "Santry river, beside Super Valu, Raheny",
+  "activity": "River Detectives",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/river-detectives",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "23 Aug",
+  "iso": "2026-08-23",
+  "day": "Sun",
   "time": "11:00–13:00 & 14:00–16:00",
   "venue": "NMI Collins Barracks",
   "activity": "Heritage Week Drop-ins at the Dead Zoo Lab",
@@ -3728,6 +4742,95 @@
   "date": "23 Aug",
   "iso": "2026-08-23",
   "day": "Sun",
+  "time": "11:00–16:00",
+  "venue": "Glendalough Visitor Centre",
+  "activity": "Big Dig at Glendalough",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/big-dig-at-glendalough",
+  "area": "North Wicklow",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "23 Aug",
+  "iso": "2026-08-23",
+  "day": "Sun",
+  "time": "11:30–13:45",
+  "venue": "Moontour",
+  "activity": "Family Harbour Heritage Tour le Moontour",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "See link",
+  "link": "https://www.eventbrite.ie/e/family-harbour-heritage-tour-le-moontour-tickets-1996885129176",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "23 Aug",
+  "iso": "2026-08-23",
+  "day": "Sun",
+  "time": "12:00–14:00",
+  "venue": "IFI",
+  "activity": "Into the West Screening: IFI Irish Film Archive Restoration",
+  "cat": "Show",
+  "ages": "8+",
+  "status": "Limited",
+  "book": "Book online",
+  "cost": "See link",
+  "link": "https://www.heritageweek.ie/event-listings/into-the-west-premiere-screening-of-restored-film",
+  "area": "Dublin City",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "23 Aug",
+  "iso": "2026-08-23",
+  "day": "Sun",
+  "time": "13:00–16:00",
+  "venue": "Swords Castle",
+  "activity": "Symbol of Hope Exhibition: Discover Cultural Unity",
+  "cat": "Show",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/symbol-of-hope-exhibition-discover-cultural-unity",
+  "area": "Fingal",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "23 Aug",
+  "iso": "2026-08-23",
+  "day": "Sun",
   "time": "14:00",
   "venue": "Clondalkin area",
   "activity": "Walk and Talk on the Camac River",
@@ -3745,6 +4848,50 @@
   "dropin": true,
   "ok": true,
   "src": "sdccevents"
+ },
+ {
+  "date": "23 Aug",
+  "iso": "2026-08-23",
+  "day": "Sun",
+  "time": "15:00–17:00",
+  "venue": "Monkstown Parish Church and Monkstown Schoolhouse",
+  "activity": "Self-Guided Tours of Monkstown Parish Church & Restored Georgian Schoolhouse",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/self-guided-tours-of-monkstown-parish-church-restored-georgian-schoolhouse",
+  "area": "DLR",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "heritageweek"
+ },
+ {
+  "date": "23 Aug",
+  "iso": "2026-08-23",
+  "day": "Sun",
+  "time": "15:30–16:30",
+  "venue": "St Audoen's Visitor Centre",
+  "activity": "Secret Mission Tour: An Interactive Children's Tour of St. Audoen's",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.heritageweek.ie/event-listings/secret-mission-tour-an-interactive-childrens-tour-of-st-audoens",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "heritageweek"
  },
  {
   "date": "23 Aug",
@@ -9131,6 +10278,28 @@
   "day": "Sun",
   "time": "16:00",
   "venue": "IMMA",
+  "activity": "Explorer Family Art Workshops",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "imma"
+ },
+ {
+  "date": "13 Sep",
+  "iso": "2026-09-13",
+  "day": "Sun",
+  "time": "16:00",
+  "venue": "IMMA",
   "activity": "Drop-in exhibition tour",
   "cat": "Museum",
   "ages": "All ages",
@@ -10623,6 +11792,28 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "20 Sep",
+  "iso": "2026-09-20",
+  "day": "Sun",
+  "time": "16:00",
+  "venue": "IMMA",
+  "activity": "Explorer Family Art Workshops",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "imma"
  },
  {
   "date": "20 Sep",
@@ -12243,6 +13434,28 @@
   "day": "Sun",
   "time": "16:00",
   "venue": "IMMA",
+  "activity": "Explorer Family Art Workshops",
+  "cat": "Workshop",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://imma.ie/whats-on/summer-at-imma-workshops/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "imma"
+ },
+ {
+  "date": "27 Sep",
+  "iso": "2026-09-27",
+  "day": "Sun",
+  "time": "16:00",
+  "venue": "IMMA",
   "activity": "Drop-in exhibition tour",
   "cat": "Museum",
   "ages": "All ages",
@@ -12568,6 +13781,29 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "29 Sep",
+  "iso": "2026-09-29",
+  "day": "Tue",
+  "time": "15:00–15:30",
+  "venue": "Bray Library",
+  "activity": "Afterschool Storytime",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://wicklow.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/EVSESENQ?QRY=IRN(33055692)",
+  "area": "North Wicklow",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "wicklow"
  },
  {
   "date": "29 Sep",
