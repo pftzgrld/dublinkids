@@ -2765,75 +2765,6 @@
   "src": "wicklow"
  },
  {
-  "date": "27 Oct",
-  "iso": "2026-10-27",
-  "day": "Tue",
-  "time": "09:45–12:15",
-  "venue": "dlr LexIcon",
-  "activity": "Cool Food School - Chocolate Apple Mummies",
-  "cat": "Park",
-  "ages": "5-12",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dlrcoco.ie/dlr-events/event/cool-food-school-chocolate-apple-mummies",
-  "area": "DLR",
-  "ageTags": [
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrevents"
- },
- {
-  "date": "27 Oct",
-  "iso": "2026-10-27",
-  "day": "Tue",
-  "time": "15:30",
-  "venue": "dlr LexIcon",
-  "activity": "Dress Up Halloween Storytime in English",
-  "cat": "Park",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.dlrcoco.ie/dlr-events/event/dress-halloween-storytime-english",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrevents"
- },
- {
-  "date": "28 Oct",
-  "iso": "2026-10-28",
-  "day": "Wed",
-  "time": "02:00 & 15:00",
-  "venue": "dlr LexIcon",
-  "activity": "Spooky VR Sessions",
-  "cat": "Park",
-  "ages": "7-12",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dlrcoco.ie/dlr-events/event/spooky-vr-sessions",
-  "area": "DLR",
-  "ageTags": [
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrevents"
- },
- {
   "date": "28 Oct",
   "iso": "2026-10-28",
   "day": "Wed",
@@ -2856,53 +2787,6 @@
   "src": "heritage"
  },
  {
-  "date": "29 Oct",
-  "iso": "2026-10-29",
-  "day": "Thu",
-  "time": "11:30",
-  "venue": "Shankill Library",
-  "activity": "Silly Skeletons",
-  "cat": "Library",
-  "ages": "4-7",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dlrcoco.ie/dlr-events/event/silly-skeletons",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrevents"
- },
- {
-  "date": "30 Oct",
-  "iso": "2026-10-30",
-  "day": "Fri",
-  "time": "14:00–14:00",
-  "venue": "Deansgrange Library",
-  "activity": "Sensory Sessions: Sensory Music with Mary O'Donnell from Music Generation",
-  "cat": "Show",
-  "ages": "4-12",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dlrcoco.ie/dlr-events/event/sensory-sessions-sensory-music-mary-odonnell-music-generation",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrevents"
- },
- {
   "date": "31 Oct",
   "iso": "2026-10-31",
   "day": "Sat",
@@ -2914,7 +2798,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-spanish-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-spanish-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -2924,30 +2808,6 @@
   "dropin": false,
   "ok": true,
   "src": "dcc"
- },
- {
-  "date": "31 Oct",
-  "iso": "2026-10-31",
-  "day": "Sat",
-  "time": "11:00",
-  "venue": "Shankill Library",
-  "activity": "Halloween Playtime",
-  "cat": "Library",
-  "ages": "4+",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dlrcoco.ie/dlr-events/event/halloween-playtime",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrevents"
  },
  {
   "date": "31 Oct",
@@ -2994,2117 +2854,6 @@
   "src": "fingalevents"
  },
  {
-  "date": "2 Nov",
-  "iso": "2026-11-02",
-  "day": "Mon",
-  "time": "10:30",
-  "venue": "Coolock Library",
-  "activity": "Coolock Toddler Group",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "2 Nov",
-  "iso": "2026-11-02",
-  "day": "Mon",
-  "time": "10:30–11:15",
-  "venue": "Shankill Library",
-  "activity": "Parent and Toddler Group in Shankill Library",
-  "cat": "Library",
-  "ages": "0-3",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
-  "area": "DLR",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "2 Nov",
-  "iso": "2026-11-02",
-  "day": "Mon",
-  "time": "10:30–11:30",
-  "venue": "Deansgrange Library",
-  "activity": "Baby and Carer Group in Deansgrange Library",
-  "cat": "Library",
-  "ages": "0-3",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
-  "area": "DLR",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "2 Nov",
-  "iso": "2026-11-02",
-  "day": "Mon",
-  "time": "12:30–13:00",
-  "venue": "Dundrum Library",
-  "activity": "Dundrum Baby and Toddler Book Club",
-  "cat": "Library",
-  "ages": "0-4",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://dlr.spydus.ie/cgi-bin/spydus.exe/RUNSQRY/WPAC/EVSESENQ?QRYTEXT=Dundrum%20Baby%20Book%20Club%20Event%20V20&SQRYIRN=%2031648814",
-  "area": "DLR",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "2 Nov",
-  "iso": "2026-11-02",
-  "day": "Mon",
-  "time": "15:00",
-  "venue": "Ballyogan Library",
-  "activity": "The Artful Brain dlr & Choir Singing with Hilda Chan and Mike Hanrahan",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/artful-brain-dlr-choir-singing-hilda-chan-and-mike-hanrahan-0",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "2 Nov",
-  "iso": "2026-11-02",
-  "day": "Mon",
-  "time": "18:00",
-  "venue": "Ballyogan Library",
-  "activity": "Dungeons & Dragons",
-  "cat": "Library",
-  "ages": "12+",
-  "status": "Waitlisted",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/gaming-clubs",
-  "area": "DLR",
-  "ageTags": [
-   "9to12",
-   "teen"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": false,
-  "src": "dlrclubs"
- },
- {
-  "date": "2 Nov",
-  "iso": "2026-11-02",
-  "day": "Mon",
-  "time": "Any time",
-  "venue": "National Gallery",
-  "activity": "Atrium creative space — drop-in art-making",
-  "cat": "Museum",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "10:00",
-  "venue": "Finglas Library",
-  "activity": "Baby Book Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "10:00",
-  "venue": "Terenure Library",
-  "activity": "Terenure Toddler Group",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/terenure-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "10:00–10:45",
-  "venue": "Ballyroan Library",
-  "activity": "Toddler Time",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://www.eventbrite.ie/e/toddler-time-tickets-2003968157705",
-  "area": "South Dublin",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "sdcc"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "10:00–17:00",
-  "venue": "NMI Collins Barracks",
-  "activity": "Dead Zoo Lab exhibition",
-  "cat": "Museum",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "10:30",
-  "venue": "Raheny Library",
-  "activity": "Raheny Library Toddler Group",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "10:30",
-  "venue": "Pearse Street Library",
-  "activity": "Pearse Street Library Toddler Group",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "10:30–11:30",
-  "venue": "Dolphin's Barn Library",
-  "activity": "Dolphin's Barn Toddler Time",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "14:00",
-  "venue": "Ballyogan Library",
-  "activity": "Sensory Sessions: Series of Early Years workshops with Music Generation dlr",
-  "cat": "Library",
-  "ages": "0-18",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/sensory-sessions-series-early-years-workshops-music-generation-dlr",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12",
-   "teen"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "15:00",
-  "venue": "Ballyfermot Library",
-  "activity": "Drop in Children's Board Games",
-  "cat": "Library",
-  "ages": "6+",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
-  "area": "Dublin City",
-  "ageTags": [
-   "5to8",
-   "9to12"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "15:30",
-  "venue": "Terenure Library",
-  "activity": "Lego Club",
-  "cat": "Library",
-  "ages": "6+",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/lego-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "5to8",
-   "9to12"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "15:30",
-  "venue": "Blackrock Library",
-  "activity": "Storytime in Blackrock Library",
-  "cat": "Library",
-  "ages": "3-6",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "15:30",
-  "venue": "Cabinteely Library",
-  "activity": "Storytime in Cabinteely Library",
-  "cat": "Library",
-  "ages": "3-6",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "15:30–16:00",
-  "venue": "dlr LexIcon",
-  "activity": "Storytime in dlr LexIcon",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "16:00",
-  "venue": "IMMA",
-  "activity": "Drop-in exhibition tour",
-  "cat": "Museum",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "20:00",
-  "venue": "Ballyogan Library",
-  "activity": "The Artful Brain dlr: Dance and Wellbeing - Dance workshop with Dr. Anusha Yasoda-Mohan and Mike Hanrahan",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/artful-brain-dlr-dance-and-wellbeing-dance-workshop-dr-anusha-yasoda",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "3 Nov",
-  "iso": "2026-11-03",
-  "day": "Tue",
-  "time": "Any time",
-  "venue": "National Gallery",
-  "activity": "Atrium creative space — drop-in art-making",
-  "cat": "Museum",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "10:00",
-  "venue": "Cabinteely Library",
-  "activity": "Cabinteely Parent and Toddler",
-  "cat": "Library",
-  "ages": "0-4",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
-  "area": "DLR",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "10:00–10:45",
-  "venue": "Ballymun Library",
-  "activity": "Ballymun Library Baby Book Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ballymun-library-baby-book-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "10:00–11:00",
-  "venue": "Inchicore Library",
-  "activity": "Inchicore Library Toddler Group",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/inchicore-library-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "10:00–17:00",
-  "venue": "NMI Collins Barracks",
-  "activity": "Dead Zoo Lab exhibition",
-  "cat": "Museum",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "10:30",
-  "venue": "Ballyfermot Library",
-  "activity": "Ballyfermot Library Toddler Group",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ballyfermot-library-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "10:30–00:30",
-  "venue": "Cabra Library",
-  "activity": "Cabra Toddler Time",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/cabra-toddler-time",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "10:30–11:30",
-  "venue": "Kevin Street Library",
-  "activity": "Kevin Street Library Parent and Toddler Group",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/kevin-street-library-parent-and-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "10:30–13:00",
-  "venue": "The Ark",
-  "activity": "Babies @ The Ark: Excitedly Resting",
-  "cat": "Show",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://ark.ie/events/view/excitedly-resting-installation-2-2",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "ark"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "11:00",
-  "venue": "Central Library",
-  "activity": "Central Library Toddler Group",
-  "cat": "Library",
-  "ages": "0-4",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/central-library-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "12:15–14:15",
-  "venue": "Ballyroan Library",
-  "activity": "AI: What is AI and How Does it Work",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://www.eventbrite.ie/e/ai-what-is-ai-and-how-does-it-work-tickets-1993542179323",
-  "area": "South Dublin",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "sdcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "14:00",
-  "venue": "Coolock Library",
-  "activity": "Family Movie Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://www.dublincity.ie/events/family-movie-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "14:30",
-  "venue": "Ballyfermot Library",
-  "activity": "Children's Storytime at Ballyfermot Library",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "14:30–16:00",
-  "venue": "Shankill Library",
-  "activity": "Junior Board Games",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/board-game-groups",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "15:00",
-  "venue": "Ballyfermot Library",
-  "activity": "Drop in Children's Arts and Crafts",
-  "cat": "Library",
-  "ages": "6+",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/drop-childrens-arts-and-crafts",
-  "area": "Dublin City",
-  "ageTags": [
-   "5to8",
-   "9to12"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "15:00–16:00",
-  "venue": "Ballyroan Library",
-  "activity": "Diwali Art Workshop with Lavanya for 5+ year olds",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://www.eventbrite.ie/e/diwali-art-workshop-with-lavanya-for-5-year-olds-tickets-2004010722016",
-  "area": "South Dublin",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "sdcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "15:15",
-  "venue": "Cabra Library",
-  "activity": "Children's Storytime at Cabra Library",
-  "cat": "Library",
-  "ages": "3-8",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "15:15",
-  "venue": "Raheny Library",
-  "activity": "Raheny Library Junior Book Club",
-  "cat": "Library",
-  "ages": "10-12",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/raheny-library-junior-book-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "9to12"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "15:30",
-  "venue": "Walkinstown Library",
-  "activity": "Junior Book Club",
-  "cat": "Library",
-  "ages": "8-12",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/junior-book-club-0",
-  "area": "Dublin City",
-  "ageTags": [
-   "5to8",
-   "9to12"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "16:00",
-  "venue": "Finglas Library",
-  "activity": "Library Events for Children",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/library-events-children",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "16:00",
-  "venue": "Raheny Library",
-  "activity": "Board Games",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/board-games",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "16:00",
-  "venue": "Ballyfermot Library",
-  "activity": "Junior Book Club at Ballyfermot Library",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/junior-book-club-ballyfermot-library",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "16:00",
-  "venue": "Pearse Street Library",
-  "activity": "Junior Book Club: Paperback Readers",
-  "cat": "Library",
-  "ages": "8-12",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/junior-book-club-paperback-readers",
-  "area": "Dublin City",
-  "ageTags": [
-   "5to8",
-   "9to12"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "16:00",
-  "venue": "Ballyfermot Library",
-  "activity": "Kid's Creative Writing Club in Ballyfermot Library",
-  "cat": "Library",
-  "ages": "10-14",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
-  "area": "Dublin City",
-  "ageTags": [
-   "9to12",
-   "teen"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "16:00",
-  "venue": "IMMA",
-  "activity": "Drop-in exhibition tour",
-  "cat": "Museum",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "18:00",
-  "venue": "Ballyogan Library",
-  "activity": "Dungeons & Dragons",
-  "cat": "Library",
-  "ages": "12+",
-  "status": "Waitlisted",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/gaming-clubs",
-  "area": "DLR",
-  "ageTags": [
-   "9to12",
-   "teen"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": false,
-  "src": "dlrclubs"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "18:00–19:45",
-  "venue": "Ballyogan Library",
-  "activity": "Quiet Evenings",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "18:30–19:30",
-  "venue": "Ballyroan Library",
-  "activity": "Harp Recital with Emma Benson",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://www.eventbrite.ie/e/harp-recital-with-emma-benson-tickets-2003972354257",
-  "area": "South Dublin",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "sdcc"
- },
- {
-  "date": "4 Nov",
-  "iso": "2026-11-04",
-  "day": "Wed",
-  "time": "Any time",
-  "venue": "National Gallery",
-  "activity": "Atrium creative space — drop-in art-making",
-  "cat": "Museum",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "10:00",
-  "venue": "Finglas Library",
-  "activity": "Finglas Library Toddler Book Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "10:00–17:00",
-  "venue": "NMI Collins Barracks",
-  "activity": "Dead Zoo Lab exhibition",
-  "cat": "Museum",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "10:30",
-  "venue": "Coolock Library",
-  "activity": "Coolock Toddler Group",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "10:30",
-  "venue": "Pembroke Library",
-  "activity": "Pembroke Toddler Group",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "10:30–12:00",
-  "venue": "Deansgrange Library",
-  "activity": "Irish Language Baby Group",
-  "cat": "Library",
-  "ages": "0-4",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
-  "area": "DLR",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "10:30–13:00",
-  "venue": "The Ark",
-  "activity": "Babies @ The Ark: Excitedly Resting",
-  "cat": "Show",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://ark.ie/events/view/excitedly-resting-installation-2-2",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "ark"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "11:00",
-  "venue": "Ringsend Library",
-  "activity": "Ringsend Library Toddler Group",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "13:00",
-  "venue": "Rathmines Library",
-  "activity": "Rathmines Toddlers at One",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "14:30–16:30",
-  "venue": "Deansgrange Library",
-  "activity": "Chess Drop-in",
-  "cat": "Library",
-  "ages": "14+",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/board-game-groups",
-  "area": "DLR",
-  "ageTags": [
-   "teen"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "15:00",
-  "venue": "Ballyogan Library",
-  "activity": "Storytime in Ballyogan Library",
-  "cat": "Library",
-  "ages": "3+",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "15:00",
-  "venue": "Deansgrange Library",
-  "activity": "Storytime In Deansgrange Library",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "15:00",
-  "venue": "Dundrum Library",
-  "activity": "Storytime at Dundrum Library",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "15:30",
-  "venue": "dlr LexIcon",
-  "activity": "Storytime as Gaeilge",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "15:30–16:30",
-  "venue": "Ringsend Library",
-  "activity": "Ringsend Library Lego Club",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "16:00",
-  "venue": "IMMA",
-  "activity": "Drop-in exhibition tour",
-  "cat": "Museum",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "Any time",
-  "venue": "National Gallery",
-  "activity": "Atrium creative space — drop-in art-making",
-  "cat": "Museum",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "5 Nov",
-  "iso": "2026-11-05",
-  "day": "Thu",
-  "time": "See link",
-  "venue": "dlr LexIcon",
-  "activity": "Toddler Time in dlr Lexicon Library",
-  "cat": "Library",
-  "ages": "0-4",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://www.tickettailor.com/events/dlrlibraries",
-  "area": "DLR",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "6 Nov",
-  "iso": "2026-11-06",
-  "day": "Fri",
-  "time": "10:00",
-  "venue": "Ballyogan Library",
-  "activity": "Baby and Toddler Group",
-  "cat": "Library",
-  "ages": "0-4",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
-  "area": "DLR",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "6 Nov",
-  "iso": "2026-11-06",
-  "day": "Fri",
-  "time": "10:00–12:00",
-  "venue": "Ballyogan Library",
-  "activity": "Baby and Toddler Group at Ballyogan Library",
-  "cat": "Library",
-  "ages": "0-4",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/baby-and-toddler-group-ballyogan-library",
-  "area": "DLR",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "6 Nov",
-  "iso": "2026-11-06",
-  "day": "Fri",
-  "time": "10:00–17:00",
-  "venue": "NMI Collins Barracks",
-  "activity": "Dead Zoo Lab exhibition",
-  "cat": "Museum",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "6 Nov",
-  "iso": "2026-11-06",
-  "day": "Fri",
-  "time": "10:30",
-  "venue": "Pearse Street Library",
-  "activity": "Pearse Street Library Toddler Group",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "6 Nov",
-  "iso": "2026-11-06",
-  "day": "Fri",
-  "time": "10:30–11:15",
-  "venue": "Dalkey Library",
-  "activity": "Toddler and Guardian Group",
-  "cat": "Library",
-  "ages": "1-3",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
-  "area": "DLR",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "6 Nov",
-  "iso": "2026-11-06",
-  "day": "Fri",
-  "time": "10:30–12:00",
-  "venue": "Blackrock Library",
-  "activity": "Parent and Toddler in Blackrock Library",
-  "cat": "Library",
-  "ages": "0-3",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
-  "area": "DLR",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "6 Nov",
-  "iso": "2026-11-06",
-  "day": "Fri",
-  "time": "10:30–13:00",
-  "venue": "The Ark",
-  "activity": "Babies @ The Ark: Excitedly Resting",
-  "cat": "Show",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://ark.ie/events/view/excitedly-resting-installation-2-2",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "ark"
- },
- {
-  "date": "6 Nov",
-  "iso": "2026-11-06",
-  "day": "Fri",
-  "time": "16:00",
-  "venue": "IMMA",
-  "activity": "Drop-in exhibition tour",
-  "cat": "Museum",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "6 Nov",
-  "iso": "2026-11-06",
-  "day": "Fri",
-  "time": "Any time",
-  "venue": "National Gallery",
-  "activity": "Atrium creative space — drop-in art-making",
-  "cat": "Museum",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "10:00–13:30",
-  "venue": "dlr LexIcon",
-  "activity": "Hugh Leonard: A Life in Words",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://www.tickettailor.com/events/dlrlibraries",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "10:00–16:00",
-  "venue": "Dolphin's Barn Library",
-  "activity": "Saturday Board Game Blitz",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/saturday-board-game-blitz",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "10:00–17:00",
-  "venue": "NMI Collins Barracks",
-  "activity": "Dead Zoo Lab exhibition",
-  "cat": "Museum",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "10:30",
-  "venue": "Central Library",
-  "activity": "Library Lego Club",
-  "cat": "Library",
-  "ages": "6-12",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "See link",
-  "link": "https://www.dublincity.ie/events/library-lego-club",
-  "area": "Dublin City",
-  "ageTags": [
-   "5to8",
-   "9to12"
-  ],
-  "free": false,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "10:30",
-  "venue": "Ballyfermot Library",
-  "activity": "Lego Free Play",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.dublincity.ie/events/lego-free-play",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "10:30–13:00",
-  "venue": "The Ark",
-  "activity": "Babies @ The Ark: Excitedly Resting",
-  "cat": "Show",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://ark.ie/events/view/excitedly-resting-installation-2-2",
-  "area": "Dublin City",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "ark"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "10:32",
-  "venue": "County Library",
-  "activity": "NATURE SQUARED exhibition",
-  "cat": "Library",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.sdcc.ie/en/events/popular-events/nature-squared-exhibition.html",
-  "area": "South Dublin",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "sdccevents"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "11:00–12:00",
-  "venue": "Dalkey Library",
-  "activity": "LEGO Challenge Club",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/lego-builder-clubs",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "12:00",
-  "venue": "Ballyogan Library",
-  "activity": "Junior Chess Club",
-  "cat": "Library",
-  "ages": "7+",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/board-game-groups",
-  "area": "DLR",
-  "ageTags": [
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "14:00–15:00",
-  "venue": "Ballyroan Library",
-  "activity": "Build and Create Family Challenge!",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://www.eventbrite.ie/e/build-and-create-family-challenge-tickets-2004070358390",
-  "area": "South Dublin",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "sdcc"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "15:00",
-  "venue": "Ballyogan Library",
-  "activity": "Top Trumps",
-  "cat": "Library",
-  "ages": "6+",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/board-game-groups",
-  "area": "DLR",
-  "ageTags": [
-   "5to8",
-   "9to12"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "dlrclubs"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "16:00",
-  "venue": "The Toy Library",
-  "activity": "The Toy Library Swap & Play, Terenure",
-  "cat": "Library",
-  "ages": "Families",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://www.eventbrite.ie/e/the-toy-library-swapplay-in-terenure-dublin-6w-tickets-2003770474429?dsrp_sid=54f8bbde-dc2e-43ec-944e-cb238e93eac3&dsrp_item_id=2003770474429&aff=ebdssbdestsearch",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "dcc"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "16:00",
-  "venue": "dlr LexIcon",
-  "activity": "Dublin Book Festival 2026",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Contact branch",
-  "cost": "See link",
-  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/dublin-book-festival-2026",
-  "area": "DLR",
-  "ageTags": [
-   "under5",
-   "5to8",
-   "9to12"
-  ],
-  "free": false,
-  "dropin": false,
-  "ok": true,
-  "src": "dlr"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "16:00",
-  "venue": "IMMA",
-  "activity": "Drop-in exhibition tour",
-  "cat": "Museum",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "7 Nov",
-  "iso": "2026-11-07",
-  "day": "Sat",
-  "time": "Any time",
-  "venue": "National Gallery",
-  "activity": "Atrium creative space — drop-in art-making",
-  "cat": "Museum",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "8 Nov",
-  "iso": "2026-11-08",
-  "day": "Sun",
-  "time": "16:00",
-  "venue": "IMMA",
-  "activity": "Drop-in exhibition tour",
-  "cat": "Museum",
-  "ages": "All ages",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
-  "date": "8 Nov",
-  "iso": "2026-11-08",
-  "day": "Sun",
-  "time": "Any time",
-  "venue": "National Gallery",
-  "activity": "Atrium creative space — drop-in art-making",
-  "cat": "Museum",
-  "ages": "Families",
-  "status": "No booking needed",
-  "book": "Drop-in",
-  "cost": "Free",
-  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
-  "area": "Dublin City",
-  "ageTags": [
-   "any"
-  ],
-  "free": true,
-  "dropin": true,
-  "ok": true,
-  "src": "recurring"
- },
- {
   "date": "9 Nov",
   "iso": "2026-11-09",
   "day": "Mon",
@@ -5116,7 +2865,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -5203,7 +2952,7 @@
   "ages": "Children",
   "status": "Available",
   "book": "Book online",
-  "cost": "Free",
+  "cost": "See link",
   "link": "https://www.eventbrite.ie/e/history-hub-legacy-centres-of-power-tickets-2004230426157",
   "area": "South Dublin",
   "ageTags": [
@@ -5211,7 +2960,7 @@
    "5to8",
    "9to12"
   ],
-  "free": true,
+  "free": false,
   "dropin": false,
   "ok": true,
   "src": "sdcc"
@@ -5262,28 +3011,6 @@
   "dropin": false,
   "ok": true,
   "src": "dlrclubs"
- },
- {
-  "date": "9 Nov",
-  "iso": "2026-11-09",
-  "day": "Mon",
-  "time": "16:30–17:30",
-  "venue": "Ballyroan Library",
-  "activity": "Sensory Explorers Play Session - November",
-  "cat": "Library",
-  "ages": "Children",
-  "status": "Available",
-  "book": "Book online",
-  "cost": "Free",
-  "link": "https://www.eventbrite.ie/e/sensory-explorers-play-session-november-tickets-2003971856769",
-  "area": "South Dublin",
-  "ageTags": [
-   "under5"
-  ],
-  "free": true,
-  "dropin": false,
-  "ok": true,
-  "src": "sdcc"
  },
  {
   "date": "9 Nov",
@@ -5342,7 +3069,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
+  "link": "http://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -5364,7 +3091,73 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/terenure-toddler-group",
+  "link": "http://www.dublincity.ie/events/terenure-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "10:00–10:45",
+  "venue": "Ballymun Library",
+  "activity": "Ballymun Library Baby Book Club",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/ballymun-library-baby-book-club",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "10:00–10:45",
+  "venue": "Ballyroan Library",
+  "activity": "Toddler Time",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/toddler-time-tickets-2004473806113",
+  "area": "South Dublin",
+  "ageTags": [
+   "under5"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "sdcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "10:00–11:00",
+  "venue": "Inchicore Library",
+  "activity": "Inchicore Library Toddler Group",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/inchicore-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -5401,6 +3194,28 @@
   "iso": "2026-11-10",
   "day": "Tue",
   "time": "10:30",
+  "venue": "Ballyfermot Library",
+  "activity": "Ballyfermot Library Toddler Group",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/ballyfermot-library-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "10:30",
   "venue": "Raheny Library",
   "activity": "Raheny Library Toddler Group",
   "cat": "Library",
@@ -5408,7 +3223,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -5430,13 +3245,57 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
   ],
   "free": false,
   "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "10:30–00:30",
+  "venue": "Cabra Library",
+  "activity": "Cabra Toddler Time",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/cabra-toddler-time",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "10:30–11:30",
+  "venue": "Kevin Street Library",
+  "activity": "Kevin Street Library Parent and Toddler Group",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/kevin-street-library-parent-and-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": false,
   "ok": true,
   "src": "dcc"
  },
@@ -5452,7 +3311,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
+  "link": "http://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -5461,6 +3320,52 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "11:00",
+  "venue": "Central Library",
+  "activity": "Central Library Toddler Group",
+  "cat": "Library",
+  "ages": "0-4",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/central-library-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "11:00–12:00",
+  "venue": "dlr LexIcon",
+  "activity": "Storms, Sunshine & Surprises with Joanna Donnelly",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/storms-sunshine-surprises-joanna-donnelly",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "10 Nov",
@@ -5490,6 +3395,28 @@
   "date": "10 Nov",
   "iso": "2026-11-10",
   "day": "Tue",
+  "time": "14:00",
+  "venue": "Coolock Library",
+  "activity": "Family Movie Club",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "http://www.dublincity.ie/events/family-movie-club",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
   "time": "15:00",
   "venue": "Ballyfermot Library",
   "activity": "Drop in Children's Board Games",
@@ -5498,7 +3425,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
+  "link": "http://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -5506,6 +3433,51 @@
   ],
   "free": false,
   "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "15:00",
+  "venue": "Ballyfermot Library",
+  "activity": "Drop in Children's Arts and Crafts",
+  "cat": "Library",
+  "ages": "6+",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/drop-childrens-arts-and-crafts",
+  "area": "Dublin City",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "15:15",
+  "venue": "Raheny Library",
+  "activity": "Raheny Library Junior Book Club",
+  "cat": "Library",
+  "ages": "10-12",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/raheny-library-junior-book-club",
+  "area": "Dublin City",
+  "ageTags": [
+   "9to12"
+  ],
+  "free": false,
+  "dropin": false,
   "ok": true,
   "src": "dcc"
  },
@@ -5521,7 +3493,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/lego-club",
+  "link": "http://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -5529,6 +3501,29 @@
   ],
   "free": false,
   "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "15:30",
+  "venue": "Walkinstown Library",
+  "activity": "Junior Book Club",
+  "cat": "Library",
+  "ages": "8-12",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/junior-book-club-0",
+  "area": "Dublin City",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": false,
+  "dropin": false,
   "ok": true,
   "src": "dcc"
  },
@@ -5606,6 +3601,50 @@
   "iso": "2026-11-10",
   "day": "Tue",
   "time": "16:00",
+  "venue": "Raheny Library",
+  "activity": "Board Games",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/board-games",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "16:00",
+  "venue": "Ballyfermot Library",
+  "activity": "Junior Book Club at Ballyfermot Library",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/junior-book-club-ballyfermot-library",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "16:00",
   "venue": "IMMA",
   "activity": "Drop-in exhibition tour",
   "cat": "Museum",
@@ -5627,15 +3666,82 @@
   "date": "10 Nov",
   "iso": "2026-11-10",
   "day": "Tue",
+  "time": "16:30–18:30",
+  "venue": "Blanchardstown Library",
+  "activity": "Create, Cut, Read: Digital Design for Teens (ages 13-17) with Andrew Carson",
+  "cat": "Library",
+  "ages": "13-17",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/create-cut-read-digital-design-for-teens-ages-13-17-with-andrew-carson-tickets-2004130050932",
+  "area": "Fingal",
+  "ageTags": [
+   "teen"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "fingal"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "18:30",
+  "venue": "Cabra Library",
+  "activity": "Library Events for Children",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/library-events-children",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
+  "time": "18:30",
+  "venue": "Pearse Street Library",
+  "activity": "Junior Book Club: Paperback Readers",
+  "cat": "Library",
+  "ages": "8-12",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/junior-book-club-paperback-readers",
+  "area": "Dublin City",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "10 Nov",
+  "iso": "2026-11-10",
+  "day": "Tue",
   "time": "18:30–19:30",
   "venue": "Ballyroan Library",
-  "activity": "Storms, Sunshine & Surprises",
+  "activity": "Storms, Sunshine & Surprises: a talk by meteorologist Joanna Donnelly",
   "cat": "Library",
   "ages": "Children",
   "status": "Available",
   "book": "Book online",
   "cost": "Free",
-  "link": "https://www.eventbrite.ie/e/storms-sunshine-surprises-tickets-2003701998616",
+  "link": "https://www.eventbrite.ie/e/storms-sunshine-surprises-a-talk-by-meteorologist-joanna-donnelly-tickets-2003701998616",
   "area": "South Dublin",
   "ageTags": [
    "under5",
@@ -5747,7 +3853,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -5794,7 +3900,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -5817,7 +3923,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "9to12",
@@ -5931,7 +4037,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
+  "link": "http://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -5968,14 +4074,14 @@
   "iso": "2026-11-12",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Coolock Library",
-  "activity": "Coolock Toddler Group",
+  "venue": "Pembroke Library",
+  "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -5990,14 +4096,14 @@
   "iso": "2026-11-12",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Pembroke Library",
-  "activity": "Pembroke Toddler Group",
+  "venue": "Coolock Library",
+  "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -6063,7 +4169,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -6085,7 +4191,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
+  "link": "http://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -6221,7 +4327,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
+  "link": "http://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -6326,6 +4432,30 @@
   "date": "12 Nov",
   "iso": "2026-11-12",
   "day": "Thu",
+  "time": "20:00",
+  "venue": "Ballyogan Library",
+  "activity": "Aran Knitting Taster Session with Mary Burnham",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/aran-knitting-taster-session-mary-burnham-0",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "12 Nov",
+  "iso": "2026-11-12",
+  "day": "Thu",
   "time": "Any time",
   "venue": "National Gallery",
   "activity": "Atrium creative space — drop-in art-making",
@@ -6421,7 +4551,7 @@
   "activity": "Magic Baby Tummy Time",
   "cat": "Library",
   "ages": "Children",
-  "status": "Available",
+  "status": "Sold out",
   "book": "Book online",
   "cost": "Free",
   "link": "https://www.eventbrite.ie/e/magic-baby-tummy-time-tickets-2004071327288",
@@ -6431,7 +4561,7 @@
   ],
   "free": true,
   "dropin": false,
-  "ok": true,
+  "ok": false,
   "src": "sdcc"
  },
  {
@@ -6490,7 +4620,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -6622,7 +4752,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/saturday-board-game-blitz",
+  "link": "http://www.dublincity.ie/events/saturday-board-game-blitz",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -6666,7 +4796,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/library-lego-club",
+  "link": "http://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -6689,7 +4819,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.dublincity.ie/events/lego-free-play",
+  "link": "http://www.dublincity.ie/events/lego-free-play",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -6725,6 +4855,52 @@
   "date": "14 Nov",
   "iso": "2026-11-14",
   "day": "Sat",
+  "time": "11:00–13:00",
+  "venue": "Ballyroan Library",
+  "activity": "Rathfarnham Remembers: Rathfarnham and the 1926 census",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Sold out",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/rathfarnham-remembers-rathfarnham-and-the-1926-census-tickets-2004277500959",
+  "area": "South Dublin",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "sdcc"
+ },
+ {
+  "date": "14 Nov",
+  "iso": "2026-11-14",
+  "day": "Sat",
+  "time": "11:00–13:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Bring Photon to life (for ages 10-12) with Ahmed",
+  "cat": "Library",
+  "ages": "10-12",
+  "status": "Sold out",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/bring-photon-to-life-for-ages-10-12-with-ahmed-tickets-2004131842290",
+  "area": "Fingal",
+  "ageTags": [
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "fingal"
+ },
+ {
+  "date": "14 Nov",
+  "iso": "2026-11-14",
+  "day": "Sat",
   "time": "11:00–15:00",
   "venue": "Ballyroan Library",
   "activity": "Vintage Sewing Machine Display",
@@ -6749,6 +4925,30 @@
   "date": "14 Nov",
   "iso": "2026-11-14",
   "day": "Sat",
+  "time": "11:30",
+  "venue": "dlr LexIcon",
+  "activity": "Once upon a Time series: Irish myths with Candlelit Tales",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dlrcoco.ie/dlr-events/event/once-upon-time-series-irish-myths-candlelit-tales",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "14 Nov",
+  "iso": "2026-11-14",
+  "day": "Sat",
   "time": "12:00",
   "venue": "Ballyogan Library",
   "activity": "Junior Chess Club",
@@ -6767,6 +4967,54 @@
   "dropin": true,
   "ok": true,
   "src": "dlrclubs"
+ },
+ {
+  "date": "14 Nov",
+  "iso": "2026-11-14",
+  "day": "Sat",
+  "time": "14:00–15:00",
+  "venue": "Ballyroan Library",
+  "activity": "David McCullagh: From Crown to Harp",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/david-mccullagh-from-crown-to-harp-tickets-2004277744688",
+  "area": "South Dublin",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "sdcc"
+ },
+ {
+  "date": "14 Nov",
+  "iso": "2026-11-14",
+  "day": "Sat",
+  "time": "14:00–16:00",
+  "venue": "Blanchardstown Library",
+  "activity": "Zine and Chat- a Creative Meetup for 17-19 year olds",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/zine-and-chat-a-creative-meetup-for-17-19-year-olds-tickets-2002150326523",
+  "area": "Fingal",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "fingal"
  },
  {
   "date": "14 Nov",
@@ -6902,6 +5150,54 @@
   "src": "recurring"
  },
  {
+  "date": "15 Nov",
+  "iso": "2026-11-15",
+  "day": "Sun",
+  "time": "See link",
+  "venue": "dlr LexIcon",
+  "activity": "Dublin History Festival: Echoes of the Past, a Trip Down Memory Lane",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/dublin-history-festival-echoes-past-trip-down-memory-lane",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "16 Nov",
+  "iso": "2026-11-16",
+  "day": "Mon",
+  "time": "10:00–12:00",
+  "venue": "dlr LexIcon",
+  "activity": "Christmas Wreath Making Workshop with Wicklow Willow",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/christmas-wreath-making-workshop-wicklow-willow",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
   "date": "16 Nov",
   "iso": "2026-11-16",
   "day": "Mon",
@@ -6913,7 +5209,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -6993,6 +5289,30 @@
   "date": "16 Nov",
   "iso": "2026-11-16",
   "day": "Mon",
+  "time": "15:30–16:30",
+  "venue": "Ballyroan Library",
+  "activity": "The Secrets of Superhero Science - Water Edition!",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/the-secrets-of-superhero-science-water-edition-tickets-2004073200892",
+  "area": "South Dublin",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "sdcc"
+ },
+ {
+  "date": "16 Nov",
+  "iso": "2026-11-16",
+  "day": "Mon",
   "time": "16:00",
   "venue": "Dundrum Library",
   "activity": "Acorn Book Club",
@@ -7012,6 +5332,30 @@
   "dropin": false,
   "ok": true,
   "src": "dlrclubs"
+ },
+ {
+  "date": "16 Nov",
+  "iso": "2026-11-16",
+  "day": "Mon",
+  "time": "17:30–20:00",
+  "venue": "Ballyroan Library",
+  "activity": "Classic Film at Ballyroan Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.eventbrite.ie/e/classic-film-at-ballyroan-library-tickets-2003356678755",
+  "area": "South Dublin",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "sdcc"
  },
  {
   "date": "16 Nov",
@@ -7070,7 +5414,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
+  "link": "http://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -7092,7 +5436,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/terenure-toddler-group",
+  "link": "http://www.dublincity.ie/events/terenure-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -7136,7 +5480,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -7158,7 +5502,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -7180,7 +5524,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
+  "link": "http://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -7202,7 +5546,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
+  "link": "http://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -7225,7 +5569,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/lego-club",
+  "link": "http://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -7331,6 +5675,30 @@
   "date": "17 Nov",
   "iso": "2026-11-17",
   "day": "Tue",
+  "time": "18:30",
+  "venue": "dlr LexIcon",
+  "activity": "Listen Together – Stories across Europe through Opera",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.tickettailor.com/events/dlrlibraries/2508761",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "17 Nov",
+  "iso": "2026-11-17",
+  "day": "Tue",
   "time": "20:00",
   "venue": "Ballyogan Library",
   "activity": "The Artful Brain dlr: Creative Writing and Wellbeing - Writing Your Own Story with Veronica Casey and Mike Hanrahan",
@@ -7429,7 +5797,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -7476,7 +5844,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -7499,7 +5867,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "9to12",
@@ -7613,7 +5981,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
+  "link": "http://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -7650,14 +6018,14 @@
   "iso": "2026-11-19",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Coolock Library",
-  "activity": "Coolock Toddler Group",
+  "venue": "Pembroke Library",
+  "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -7672,14 +6040,14 @@
   "iso": "2026-11-19",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Pembroke Library",
-  "activity": "Pembroke Toddler Group",
+  "venue": "Coolock Library",
+  "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -7723,7 +6091,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -7745,7 +6113,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
+  "link": "http://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -7881,7 +6249,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
+  "link": "http://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -7912,6 +6280,54 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "19 Nov",
+  "iso": "2026-11-19",
+  "day": "Thu",
+  "time": "17:00 & 19:30",
+  "venue": "Dalkey Library",
+  "activity": "Dalkey Library Christmas Jumper Swap",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dlrcoco.ie/dlr-events/event/dalkey-library-christmas-jumper-swap",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "19 Nov",
+  "iso": "2026-11-19",
+  "day": "Thu",
+  "time": "18:00",
+  "venue": "dlr LexIcon",
+  "activity": "Tender Whispers From the Heart – Lecture",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/tender-whispers-heart-lecture",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "19 Nov",
@@ -8035,7 +6451,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -8145,7 +6561,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/saturday-board-game-blitz",
+  "link": "http://www.dublincity.ie/events/saturday-board-game-blitz",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -8189,7 +6605,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/library-lego-club",
+  "link": "http://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -8212,7 +6628,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.dublincity.ie/events/lego-free-play",
+  "link": "http://www.dublincity.ie/events/lego-free-play",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -8221,6 +6637,30 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "21 Nov",
+  "iso": "2026-11-21",
+  "day": "Sat",
+  "time": "11:30 & 14:30",
+  "venue": "dlr LexIcon",
+  "activity": "Once upon a Time series: European tales with Niall de Burca",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/once-upon-time-series-european-tales-niall-de-burca",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "21 Nov",
@@ -8368,7 +6808,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -8449,6 +6889,30 @@
   "iso": "2026-11-23",
   "day": "Mon",
   "time": "18:00",
+  "venue": "Deansgrange Library",
+  "activity": "Foxrock Local History Society Talk: Tracing the former manor of Clonkeen across modern townlands",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/foxrock-local-history-society-talk-tracing-former-manor-clonkeen",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "23 Nov",
+  "iso": "2026-11-23",
+  "day": "Mon",
+  "time": "18:00",
   "venue": "Ballyogan Library",
   "activity": "Dungeons & Dragons",
   "cat": "Library",
@@ -8501,7 +6965,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
+  "link": "http://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -8523,7 +6987,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/terenure-toddler-group",
+  "link": "http://www.dublincity.ie/events/terenure-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -8567,7 +7031,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -8589,7 +7053,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -8611,7 +7075,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
+  "link": "http://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -8633,7 +7097,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
+  "link": "http://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -8656,7 +7120,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/lego-club",
+  "link": "http://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -8858,7 +7322,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -8905,7 +7369,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -8928,7 +7392,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "9to12",
@@ -9042,7 +7506,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
+  "link": "http://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -9079,14 +7543,14 @@
   "iso": "2026-11-26",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Coolock Library",
-  "activity": "Coolock Toddler Group",
+  "venue": "Pembroke Library",
+  "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -9101,14 +7565,14 @@
   "iso": "2026-11-26",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Pembroke Library",
-  "activity": "Pembroke Toddler Group",
+  "venue": "Coolock Library",
+  "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -9152,7 +7616,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -9174,7 +7638,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
+  "link": "http://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -9356,7 +7820,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
+  "link": "http://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -9510,7 +7974,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -9576,7 +8040,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "Free",
-  "link": "https://www.dublincity.ie/events/gulliver-300-childrens-bookbinding-workshop",
+  "link": "http://www.dublincity.ie/events/gulliver-300-childrens-bookbinding-workshop",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -9635,6 +8099,30 @@
   "date": "28 Nov",
   "iso": "2026-11-28",
   "day": "Sat",
+  "time": "10:00–12:30",
+  "venue": "dlr LexIcon",
+  "activity": "Tender Whispers From the Heart – Workshops",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/tender-whispers-heart-workshops",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "28 Nov",
+  "iso": "2026-11-28",
+  "day": "Sat",
   "time": "10:00–16:00",
   "venue": "Dolphin's Barn Library",
   "activity": "Saturday Board Game Blitz",
@@ -9643,7 +8131,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/saturday-board-game-blitz",
+  "link": "http://www.dublincity.ie/events/saturday-board-game-blitz",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -9709,7 +8197,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/library-lego-club",
+  "link": "http://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -9732,7 +8220,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.dublincity.ie/events/lego-free-play",
+  "link": "http://www.dublincity.ie/events/lego-free-play",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -9741,6 +8229,53 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "28 Nov",
+  "iso": "2026-11-28",
+  "day": "Sat",
+  "time": "10:30–12:00",
+  "venue": "Blackrock Library",
+  "activity": "Family Lego Time with Bricks4Kidz",
+  "cat": "Library",
+  "ages": "5-12",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dlrcoco.ie/dlr-events/event/family-lego-time-bricks4kidz",
+  "area": "DLR",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "28 Nov",
+  "iso": "2026-11-28",
+  "day": "Sat",
+  "time": "11:00–12:30",
+  "venue": "dlr LexIcon",
+  "activity": "The great Greek weave off: Arachne Vs Athena",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dlrcoco.ie/dlr-events/event/great-greek-weave-arachne-vs-athena",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "28 Nov",
@@ -9877,6 +8412,30 @@
   "src": "recurring"
  },
  {
+  "date": "29 Nov",
+  "iso": "2026-11-29",
+  "day": "Sun",
+  "time": "See link",
+  "venue": "dlr LexIcon",
+  "activity": "10,000 Years of Greek and Irish Maritime Tradition",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/10000-years-greek-and-irish-maritime-tradition",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
   "date": "30 Nov",
   "iso": "2026-11-30",
   "day": "Mon",
@@ -9888,7 +8447,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -9941,6 +8500,30 @@
   "dropin": false,
   "ok": true,
   "src": "dlrclubs"
+ },
+ {
+  "date": "30 Nov",
+  "iso": "2026-11-30",
+  "day": "Mon",
+  "time": "11:00–13:00",
+  "venue": "dlr LexIcon",
+  "activity": "Let’s Get Social dlr: Creative Health Network – Session 2",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.tickettailor.com/events/dlrlibraries",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "30 Nov",
@@ -10021,7 +8604,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
+  "link": "http://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -10043,7 +8626,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/terenure-toddler-group",
+  "link": "http://www.dublincity.ie/events/terenure-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -10087,7 +8670,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -10109,7 +8692,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -10131,7 +8714,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
+  "link": "http://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -10153,7 +8736,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
+  "link": "http://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -10176,7 +8759,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/lego-club",
+  "link": "http://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -10356,7 +8939,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -10403,7 +8986,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -10426,7 +9009,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "9to12",
@@ -10540,7 +9123,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
+  "link": "http://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -10577,14 +9160,14 @@
   "iso": "2026-12-03",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Coolock Library",
-  "activity": "Coolock Toddler Group",
+  "venue": "Pembroke Library",
+  "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -10599,14 +9182,14 @@
   "iso": "2026-12-03",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Pembroke Library",
-  "activity": "Pembroke Toddler Group",
+  "venue": "Coolock Library",
+  "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -10650,7 +9233,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -10672,7 +9255,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
+  "link": "http://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -10808,7 +9391,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
+  "link": "http://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -10839,6 +9422,30 @@
   "dropin": true,
   "ok": true,
   "src": "recurring"
+ },
+ {
+  "date": "3 Dec",
+  "iso": "2026-12-03",
+  "day": "Thu",
+  "time": "18:00–19:00",
+  "venue": "Ballyogan Library",
+  "activity": "Christmas Cards workshop with Kim Jenkinson",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/christmas-cards-workshop-kim-jenkinson",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
  },
  {
   "date": "3 Dec",
@@ -10962,7 +9569,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -11072,7 +9679,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/saturday-board-game-blitz",
+  "link": "http://www.dublincity.ie/events/saturday-board-game-blitz",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -11116,7 +9723,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/library-lego-club",
+  "link": "http://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -11139,7 +9746,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.dublincity.ie/events/lego-free-play",
+  "link": "http://www.dublincity.ie/events/lego-free-play",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -11343,7 +9950,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -11476,7 +10083,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
+  "link": "http://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -11498,7 +10105,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/terenure-toddler-group",
+  "link": "http://www.dublincity.ie/events/terenure-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -11542,7 +10149,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -11564,7 +10171,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -11586,7 +10193,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
+  "link": "http://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -11608,7 +10215,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
+  "link": "http://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -11631,7 +10238,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/lego-club",
+  "link": "http://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -11811,7 +10418,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -11858,7 +10465,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -11881,7 +10488,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "9to12",
@@ -11995,7 +10602,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
+  "link": "http://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -12032,14 +10639,14 @@
   "iso": "2026-12-10",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Coolock Library",
-  "activity": "Coolock Toddler Group",
+  "venue": "Pembroke Library",
+  "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -12054,14 +10661,14 @@
   "iso": "2026-12-10",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Pembroke Library",
-  "activity": "Pembroke Toddler Group",
+  "venue": "Coolock Library",
+  "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -12105,7 +10712,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -12127,7 +10734,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
+  "link": "http://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -12136,6 +10743,28 @@
   "dropin": true,
   "ok": true,
   "src": "dcc"
+ },
+ {
+  "date": "10 Dec",
+  "iso": "2026-12-10",
+  "day": "Thu",
+  "time": "14:30",
+  "venue": "NMI Archaeology, Kildare St",
+  "activity": "Crafted Encounters:  Christmas Wreath Making Workshop with The Garden",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "See link",
+  "link": "https://www.museum.ie/en-IE/Museums/Archaeology/Events/2026/Q4-Oct-Dec/Crafted-Encounters-Wreath-Making-Workshop-with-The",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "nmi"
  },
  {
   "date": "10 Dec",
@@ -12263,7 +10892,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
+  "link": "http://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -12440,7 +11069,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -12550,7 +11179,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/saturday-board-game-blitz",
+  "link": "http://www.dublincity.ie/events/saturday-board-game-blitz",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -12594,7 +11223,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/library-lego-club",
+  "link": "http://www.dublincity.ie/events/library-lego-club",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -12617,7 +11246,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "Free",
-  "link": "https://www.dublincity.ie/events/lego-free-play",
+  "link": "http://www.dublincity.ie/events/lego-free-play",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -12670,6 +11299,30 @@
   "dropin": false,
   "ok": false,
   "src": "christchurch"
+ },
+ {
+  "date": "12 Dec",
+  "iso": "2026-12-12",
+  "day": "Sat",
+  "time": "11:30 & 14:30",
+  "venue": "dlr LexIcon",
+  "activity": "Once upon a Time series: European tales with Niall de Burca",
+  "cat": "Park",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://www.dlrcoco.ie/dlr-events/event/once-upon-time-series-european-tales-niall-de-burca",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlrevents"
  },
  {
   "date": "12 Dec",
@@ -12839,7 +11492,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -12995,7 +11648,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/baby-book-club",
+  "link": "http://www.dublincity.ie/events/baby-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -13017,7 +11670,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/terenure-toddler-group",
+  "link": "http://www.dublincity.ie/events/terenure-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -13061,7 +11714,7 @@
   "status": "Available",
   "book": "Contact branch",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/raheny-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/raheny-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -13083,7 +11736,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -13105,7 +11758,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/dolphins-barn-toddler-time",
+  "link": "http://www.dublincity.ie/events/dolphins-barn-toddler-time",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -13127,7 +11780,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/drop-childrens-board-games",
+  "link": "http://www.dublincity.ie/events/drop-childrens-board-games",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -13150,7 +11803,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/lego-club",
+  "link": "http://www.dublincity.ie/events/lego-club",
   "area": "Dublin City",
   "ageTags": [
    "5to8",
@@ -13330,7 +11983,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -13377,7 +12030,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/childrens-storytime-cabra-library",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-cabra-library",
   "area": "Dublin City",
   "ageTags": [
    "under5",
@@ -13400,7 +12053,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
+  "link": "http://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
   "area": "Dublin City",
   "ageTags": [
    "9to12",
@@ -13514,7 +12167,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/finglas-library-toddler-book-club",
+  "link": "http://www.dublincity.ie/events/finglas-library-toddler-book-club",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -13551,14 +12204,14 @@
   "iso": "2026-12-17",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Coolock Library",
-  "activity": "Coolock Toddler Group",
+  "venue": "Pembroke Library",
+  "activity": "Pembroke Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/coolock-toddler-group",
+  "link": "http://www.dublincity.ie/events/pembroke-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -13573,14 +12226,14 @@
   "iso": "2026-12-17",
   "day": "Thu",
   "time": "10:30",
-  "venue": "Pembroke Library",
-  "activity": "Pembroke Toddler Group",
+  "venue": "Coolock Library",
+  "activity": "Coolock Toddler Group",
   "cat": "Library",
   "ages": "Families",
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/pembroke-toddler-group",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -13624,7 +12277,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-toddler-group",
+  "link": "http://www.dublincity.ie/events/ringsend-library-toddler-group",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -13646,7 +12299,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/rathmines-toddlers-one",
+  "link": "http://www.dublincity.ie/events/rathmines-toddlers-one",
   "area": "Dublin City",
   "ageTags": [
    "under5"
@@ -13782,7 +12435,7 @@
   "status": "No booking needed",
   "book": "Drop-in",
   "cost": "See link",
-  "link": "https://www.dublincity.ie/events/ringsend-library-lego-club",
+  "link": "http://www.dublincity.ie/events/ringsend-library-lego-club",
   "area": "Dublin City",
   "ageTags": [
    "any"
@@ -13839,6 +12492,1437 @@
  {
   "date": "17 Dec",
   "iso": "2026-12-17",
+  "day": "Thu",
+  "time": "See link",
+  "venue": "dlr LexIcon",
+  "activity": "Toddler Time in dlr Lexicon Library",
+  "cat": "Library",
+  "ages": "0-4",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://www.tickettailor.com/events/dlrlibraries",
+  "area": "DLR",
+  "ageTags": [
+   "under5"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "18 Dec",
+  "iso": "2026-12-18",
+  "day": "Fri",
+  "time": "10:00",
+  "venue": "Ballyogan Library",
+  "activity": "Baby and Toddler Group",
+  "cat": "Library",
+  "ages": "0-4",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
+  "area": "DLR",
+  "ageTags": [
+   "under5"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "18 Dec",
+  "iso": "2026-12-18",
+  "day": "Fri",
+  "time": "10:00–12:00",
+  "venue": "Ballyogan Library",
+  "activity": "Baby and Toddler Group at Ballyogan Library",
+  "cat": "Library",
+  "ages": "0-4",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/baby-and-toddler-group-ballyogan-library",
+  "area": "DLR",
+  "ageTags": [
+   "under5"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "18 Dec",
+  "iso": "2026-12-18",
+  "day": "Fri",
+  "time": "10:00–17:00",
+  "venue": "NMI Collins Barracks",
+  "activity": "Dead Zoo Lab exhibition",
+  "cat": "Museum",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "18 Dec",
+  "iso": "2026-12-18",
+  "day": "Fri",
+  "time": "10:30",
+  "venue": "Pearse Street Library",
+  "activity": "Pearse Street Library Toddler Group",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "18 Dec",
+  "iso": "2026-12-18",
+  "day": "Fri",
+  "time": "10:30–11:15",
+  "venue": "Dalkey Library",
+  "activity": "Toddler and Guardian Group",
+  "cat": "Library",
+  "ages": "1-3",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
+  "area": "DLR",
+  "ageTags": [
+   "under5"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "18 Dec",
+  "iso": "2026-12-18",
+  "day": "Fri",
+  "time": "10:30–12:00",
+  "venue": "Blackrock Library",
+  "activity": "Parent and Toddler in Blackrock Library",
+  "cat": "Library",
+  "ages": "0-3",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
+  "area": "DLR",
+  "ageTags": [
+   "under5"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "18 Dec",
+  "iso": "2026-12-18",
+  "day": "Fri",
+  "time": "16:00",
+  "venue": "IMMA",
+  "activity": "Drop-in exhibition tour",
+  "cat": "Museum",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "18 Dec",
+  "iso": "2026-12-18",
+  "day": "Fri",
+  "time": "Any time",
+  "venue": "National Gallery",
+  "activity": "Atrium creative space — drop-in art-making",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "19 Dec",
+  "iso": "2026-12-19",
+  "day": "Sat",
+  "time": "10:00–16:00",
+  "venue": "Dolphin's Barn Library",
+  "activity": "Saturday Board Game Blitz",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/saturday-board-game-blitz",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "19 Dec",
+  "iso": "2026-12-19",
+  "day": "Sat",
+  "time": "10:00–17:00",
+  "venue": "NMI Collins Barracks",
+  "activity": "Dead Zoo Lab exhibition",
+  "cat": "Museum",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "19 Dec",
+  "iso": "2026-12-19",
+  "day": "Sat",
+  "time": "10:30",
+  "venue": "Central Library",
+  "activity": "Library Lego Club",
+  "cat": "Library",
+  "ages": "6-12",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/library-lego-club",
+  "area": "Dublin City",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "19 Dec",
+  "iso": "2026-12-19",
+  "day": "Sat",
+  "time": "10:30",
+  "venue": "Ballyfermot Library",
+  "activity": "Lego Free Play",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "http://www.dublincity.ie/events/lego-free-play",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "19 Dec",
+  "iso": "2026-12-19",
+  "day": "Sat",
+  "time": "12:00",
+  "venue": "Ballyogan Library",
+  "activity": "Junior Chess Club",
+  "cat": "Library",
+  "ages": "7+",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/board-game-groups",
+  "area": "DLR",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "19 Dec",
+  "iso": "2026-12-19",
+  "day": "Sat",
+  "time": "15:00",
+  "venue": "Ballyogan Library",
+  "activity": "Top Trumps",
+  "cat": "Library",
+  "ages": "6+",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/board-game-groups",
+  "area": "DLR",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "19 Dec",
+  "iso": "2026-12-19",
+  "day": "Sat",
+  "time": "16:00",
+  "venue": "IMMA",
+  "activity": "Drop-in exhibition tour",
+  "cat": "Museum",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "19 Dec",
+  "iso": "2026-12-19",
+  "day": "Sat",
+  "time": "Any time",
+  "venue": "National Gallery",
+  "activity": "Atrium creative space — drop-in art-making",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "20 Dec",
+  "iso": "2026-12-20",
+  "day": "Sun",
+  "time": "16:00",
+  "venue": "IMMA",
+  "activity": "Drop-in exhibition tour",
+  "cat": "Museum",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "20 Dec",
+  "iso": "2026-12-20",
+  "day": "Sun",
+  "time": "Any time",
+  "venue": "National Gallery",
+  "activity": "Atrium creative space — drop-in art-making",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "21 Dec",
+  "iso": "2026-12-21",
+  "day": "Mon",
+  "time": "10:30",
+  "venue": "Coolock Library",
+  "activity": "Coolock Toddler Group",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "21 Dec",
+  "iso": "2026-12-21",
+  "day": "Mon",
+  "time": "10:30–11:15",
+  "venue": "Shankill Library",
+  "activity": "Parent and Toddler Group in Shankill Library",
+  "cat": "Library",
+  "ages": "0-3",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
+  "area": "DLR",
+  "ageTags": [
+   "under5"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "21 Dec",
+  "iso": "2026-12-21",
+  "day": "Mon",
+  "time": "10:30–11:30",
+  "venue": "Deansgrange Library",
+  "activity": "Baby and Carer Group in Deansgrange Library",
+  "cat": "Library",
+  "ages": "0-3",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
+  "area": "DLR",
+  "ageTags": [
+   "under5"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "21 Dec",
+  "iso": "2026-12-21",
+  "day": "Mon",
+  "time": "12:30–13:00",
+  "venue": "Dundrum Library",
+  "activity": "Dundrum Baby and Toddler Book Club",
+  "cat": "Library",
+  "ages": "0-4",
+  "status": "Available",
+  "book": "Book online",
+  "cost": "Free",
+  "link": "https://dlr.spydus.ie/cgi-bin/spydus.exe/RUNSQRY/WPAC/EVSESENQ?QRYTEXT=Dundrum%20Baby%20Book%20Club%20Event%20V20&SQRYIRN=%2031648814",
+  "area": "DLR",
+  "ageTags": [
+   "under5"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "21 Dec",
+  "iso": "2026-12-21",
+  "day": "Mon",
+  "time": "16:00",
+  "venue": "Dundrum Library",
+  "activity": "Acorn Book Club",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/junior-book-clubs",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "21 Dec",
+  "iso": "2026-12-21",
+  "day": "Mon",
+  "time": "18:00",
+  "venue": "Ballyogan Library",
+  "activity": "Dungeons & Dragons",
+  "cat": "Library",
+  "ages": "12+",
+  "status": "Waitlisted",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/gaming-clubs",
+  "area": "DLR",
+  "ageTags": [
+   "9to12",
+   "teen"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "21 Dec",
+  "iso": "2026-12-21",
+  "day": "Mon",
+  "time": "Any time",
+  "venue": "National Gallery",
+  "activity": "Atrium creative space — drop-in art-making",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "10:00",
+  "venue": "Finglas Library",
+  "activity": "Baby Book Club",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/baby-book-club",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "10:00",
+  "venue": "Terenure Library",
+  "activity": "Terenure Toddler Group",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/terenure-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "10:00–17:00",
+  "venue": "NMI Collins Barracks",
+  "activity": "Dead Zoo Lab exhibition",
+  "cat": "Museum",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "10:30",
+  "venue": "Raheny Library",
+  "activity": "Raheny Library Toddler Group",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/raheny-library-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": false,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "10:30",
+  "venue": "Pearse Street Library",
+  "activity": "Pearse Street Library Toddler Group",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/pearse-street-library-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "10:30–11:30",
+  "venue": "Dolphin's Barn Library",
+  "activity": "Dolphin's Barn Toddler Time",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/dolphins-barn-toddler-time",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "15:00",
+  "venue": "Ballyfermot Library",
+  "activity": "Drop in Children's Board Games",
+  "cat": "Library",
+  "ages": "6+",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/drop-childrens-board-games",
+  "area": "Dublin City",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "15:30",
+  "venue": "Terenure Library",
+  "activity": "Lego Club",
+  "cat": "Library",
+  "ages": "6+",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/lego-club",
+  "area": "Dublin City",
+  "ageTags": [
+   "5to8",
+   "9to12"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "15:30",
+  "venue": "Blackrock Library",
+  "activity": "Storytime in Blackrock Library",
+  "cat": "Library",
+  "ages": "3-6",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "15:30",
+  "venue": "Cabinteely Library",
+  "activity": "Storytime in Cabinteely Library",
+  "cat": "Library",
+  "ages": "3-6",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "15:30–16:00",
+  "venue": "dlr LexIcon",
+  "activity": "Storytime in dlr LexIcon",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "16:00",
+  "venue": "IMMA",
+  "activity": "Drop-in exhibition tour",
+  "cat": "Museum",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "22 Dec",
+  "iso": "2026-12-22",
+  "day": "Tue",
+  "time": "Any time",
+  "venue": "National Gallery",
+  "activity": "Atrium creative space — drop-in art-making",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "23 Dec",
+  "iso": "2026-12-23",
+  "day": "Wed",
+  "time": "10:00",
+  "venue": "Cabinteely Library",
+  "activity": "Cabinteely Parent and Toddler",
+  "cat": "Library",
+  "ages": "0-4",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
+  "area": "DLR",
+  "ageTags": [
+   "under5"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "23 Dec",
+  "iso": "2026-12-23",
+  "day": "Wed",
+  "time": "10:00–17:00",
+  "venue": "NMI Collins Barracks",
+  "activity": "Dead Zoo Lab exhibition",
+  "cat": "Museum",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "23 Dec",
+  "iso": "2026-12-23",
+  "day": "Wed",
+  "time": "14:30",
+  "venue": "Ballyfermot Library",
+  "activity": "Children's Storytime at Ballyfermot Library",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-ballyfermot-library",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "23 Dec",
+  "iso": "2026-12-23",
+  "day": "Wed",
+  "time": "14:30–16:00",
+  "venue": "Shankill Library",
+  "activity": "Junior Board Games",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/board-game-groups",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "23 Dec",
+  "iso": "2026-12-23",
+  "day": "Wed",
+  "time": "15:15",
+  "venue": "Cabra Library",
+  "activity": "Children's Storytime at Cabra Library",
+  "cat": "Library",
+  "ages": "3-8",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/childrens-storytime-cabra-library",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "23 Dec",
+  "iso": "2026-12-23",
+  "day": "Wed",
+  "time": "16:00",
+  "venue": "Ballyfermot Library",
+  "activity": "Kid's Creative Writing Club in Ballyfermot Library",
+  "cat": "Library",
+  "ages": "10-14",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/kids-creative-writing-club-ballyfermot-library",
+  "area": "Dublin City",
+  "ageTags": [
+   "9to12",
+   "teen"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "23 Dec",
+  "iso": "2026-12-23",
+  "day": "Wed",
+  "time": "16:00",
+  "venue": "IMMA",
+  "activity": "Drop-in exhibition tour",
+  "cat": "Museum",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "23 Dec",
+  "iso": "2026-12-23",
+  "day": "Wed",
+  "time": "18:00",
+  "venue": "Ballyogan Library",
+  "activity": "Dungeons & Dragons",
+  "cat": "Library",
+  "ages": "12+",
+  "status": "Waitlisted",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/gaming-clubs",
+  "area": "DLR",
+  "ageTags": [
+   "9to12",
+   "teen"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": false,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "23 Dec",
+  "iso": "2026-12-23",
+  "day": "Wed",
+  "time": "18:00–19:45",
+  "venue": "Ballyogan Library",
+  "activity": "Quiet Evenings",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "Available",
+  "book": "Contact branch",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/events-and-news/event-calendar/quiet-evenings",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8",
+   "9to12"
+  ],
+  "free": true,
+  "dropin": false,
+  "ok": true,
+  "src": "dlr"
+ },
+ {
+  "date": "23 Dec",
+  "iso": "2026-12-23",
+  "day": "Wed",
+  "time": "Any time",
+  "venue": "National Gallery",
+  "activity": "Atrium creative space — drop-in art-making",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "10:00",
+  "venue": "Finglas Library",
+  "activity": "Finglas Library Toddler Book Club",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/finglas-library-toddler-book-club",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "10:00–17:00",
+  "venue": "NMI Collins Barracks",
+  "activity": "Dead Zoo Lab exhibition",
+  "cat": "Museum",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Dead-Zoo-Lab",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "10:30",
+  "venue": "Pembroke Library",
+  "activity": "Pembroke Toddler Group",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/pembroke-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "10:30",
+  "venue": "Coolock Library",
+  "activity": "Coolock Toddler Group",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/coolock-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "10:30–12:00",
+  "venue": "Deansgrange Library",
+  "activity": "Irish Language Baby Group",
+  "cat": "Library",
+  "ages": "0-4",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/parent-and-toddler-groups",
+  "area": "DLR",
+  "ageTags": [
+   "under5"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "11:00",
+  "venue": "Ringsend Library",
+  "activity": "Ringsend Library Toddler Group",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/ringsend-library-toddler-group",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "13:00",
+  "venue": "Rathmines Library",
+  "activity": "Rathmines Toddlers at One",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/rathmines-toddlers-one",
+  "area": "Dublin City",
+  "ageTags": [
+   "under5"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "14:30–16:30",
+  "venue": "Deansgrange Library",
+  "activity": "Chess Drop-in",
+  "cat": "Library",
+  "ages": "14+",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/news-events/clubs-and-groups/board-game-groups",
+  "area": "DLR",
+  "ageTags": [
+   "teen"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "15:00",
+  "venue": "Ballyogan Library",
+  "activity": "Storytime in Ballyogan Library",
+  "cat": "Library",
+  "ages": "3+",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "15:00",
+  "venue": "Deansgrange Library",
+  "activity": "Storytime In Deansgrange Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "15:00",
+  "venue": "Dundrum Library",
+  "activity": "Storytime at Dundrum Library",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "15:30",
+  "venue": "dlr LexIcon",
+  "activity": "Storytime as Gaeilge",
+  "cat": "Library",
+  "ages": "Children",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://libraries.dlrcoco.ie/using-your-library/children-and-families/storytime",
+  "area": "DLR",
+  "ageTags": [
+   "under5",
+   "5to8"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "dlrclubs"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "15:30–16:30",
+  "venue": "Ringsend Library",
+  "activity": "Ringsend Library Lego Club",
+  "cat": "Library",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "See link",
+  "link": "http://www.dublincity.ie/events/ringsend-library-lego-club",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": false,
+  "dropin": true,
+  "ok": true,
+  "src": "dcc"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "16:00",
+  "venue": "IMMA",
+  "activity": "Drop-in exhibition tour",
+  "cat": "Museum",
+  "ages": "All ages",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://imma.ie/whats-on/summer-at-imma-tours-and-activities/",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
+  "day": "Thu",
+  "time": "Any time",
+  "venue": "National Gallery",
+  "activity": "Atrium creative space — drop-in art-making",
+  "cat": "Museum",
+  "ages": "Families",
+  "status": "No booking needed",
+  "book": "Drop-in",
+  "cost": "Free",
+  "link": "https://www.nationalgallery.ie/visit-us/visiting-kids",
+  "area": "Dublin City",
+  "ageTags": [
+   "any"
+  ],
+  "free": true,
+  "dropin": true,
+  "ok": true,
+  "src": "recurring"
+ },
+ {
+  "date": "24 Dec",
+  "iso": "2026-12-24",
   "day": "Thu",
   "time": "See link",
   "venue": "dlr LexIcon",
